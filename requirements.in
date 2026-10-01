@@ -1,0 +1,13 @@
+sentence-transformers
+torch
+chromadb
+beautifulsoup4
+lxml
+trafilatura
+groq
+streamlit
+python-dotenv
+pyyaml
+requests
+numpy
+pytest

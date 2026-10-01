@@ -1,0 +1,313 @@
+extraction_path: bs4_lxml_structural
+
+source_id: s1
+url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+page_title: HDFC Large Cap Fund Direct Growth
+blocks: 102
+extracted_chars: 10760
+
+[0] para |  | 32 chars
++7.64 % 3Y annualised -0.35 % 1D
+
+[1] para |  | 18 chars
+1M 6M 1Y 3Y 5Y All
+
+[2] para | Fund facts > NAV | 63 chars
+NAV: 30 Sep '26 ₹1,161.71 (HDFC Large Cap Fund - Direct Growth)
+
+[3] para | Fund facts > Min. for SIP | 55 chars
+Min. for SIP ₹100 (HDFC Large Cap Fund - Direct Growth)
+
+[4] para | Fund facts > Fund size (AUM) | 67 chars
+Fund size (AUM) ₹39,933.36 Cr (HDFC Large Cap Fund - Direct Growth)
+
+[5] para | Fund facts > Expense ratio | 57 chars
+Expense ratio 1.03% (HDFC Large Cap Fund - Direct Growth)
+
+[6] heading |  | 17 chars
+Return calculator
+
+[7] para | Return calculator | 20 chars
+Monthly SIP One time
+
+[8] para | Return calculator | 25 chars
+Monthly investment ₹5,000
+
+[9] heading | Return calculator | 79 chars
+Over the past | Total investment | Would've become | Historic returns | Returns
+
+[10] table_row | Return calculator | 121 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹57,320 |  | -4.47 %
+
+[11] table_row | Return calculator | 126 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,79,633 |  | -0.20 %
+
+[12] table_row | Return calculator | 128 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹3,57,712 |  | + 19.24 %
+
+[13] table_row | Return calculator | 130 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹10,86,022 |  | + 81.00 %
+
+[14] heading |  | 15 chars
+Holdings ( 50 )
+
+[15] heading | Holdings ( 50 ) | 36 chars
+Name | Sector | Instruments | Assets
+
+[16] table_row | Holdings ( 50 ) | 83 chars | row_group=1
+Name | Sector | Instruments | Assets | ICICI Bank Ltd | Financial | Equity | 10.05%
+
+[17] table_row | Holdings ( 50 ) | 81 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC Bank Ltd | Financial | Equity | 6.88%
+
+[18] table_row | Holdings ( 50 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharti Airtel Ltd | Technology | Equity | 6.23%
+
+[19] table_row | Holdings ( 50 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Kotak Mahindra Bank Ltd | Financial | Equity | 5.71%
+
+[20] table_row | Holdings ( 50 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Titan Company Ltd | Consumer Discretionary | Equity | 5.27%
+
+[21] table_row | Holdings ( 50 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Reliance Industries Ltd | Energy & Utilities | Equity | 4.78%
+
+[22] table_row | Holdings ( 50 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Torrent Pharmaceuticals Ltd | Healthcare | Equity | 4.04%
+
+[23] table_row | Holdings ( 50 ) | 81 chars | row_group=1
+Name | Sector | Instruments | Assets | Axis Bank Ltd | Financial | Equity | 3.49%
+
+[24] table_row | Holdings ( 50 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Finserv Ltd | Financial | Equity | 3.33%
+
+[25] table_row | Holdings ( 50 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Auto Ltd | Consumer Discretionary | Equity | 2.93%
+
+[26] table_row | Holdings ( 50 ) | 80 chars | row_group=1
+Name | Sector | Instruments | Assets | Infosys Ltd | Technology | Equity | 2.76%
+
+[27] table_row | Holdings ( 50 ) | 78 chars | row_group=1
+Name | Sector | Instruments | Assets | Lupin Ltd | Healthcare | Equity | 2.53%
+
+[28] table_row | Holdings ( 50 ) | 79 chars | row_group=1
+Name | Sector | Instruments | Assets | Zomato Ltd | Technology | Equity | 2.49%
+
+[29] table_row | Holdings ( 50 ) | 114 chars | row_group=1
+Name | Sector | Instruments | Assets | Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.44%
+
+[30] table_row | Holdings ( 50 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Ambuja Cements Ltd | Materials | Equity | 2.24%
+
+[31] table_row | Holdings ( 50 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Industrials | Equity | 2.02%
+
+[32] table_row | Holdings ( 50 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Larsen & Toubro Ltd | Industrials | Equity | 1.99%
+
+[33] table_row | Holdings ( 50 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | Interglobe Aviation Ltd | Industrials | Equity | 1.97%
+
+[34] table_row | Holdings ( 50 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | State Bank of India | Financial | Equity | 1.89%
+
+[35] table_row | Holdings ( 50 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | NTPC Ltd | Energy & Utilities | Equity | 1.83%
+
+[36] table_row | Holdings ( 50 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | United Spirits Ltd | Consumer Staples | Equity | 1.78%
+
+[37] table_row | Holdings ( 50 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Max Healthcare Institute Ltd | Healthcare | Equity | 1.72%
+
+[38] table_row | Holdings ( 50 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Mankind Pharma Ltd. | Healthcare | Equity | 1.66%
+
+[39] table_row | Holdings ( 50 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Indusind Bank Ltd | Financial | Equity | 1.57%
+
+[40] table_row | Holdings ( 50 ) | 114 chars | row_group=1
+Name | Sector | Instruments | Assets | ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.43%
+
+[41] table_row | Holdings ( 50 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.37%
+
+[42] table_row | Holdings ( 50 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Havells India Ltd | Consumer Discretionary | Equity | 1.35%
+
+[43] table_row | Holdings ( 50 ) | 101 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Consumer Products Ltd | Consumer Staples | Equity | 1.31%
+
+[44] table_row | Holdings ( 50 ) | 80 chars | row_group=1
+Name | Sector | Instruments | Assets | Swiggy Ltd. | Technology | Equity | 1.30%
+
+[45] table_row | Holdings ( 50 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.21%
+
+[46] table_row | Holdings ( 50 ) | 72 chars | row_group=1
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 1.04%
+
+[47] table_row | Holdings ( 50 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Eicher Motors Ltd | Consumer Discretionary | Equity | 1.03%
+
+[48] table_row | Holdings ( 50 ) | 75 chars | row_group=1
+Name | Sector | Instruments | Assets | SRF Ltd | Materials | Equity | 0.89%
+
+[49] table_row | Holdings ( 50 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 0.87%
+
+[50] table_row | Holdings ( 50 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | TATA CAPITAL LIMITED EQ | Financial | Equity | 0.75%
+
+[51] table_row | Holdings ( 50 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | SBI Funds Management Ltd | Financial | Equity | 0.67%
+
+[52] table_row | Holdings ( 50 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Dabur India Ltd | Consumer Staples | Equity | 0.66%
+
+[53] table_row | Holdings ( 50 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.65%
+
+[54] table_row | Holdings ( 50 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.62%
+
+[55] table_row | Holdings ( 50 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.48%
+
+[56] table_row | Holdings ( 50 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharat Electronics Ltd | Industrials | Equity | 0.47%
+
+[57] table_row | Holdings ( 50 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Life Insurance Corporation of India | Financial | Equity | 0.41%
+
+[58] table_row | Holdings ( 50 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Consumer Discretionary | Equity | 0.41%
+
+[59] table_row | Holdings ( 50 ) | 77 chars | row_group=1
+Name | Sector | Instruments | Assets | DLF Ltd | Real Estate | Equity | 0.37%
+
+[60] table_row | Holdings ( 50 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | Cummins India Ltd | Industrials | Equity | 0.29%
+
+[61] table_row | Holdings ( 50 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.28%
+
+[62] table_row | Holdings ( 50 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 0.24%
+
+[63] table_row | Holdings ( 50 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Hindalco Industries Ltd | Materials | Equity | 0.23%
+
+[64] table_row | Holdings ( 50 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | SBI Life Insurance Company Ltd | Financial | Equity | 0.17%
+
+[65] table_row | Holdings ( 50 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Net Payables | Unspecified | Net Payables | -0.10%
+
+[66] para | Holdings ( 50 ) | 7 chars
+See All
+
+[67] heading | Holdings ( 50 ) | 19 chars
+Minimum investments
+
+[68] para | Holdings ( 50 ) > Minimum investments | 75 chars
+Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+
+[69] heading | Holdings ( 50 ) | 20 chars
+Returns and rankings
+
+[70] para | Holdings ( 50 ) > Returns and rankings | 35 chars
+Annualised returns Absolute returns
+
+[71] heading | Holdings ( 50 ) > Returns and rankings | 26 chars
+Name | 3Y | 5Y | 10Y | All
+
+[72] table_row | Holdings ( 50 ) > Returns and rankings | 75 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Fund returns | +7.6% | +9.7% | +12.0% | +12.5%
+
+[73] table_row | Holdings ( 50 ) > Returns and rankings | 101 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Category average ( Equity Large Cap ) | +10.3% | +8.7% | +11.9% | +12.7%
+
+[74] table_row | Holdings ( 50 ) > Returns and rankings | 74 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Rank ( Equity Large Cap ) | 45 | 21 | 14 | --
+
+[75] heading | Holdings ( 50 ) | 29 chars
+Exit load, stamp duty and tax
+
+[76] para | Holdings ( 50 ) > Exit load, stamp duty and tax | 41 chars
+Exit load of 1% if redeemed within 1 year
+
+[77] heading | Holdings ( 50 ) > Exit load, stamp duty and tax | 54 chars
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+
+[78] para | Holdings ( 50 ) > Exit load, stamp duty and tax > Stamp duty on investment: 0.005% (from July 1st, 2020) | 18 chars
+from July 1st 2020
+
+[79] heading | Holdings ( 50 ) > Exit load, stamp duty and tax | 15 chars
+Tax implication
+
+[80] para | Holdings ( 50 ) > Exit load, stamp duty and tax > Tax implication | 157 chars
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+[81] para | Holdings ( 50 ) > Exit load, stamp duty and tax > Tax implication | 15 chars
+Check past data
+
+[82] heading | Holdings ( 50 ) | 21 chars
+Compare similar funds
+
+[83] heading | Holdings ( 50 ) > Compare similar funds | 33 chars
+ | Name | 1Y | 3Y | Fund Size(Cr)
+
+[84] table_row | Holdings ( 50 ) > Compare similar funds | 111 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Invesco India Large Cap Fund Direct Growth | +1.44% | +12.92% | 2,020.76
+
+[85] table_row | Holdings ( 50 ) > Compare similar funds | 105 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Bandhan Large Cap Fund Direct Growth | -0.75% | +11.77% | 2,179.99
+
+[86] table_row | Holdings ( 50 ) > Compare similar funds | 110 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Nippon India Large Cap Fund Direct Growth | -5.61% | +9.76% | 54,133.66
+
+[87] table_row | Holdings ( 50 ) > Compare similar funds | 114 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | ICICI Prudential Large Cap Fund Direct Growth | -6.17% | +9.51% | 80,206.20
+
+[88] table_row | Holdings ( 50 ) > Compare similar funds | 102 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | HDFC Large Cap Fund Direct Growth | -4.47% | +7.64% | 39,933.36
+
+[89] table_row | Holdings ( 50 ) > Compare similar funds | 43 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) | Compare
+
+[90] heading | Holdings ( 50 ) | 15 chars
+Fund management
+
+[91] heading | Holdings ( 50 ) | 47 chars
+RB Rahul Baijal Jul 2022 - Present View details
+
+[92] para | Holdings ( 50 ) > RB Rahul Baijal Jul 2022 - Present View details | 448 chars
+Education Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering Experience Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank. Also manages these schemes HDFC Large Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Defence Fund Direct Growth
+
+[93] heading | Holdings ( 50 ) | 48 chars
+DM Dhruv Muchhal Jun 2023 - Present View details
+
+[94] para | Holdings ( 50 ) > DM Dhruv Muchhal Jun 2023 - Present View details | 1899 chars
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+
+[95] heading | Holdings ( 50 ) | 39 chars
+About HDFC Large Cap Fund Direct Growth
+
+[96] para | Holdings ( 50 ) > About HDFC Large Cap Fund Direct Growth | 541 chars
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹1,161.71. The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year ;
+
+[97] heading | Holdings ( 50 ) > About HDFC Large Cap Fund Direct Growth | 20 chars
+Investment Objective
+
+[98] para | Holdings ( 50 ) > About HDFC Large Cap Fund Direct Growth > Investment Objective | 116 chars
+The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
+
+[99] para | Holdings ( 50 ) > About HDFC Large Cap Fund Direct Growth > Investment Objective | 76 chars
+Fund benchmark NIFTY 100 Total Return Index Scheme Information Document(SID)
+
+[100] heading | Holdings ( 50 ) | 10 chars
+Fund house
+
+[101] para | Holdings ( 50 ) > Fund house | 480 chars
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian HDFC Bank Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,

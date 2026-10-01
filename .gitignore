@@ -1,0 +1,9 @@
+.env
+data/raw/
+data/chroma/
+data/cache/
+data/models/
+__pycache__/
+*.log
+.venv/
+.pytest_cache/

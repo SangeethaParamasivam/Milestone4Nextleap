@@ -1,0 +1,424 @@
+extraction_path: bs4_lxml_structural
+
+source_id: s4
+url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+page_title: HDFC Small Cap Fund Direct Growth
+blocks: 139
+extracted_chars: 14331
+
+[0] para |  | 32 chars
++9.98 % 3Y annualised +0.21 % 1D
+
+[1] para |  | 18 chars
+1M 6M 1Y 3Y 5Y All
+
+[2] para | Fund facts > NAV | 61 chars
+NAV: 30 Sep '26 ₹156.27 (HDFC Small Cap Fund - Direct Growth)
+
+[3] para | Fund facts > Min. for SIP | 55 chars
+Min. for SIP ₹100 (HDFC Small Cap Fund - Direct Growth)
+
+[4] para | Fund facts > Fund size (AUM) | 67 chars
+Fund size (AUM) ₹41,890.86 Cr (HDFC Small Cap Fund - Direct Growth)
+
+[5] para | Fund facts > Expense ratio | 57 chars
+Expense ratio 0.78% (HDFC Small Cap Fund - Direct Growth)
+
+[6] heading |  | 17 chars
+Return calculator
+
+[7] para | Return calculator | 20 chars
+Monthly SIP One time
+
+[8] para | Return calculator | 25 chars
+Monthly investment ₹5,000
+
+[9] heading | Return calculator | 79 chars
+Over the past | Total investment | Would've become | Historic returns | Returns
+
+[10] table_row | Return calculator | 122 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹60,244 |  | + 0.41 %
+
+[11] table_row | Return calculator | 127 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,90,924 |  | + 6.07 %
+
+[12] table_row | Return calculator | 128 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹4,05,295 |  | + 35.10 %
+
+[13] table_row | Return calculator | 131 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹14,92,143 |  | + 148.69 %
+
+[14] heading |  | 15 chars
+Holdings ( 87 )
+
+[15] heading | Holdings ( 87 ) | 36 chars
+Name | Sector | Instruments | Assets
+
+[16] table_row | Holdings ( 87 ) | 73 chars | row_group=1
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 10.25%
+
+[17] table_row | Holdings ( 87 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | Firstsource Solutions Ltd | Industrials | Equity | 3.71%
+
+[18] table_row | Holdings ( 87 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Aster DM Healthcare Ltd | Healthcare | Equity | 3.56%
+
+[19] table_row | Holdings ( 87 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Gabriel India Ltd | Consumer Discretionary | Equity | 3.25%
+
+[20] table_row | Holdings ( 87 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | eClerx Services Ltd | Technology | Equity | 3.09%
+
+[21] table_row | Holdings ( 87 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | Bank Of Baroda | Financial | Equity | 2.67%
+
+[22] table_row | Holdings ( 87 ) | 79 chars | row_group=1
+Name | Sector | Instruments | Assets | Indian Bank | Financial | Equity | 2.08%
+
+[23] table_row | Holdings ( 87 ) | 110 chars | row_group=1
+Name | Sector | Instruments | Assets | Krishna Institute Of Medical Sciences Ltd | Healthcare | Equity | 2.01%
+
+[24] table_row | Holdings ( 87 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Eris Lifesciences Ltd | Healthcare | Equity | 2.00%
+
+[25] table_row | Holdings ( 87 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Apar Industries Ltd | Diversified | Equity | 1.90%
+
+[26] table_row | Holdings ( 87 ) | 108 chars | row_group=1
+Name | Sector | Instruments | Assets | Pearl Global Industries Ltd | Consumer Discretionary | Equity | 1.77%
+
+[27] table_row | Holdings ( 87 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | The Federal Bank Ltd | Financial | Equity | 1.77%
+
+[28] table_row | Holdings ( 87 ) | 101 chars | row_group=1
+Name | Sector | Instruments | Assets | Sudarshan Chemical Industries Ltd | Materials | Equity | 1.75%
+
+[29] table_row | Holdings ( 87 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Home First Finance Company India Ltd | Financial | Equity | 1.69%
+
+[30] table_row | Holdings ( 87 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Vijaya Diagnostic Centre Ltd | Healthcare | Equity | 1.67%
+
+[31] table_row | Holdings ( 87 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | PVR Ltd | Consumer Discretionary | Equity | 1.66%
+
+[32] table_row | Holdings ( 87 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.63%
+
+[33] table_row | Holdings ( 87 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Kalpataru Power Transmission Ltd | Industrials | Equity | 1.55%
+
+[34] table_row | Holdings ( 87 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | City Union Bank Ltd | Financial | Equity | 1.46%
+
+[35] table_row | Holdings ( 87 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Suprajit Engineering Ltd | Consumer Discretionary | Equity | 1.42%
+
+[36] table_row | Holdings ( 87 ) | 115 chars | row_group=1
+Name | Sector | Instruments | Assets | The Great Eastern Shipping Company Ltd | Energy & Utilities | Equity | 1.41%
+
+[37] table_row | Holdings ( 87 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Sonata Software Ltd | Technology | Equity | 1.40%
+
+[38] table_row | Holdings ( 87 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | Power Mech Projects Ltd | Industrials | Equity | 1.32%
+
+[39] table_row | Holdings ( 87 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Akzo Nobel India Ltd | Materials | Equity | 1.32%
+
+[40] table_row | Holdings ( 87 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Timken India Ltd | Industrials | Equity | 1.31%
+
+[41] table_row | Holdings ( 87 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Vardhman Textiles Ltd | Consumer Discretionary | Equity | 1.28%
+
+[42] table_row | Holdings ( 87 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Dodla Dairy Ltd | Consumer Staples | Equity | 1.28%
+
+[43] table_row | Holdings ( 87 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Godrej Consumer Products Ltd | Consumer Staples | Equity | 1.27%
+
+[44] table_row | Holdings ( 87 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Aditya Vision Ltd | Consumer Discretionary | Equity | 1.26%
+
+[45] table_row | Holdings ( 87 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Blue Dart Express Ltd | Industrials | Equity | 1.22%
+
+[46] table_row | Holdings ( 87 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Equitas Small Finance Bank Ltd | Financial | Equity | 1.20%
+
+[47] table_row | Holdings ( 87 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | Redington Ltd | Technology | Equity | 1.16%
+
+[48] table_row | Holdings ( 87 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | LG Balakrishnan & Brothers Ltd | Industrials | Equity | 1.12%
+
+[49] table_row | Holdings ( 87 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Fiem Industries Ltd | Consumer Discretionary | Equity | 1.10%
+
+[50] table_row | Holdings ( 87 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | JK Tyre & Industries Ltd | Consumer Discretionary | Equity | 1.09%
+
+[51] table_row | Holdings ( 87 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Fortis Healthcare Ltd | Healthcare | Equity | 1.08%
+
+[52] table_row | Holdings ( 87 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.08%
+
+[53] table_row | Holdings ( 87 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Voltamp Transformers Ltd | Industrials | Equity | 1.05%
+
+[54] table_row | Holdings ( 87 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | VRL Logistics Ltd | Industrials | Equity | 1.04%
+
+[55] table_row | Holdings ( 87 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Indigo Paints Ltd | Materials | Equity | 1.03%
+
+[56] table_row | Holdings ( 87 ) | 108 chars | row_group=1
+Name | Sector | Instruments | Assets | Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.01%
+
+[57] table_row | Holdings ( 87 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | Sharda Cropchem Ltd | Materials | Equity | 1.00%
+
+[58] table_row | Holdings ( 87 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Transport Corporation Of India Ltd | Industrials | Equity | 0.99%
+
+[59] table_row | Holdings ( 87 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | NRB Bearings Ltd | Industrials | Equity | 0.97%
+
+[60] table_row | Holdings ( 87 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Zensar Technologies Ltd | Technology | Equity | 0.93%
+
+[61] table_row | Holdings ( 87 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Shoppers Stop Ltd | Consumer Discretionary | Equity | 0.92%
+
+[62] table_row | Holdings ( 87 ) | 101 chars | row_group=1
+Name | Sector | Instruments | Assets | Lumax Industries Ltd | Consumer Discretionary | Equity | 0.90%
+
+[63] table_row | Holdings ( 87 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Tega Industries Ltd | Industrials | Equity | 0.88%
+
+[64] table_row | Holdings ( 87 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | UTI Asset Management Company Ltd | Financial | Equity | 0.87%
+
+[65] table_row | Holdings ( 87 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Kirloskar Ferrous Industries Ltd | Materials | Equity | 0.85%
+
+[66] table_row | Holdings ( 87 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Chambal Fertilisers & Chemicals Ltd | Materials | Equity | 0.84%
+
+[67] table_row | Holdings ( 87 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | SKF India (Industrial) Ltd | Industrials | Equity | 0.79%
+
+[68] table_row | Holdings ( 87 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Steel Ltd | Materials | Equity | 0.68%
+
+[69] table_row | Holdings ( 87 ) | 79 chars | row_group=1
+Name | Sector | Instruments | Assets | Mastek Ltd | Technology | Equity | 0.66%
+
+[70] table_row | Holdings ( 87 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | Unichem Laboratories Ltd | Healthcare | Equity | 0.66%
+
+[71] table_row | Holdings ( 87 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Redtape Ltd | Consumer Discretionary | Equity | 0.66%
+
+[72] table_row | Holdings ( 87 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | The Anup Engineering Ltd | Industrials | Equity | 0.63%
+
+[73] table_row | Holdings ( 87 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | DHFL VYSYA HOUSING FINANCE LIMITED EQ | Financial | Equity | 0.63%
+
+[74] table_row | Holdings ( 87 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Consumer Care Ltd | Consumer Staples | Equity | 0.59%
+
+[75] table_row | Holdings ( 87 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | PNC Infratech Ltd | Industrials | Equity | 0.59%
+
+[76] table_row | Holdings ( 87 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Wakefit Innovations Ltd. | Consumer Discretionary | Equity | 0.56%
+
+[77] table_row | Holdings ( 87 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | GMM Pfaudler Ltd | Industrials | Equity | 0.53%
+
+[78] table_row | Holdings ( 87 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.49%
+
+[79] table_row | Holdings ( 87 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | KEC International Ltd | Diversified | Equity | 0.49%
+
+[80] table_row | Holdings ( 87 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | Gateway Distriparks Ltd | Industrials | Equity | 0.43%
+
+[81] table_row | Holdings ( 87 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | GNA Axles Ltd | Consumer Discretionary | Equity | 0.42%
+
+[82] table_row | Holdings ( 87 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Ion Exchange (India) Ltd | Industrials | Equity | 0.42%
+
+[83] table_row | Holdings ( 87 ) | 83 chars | row_group=1
+Name | Sector | Instruments | Assets | SKF India Ltd | Industrials | Equity | 0.41%
+
+[84] table_row | Holdings ( 87 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Kei Industries Ltd | Industrials | Equity | 0.41%
+
+[85] table_row | Holdings ( 87 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Awfis Space Solutions Ltd. | Industrials | Equity | 0.41%
+
+[86] table_row | Holdings ( 87 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | La Opala RG Ltd | Consumer Discretionary | Equity | 0.38%
+
+[87] table_row | Holdings ( 87 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Insecticides (India) Ltd | Materials | Equity | 0.38%
+
+[88] table_row | Holdings ( 87 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Vesuvius India Ltd | Industrials | Equity | 0.38%
+
+[89] table_row | Holdings ( 87 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Vedant Fashions Ltd | Consumer Discretionary | Equity | 0.37%
+
+[90] table_row | Holdings ( 87 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Gujarat Pipavav Port Ltd | Industrials | Equity | 0.35%
+
+[91] table_row | Holdings ( 87 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | IFGL Refractories Ltd | Industrials | Equity | 0.33%
+
+[92] table_row | Holdings ( 87 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | G R Infraprojects Ltd | Industrials | Equity | 0.31%
+
+[93] table_row | Holdings ( 87 ) | 101 chars | row_group=1
+Name | Sector | Instruments | Assets | Jupiter Life Line Hospitals Ltd. | Healthcare | Equity | 0.30%
+
+[94] table_row | Holdings ( 87 ) | 84 chars | row_group=1
+Name | Sector | Instruments | Assets | Emami Ltd | Consumer Staples | Equity | 0.29%
+
+[95] table_row | Holdings ( 87 ) | 81 chars | row_group=1
+Name | Sector | Instruments | Assets | DB Corp Ltd | Industrials | Equity | 0.22%
+
+[96] table_row | Holdings ( 87 ) | 99 chars | row_group=1
+Name | Sector | Instruments | Assets | Goodyear India Ltd | Consumer Discretionary | Equity | 0.22%
+
+[97] table_row | Holdings ( 87 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | Sula Vineyards Ltd | Consumer Staples | Equity | 0.21%
+
+[98] table_row | Holdings ( 87 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Brainbees Solutions Ltd. | Consumer Discretionary | Equity | 0.20%
+
+[99] table_row | Holdings ( 87 ) | 78 chars | row_group=1
+Name | Sector | Instruments | Assets | BEML Ltd | Industrials | Equity | 0.19%
+
+[100] table_row | Holdings ( 87 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | Carborundum Universal Ltd | Materials | Equity | 0.17%
+
+[101] table_row | Holdings ( 87 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Net Current Assets | Unspecified | Net Current Assets | 0.11%
+
+[102] table_row | Holdings ( 87 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | TCI Express Ltd | Industrials | Equity | 0.06%
+
+[103] para | Holdings ( 87 ) | 7 chars
+See All
+
+[104] heading | Holdings ( 87 ) | 19 chars
+Minimum investments
+
+[105] para | Holdings ( 87 ) > Minimum investments | 75 chars
+Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+
+[106] heading | Holdings ( 87 ) | 20 chars
+Returns and rankings
+
+[107] para | Holdings ( 87 ) > Returns and rankings | 35 chars
+Annualised returns Absolute returns
+
+[108] heading | Holdings ( 87 ) > Returns and rankings | 26 chars
+Name | 3Y | 5Y | 10Y | All
+
+[109] table_row | Holdings ( 87 ) > Returns and rankings | 77 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Fund returns | +10.0% | +14.1% | +17.3% | +18.1%
+
+[110] table_row | Holdings ( 87 ) > Returns and rankings | 102 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Category average ( Equity Small Cap ) | +16.8% | +16.4% | +17.8% | +20.4%
+
+[111] table_row | Holdings ( 87 ) > Returns and rankings | 73 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Rank ( Equity Small Cap ) | 34 | 18 | 6 | --
+
+[112] heading | Holdings ( 87 ) | 29 chars
+Exit load, stamp duty and tax
+
+[113] para | Holdings ( 87 ) > Exit load, stamp duty and tax | 41 chars
+Exit load of 1% if redeemed within 1 year
+
+[114] heading | Holdings ( 87 ) > Exit load, stamp duty and tax | 54 chars
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+
+[115] para | Holdings ( 87 ) > Exit load, stamp duty and tax > Stamp duty on investment: 0.005% (from July 1st, 2020) | 18 chars
+from July 1st 2020
+
+[116] heading | Holdings ( 87 ) > Exit load, stamp duty and tax | 15 chars
+Tax implication
+
+[117] para | Holdings ( 87 ) > Exit load, stamp duty and tax > Tax implication | 157 chars
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+[118] para | Holdings ( 87 ) > Exit load, stamp duty and tax > Tax implication | 15 chars
+Check past data
+
+[119] heading | Holdings ( 87 ) | 21 chars
+Compare similar funds
+
+[120] heading | Holdings ( 87 ) > Compare similar funds | 33 chars
+ | Name | 1Y | 3Y | Fund Size(Cr)
+
+[121] table_row | Holdings ( 87 ) > Compare similar funds | 102 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | ITI Small Cap Fund Direct Growth | +22.17% | +23.65% | 3,602.84
+
+[122] table_row | Holdings ( 87 ) > Compare similar funds | 107 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Bandhan Small Cap Fund Direct Growth | +12.63% | +23.60% | 34,176.02
+
+[123] table_row | Holdings ( 87 ) > Compare similar funds | 113 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Invesco India Small Cap Fund Direct Growth | +15.89% | +21.91% | 15,744.40
+
+[124] table_row | Holdings ( 87 ) > Compare similar funds | 107 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Sundaram Small Cap Fund Direct Growth | +15.94% | +16.10% | 4,155.35
+
+[125] table_row | Holdings ( 87 ) > Compare similar funds | 111 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Nippon India Small Cap Fund Direct Growth | +9.97% | +14.69% | 82,580.30
+
+[126] table_row | Holdings ( 87 ) > Compare similar funds | 43 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) | Compare
+
+[127] heading | Holdings ( 87 ) | 15 chars
+Fund management
+
+[128] heading | Holdings ( 87 ) | 48 chars
+DM Dhruv Muchhal Jun 2023 - Present View details
+
+[129] para | Holdings ( 87 ) > DM Dhruv Muchhal Jun 2023 - Present View details | 1899 chars
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+
+[130] heading | Holdings ( 87 ) | 50 chars
+CS Chirag Setalvad Jun 2014 - Present View details
+
+[131] para | Holdings ( 87 ) > CS Chirag Setalvad Jun 2014 - Present View details | 476 chars
+Education Mr. Setalvad is a B. Sc and MBA from University of North Carolina. Experience Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V. Also manages these schemes HDFC Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Children's Fund Direct Plan
+
+[132] heading | Holdings ( 87 ) | 39 chars
+About HDFC Small Cap Fund Direct Growth
+
+[133] para | Holdings ( 87 ) > About HDFC Small Cap Fund Direct Growth | 540 chars
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹156.27. The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year ;
+
+[134] heading | Holdings ( 87 ) > About HDFC Small Cap Fund Direct Growth | 20 chars
+Investment Objective
+
+[135] para | Holdings ( 87 ) > About HDFC Small Cap Fund Direct Growth > Investment Objective | 117 chars
+The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.
+
+[136] para | Holdings ( 87 ) > About HDFC Small Cap Fund Direct Growth > Investment Objective | 83 chars
+Fund benchmark BSE 250 SmallCap Total Return Index Scheme Information Document(SID)
+
+[137] heading | Holdings ( 87 ) | 10 chars
+Fund house
+
+[138] para | Holdings ( 87 ) > Fund house | 482 chars
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Citibank NA Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,

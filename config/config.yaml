@@ -1,0 +1,125 @@
+sources:
+  - id: s1
+    url: "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
+    domain: groww.in
+    doc_type: scheme_page
+    scheme_name: "HDFC Large Cap Fund - Direct Growth"
+    scheme_category: large_cap
+    plan: direct
+    option: growth
+    publisher: "Groww (mirroring HDFC MF official data)"
+  - id: s2
+    url: "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth"
+    domain: groww.in
+    doc_type: scheme_page
+    scheme_name: "HDFC Equity (Flexi Cap) Fund - Direct Growth"
+    scheme_category: flexi_cap
+    plan: direct
+    option: growth
+    publisher: "Groww (mirroring HDFC MF official data)"
+  - id: s3
+    url: "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth"
+    domain: groww.in
+    doc_type: scheme_page
+    scheme_name: "HDFC ELSS Tax Saver Fund - Direct Plan - Growth"
+    scheme_category: elss
+    plan: direct
+    option: growth
+    publisher: "Groww (mirroring HDFC MF official data)"
+  - id: s4
+    url: "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
+    domain: groww.in
+    doc_type: scheme_page
+    scheme_name: "HDFC Small Cap Fund - Direct Growth"
+    scheme_category: small_cap
+    plan: direct
+    option: growth
+    publisher: "Groww (mirroring HDFC MF official data)"
+  - id: s5
+    url: "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth"
+    domain: groww.in
+    doc_type: scheme_page
+    scheme_name: "HDFC Balanced Advantage Fund - Direct Growth"
+    scheme_category: balanced_advantage
+    plan: direct
+    option: growth
+    publisher: "Groww (mirroring HDFC MF official data)"
+
+allowed_domains: [groww.in, hdfcmf.com, sebi.gov.in, amfiindia.com, myamfi.in]
+
+paths:
+  raw_dir: data/raw
+  chunks_dir: data/chunks
+  persist_dir: data/chroma
+  cache_dir: data/cache
+  models_dir: data/models
+  status_file: data/status.json
+  rejected_file: data/rejected.jsonl
+
+chunking: {size: 850, overlap: 150, min_chars: 40, max_chunks_per_page: 400, max_tokens: 250, min_page_chars: 400}
+
+retrieval:
+  top_k: 5
+  min_score: 0.28
+  candidate_multiplier: 4
+  lexical_weight: 0.6
+  rrf_k: 60
+  scheme_affinity: true
+  # A chunk in the "Investment Objective" section of a Groww scheme page carries both the
+  # objective sentence and the "Fund benchmark ..." line, but chunk topics are single-valued and
+  # the classifier labels it `benchmark`. These two topics serve the same section, so a question
+  # resolving either one may also match chunks of the other before the filter is relaxed.
+  related_topics:
+    objective: [benchmark]
+    benchmark: [objective]
+
+embedding: {model: "sentence-transformers/all-MiniLM-L6-v2", dim: 384, batch_size: 32, normalize: true, offline_env: true}
+
+generation: {temperature: 0.0, max_tokens: 300, seed: 42, max_sentences: 3, max_words: 60, retries_on_citation_failure: 1, retries_on_http_error: 1}
+
+# Conversation memory for the interactive CLI: the last `max_messages` user/assistant messages are
+# kept, and a follow-up that names its subject only indirectly ("what about its fees?") is rewritten
+# into a standalone question before retrieval, using those messages as the context.
+memory:
+  max_messages: 10
+  rewrite: true
+  max_rewrite_chars: 300
+  max_rewrite_tokens: 120
+  min_rewrite_words: 2
+  # A question containing one of these words is elliptical and is sent to the rewriter; a question
+  # that names its scheme outright is retrieved as typed, with no extra LLM call.
+  deictic_triggers: [it, its, this, that, these, those, them, they, he, she, his, her, same, other, another, also, and]
+
+topics:
+  exit_load: ["exit load", "exit charges"]
+  expense_ratio: ["expense ratio", "ter", "total expense", "charges"]
+  min_sip: ["minimum sip", "min sip", "minimum instal", "minimum investment amount", "min lump sum"]
+  lockin_80c: ["lock-in", "lock in", "lockin", "80c", "section 80c"]
+  riskometer: ["riskometer", "risk o meter"]
+  benchmark: ["benchmark", "index"]
+  statements_download: ["statement", "tax document", "how to download", "capital gains", "tax statement"]
+  nav: ["nav", "net asset value"]
+  plan_direct_vs_regular: ["direct vs regular", "direct plan", "regular plan", "direct and regular"]
+  objective: ["objective", "about the scheme", "scheme profile", "investment objective"]
+  entry_load: ["entry load"]
+  min_lump_sum: ["minimum lump sum", "lump sum"]
+
+refusal:
+  advice: ["should i", "which is best", "which of these", "best for me", "better than", "recommend", "suggest", "suitable for me", "is it good", "good for my", "my retirement", "portfolio", "allocate", "asset allocation", "worth buying", "good time to buy", "good time to sell", "good time to exit", "good time to enter", "can i buy", "can i sell", "hold or", "should we", "which fund should", "tell me if i should"]
+  performance: ["return", "returns", "cagr", "xirr", "% return", "how much did", "how much has", "performance of", "best performing", "ranking", "ranked", "nav history", "compare", "vs ", "versus", "outperformed", "underperformed", "yield", "gain", "profit", "irr"]
+  pii_patterns:
+    - "\\b[A-Z]{5}[0-9]{4}[A-Z]\\b"
+    - "\\b\\d{4}\\s?\\d{4}\\s?\\d{4}\\b"
+    - "\\b[6-9]\\d{9}\\b|\\b\\d{10}\\b"
+    - "[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}"
+    - "\\b(otp|ifsc|cvv|pan number|aadhaar|account number|demat)\\b"
+    - "\\b(otp|verification code)\\b[^\\n]{0,20}\\b\\d{4,8}\\b"
+  educational_links:
+    advice: "https://www.investor.gov.in/"
+    performance: "https://www.investor.gov.in/"
+    pii: "https://www.investor.gov.in/"
+
+out_of_corpus:
+  known_foreign_schemes: ["parag parflex", "axis small cap", "mirae asset", "sbi bluechip", "icici nifty fifty", "kotak flexicap", "dsp small cap", "franklin templeton", "tata nipun", "bandhan mutual"]
+
+freshness: {warn_after_days: 90}

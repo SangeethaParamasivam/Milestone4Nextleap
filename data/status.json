@@ -1,0 +1,14 @@
+{
+  "corpus_hash": "3e6c0d8a7a08e7297988c8799c5acead0a0dab53a7db164d05e2bc19e94797f0",
+  "chunk_count": 215,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "collection": "mf_faqs",
+  "last_ingest_at": "2026-10-01T01:24:00Z",
+  "source_hashes": {
+    "s1": "dbdacd374f83e7a554d43a470710db17a348952c369b7c1d9c32f2257f2413bf",
+    "s2": "54614878fd8db51b9da213b8492b7a0678546e54cf7c9c4fa41456d0c54acb6c",
+    "s3": "1981716007e9db2845b7ce55b0ead43b2e5911a694309da301f9deb0f3f856d2",
+    "s4": "d556f5ffc6fa246bb0135616d255d5d18c885e67b4cea0554732812c240ac8dd",
+    "s5": "6782d3a540aece9a73ae9b13c2a972c7e5c26e960a8759ecd25324d399bba5b7"
+  }
+}

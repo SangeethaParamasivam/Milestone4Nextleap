@@ -1,0 +1,34 @@
+[server]
+# --- reachability -------------------------------------------------------
+# Bind the wildcard address so the printed Local URL (localhost), the Network
+# URL (192.168.x.x) and any browser on the LAN all reach the app. Binding only
+# `localhost` fails on hosts where that name does not resolve, which surfaces
+# as "can't open the URL" plus a blank page.
+address = "0.0.0.0"
+port = 8501
+
+# --- must open the browser ----------------------------------------------
+# false => streamlit opens the UI in the default browser once the port is
+# listening. With `headless = true` the console prints the banner and the
+# Local URL and then nothing ever appears in a browser window.
+headless = false
+
+# --- THE fix for the blank screen ---------------------------------------
+# Without this, the very first `streamlit run` blocks forever on an
+# interactive "Welcome to Streamlit! ... Email:" prompt read from stdin.
+# streamlit/runtime/credentials.py::check_credentials skips that prompt only
+# when `showEmailPrompt` is false (or the server is headless) AND no
+# credentials file exists. In a non-interactive shell the prompt never gets an
+# answer, so the server never binds a port, never prints a Local URL, and the
+# browser only ever gets a blank page.
+#
+# Do NOT "fix" this by flipping `headless` back to true: that also suppresses
+# the browser launch, so the UI never opens. `showEmailPrompt = false` is the
+# only switch that stops the block while keeping the browser launch.
+showEmailPrompt = false
+
+[browser]
+# Opt out of telemetry. This does NOT stop the email prompt on its own - it
+# only silences the notice printed after activation - so it is not a substitute
+# for `server.showEmailPrompt = false` above.
+gatherUsageStats = false

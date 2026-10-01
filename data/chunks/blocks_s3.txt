@@ -1,0 +1,337 @@
+extraction_path: bs4_lxml_structural
+
+source_id: s3
+url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+page_title: HDFC ELSS Tax Saver Fund Direct Plan Growth
+blocks: 110
+extracted_chars: 11584
+
+[0] para |  | 33 chars
++11.61 % 3Y annualised -0.14 % 1D
+
+[1] para |  | 18 chars
+1M 6M 1Y 3Y 5Y All
+
+[2] para | Fund facts > NAV | 75 chars
+NAV: 30 Sep '26 ₹1,416.90 (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+
+[3] para | Fund facts > Min. for SIP | 67 chars
+Min. for SIP ₹500 (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+
+[4] para | Fund facts > Fund size (AUM) | 79 chars
+Fund size (AUM) ₹15,991.78 Cr (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+
+[5] para | Fund facts > Expense ratio | 69 chars
+Expense ratio 1.21% (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+
+[6] heading |  | 17 chars
+Return calculator
+
+[7] para | Return calculator | 20 chars
+Monthly SIP One time
+
+[8] para | Return calculator | 25 chars
+Monthly investment ₹5,000
+
+[9] heading | Return calculator | 79 chars
+Over the past | Total investment | Would've become | Historic returns | Returns
+
+[10] table_row | Return calculator | 121 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹56,952 |  | -5.08 %
+
+[11] table_row | Return calculator | 127 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,84,073 |  | + 2.26 %
+
+[12] table_row | Return calculator | 128 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹3,85,495 |  | + 28.50 %
+
+[13] table_row | Return calculator | 131 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹12,00,183 |  | + 100.03 %
+
+[14] heading |  | 15 chars
+Holdings ( 65 )
+
+[15] heading | Holdings ( 65 ) | 36 chars
+Name | Sector | Instruments | Assets
+
+[16] table_row | Holdings ( 65 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | ICICI Bank Ltd | Financial | Equity | 9.32%
+
+[17] table_row | Holdings ( 65 ) | 81 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC Bank Ltd | Financial | Equity | 7.36%
+
+[18] table_row | Holdings ( 65 ) | 81 chars | row_group=1
+Name | Sector | Instruments | Assets | Axis Bank Ltd | Financial | Equity | 6.50%
+
+[19] table_row | Holdings ( 65 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 4.66%
+
+[20] table_row | Holdings ( 65 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | State Bank of India | Financial | Equity | 4.64%
+
+[21] table_row | Holdings ( 65 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Kotak Mahindra Bank Ltd | Financial | Equity | 4.59%
+
+[22] table_row | Holdings ( 65 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharti Airtel Ltd | Technology | Equity | 4.29%
+
+[23] table_row | Holdings ( 65 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | SBI Life Insurance Company Ltd | Financial | Equity | 3.25%
+
+[24] table_row | Holdings ( 65 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | HCL Technologies Ltd | Technology | Equity | 2.93%
+
+[25] table_row | Holdings ( 65 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 2.76%
+
+[26] table_row | Holdings ( 65 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Reliance Industries Ltd | Energy & Utilities | Equity | 2.66%
+
+[27] table_row | Holdings ( 65 ) | 79 chars | row_group=1
+Name | Sector | Instruments | Assets | Zomato Ltd | Technology | Equity | 2.31%
+
+[28] table_row | Holdings ( 65 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.96%
+
+[29] table_row | Holdings ( 65 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Steel Ltd | Materials | Equity | 1.73%
+
+[30] table_row | Holdings ( 65 ) | 99 chars | row_group=1
+Name | Sector | Instruments | Assets | Britannia Industries Ltd | Consumer Staples | Equity | 1.72%
+
+[31] table_row | Holdings ( 65 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Larsen & Toubro Ltd | Industrials | Equity | 1.60%
+
+[32] table_row | Holdings ( 65 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 1.53%
+
+[33] table_row | Holdings ( 65 ) | 81 chars | row_group=1
+Name | Sector | Instruments | Assets | JSW Steel Ltd | Materials | Equity | 1.51%
+
+[34] table_row | Holdings ( 65 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Bosch Ltd | Consumer Discretionary | Equity | 1.41%
+
+[35] table_row | Holdings ( 65 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Dr. Lal Pathlabs Ltd | Healthcare | Equity | 1.38%
+
+[36] table_row | Holdings ( 65 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | PB Fintech Ltd | Financial | Equity | 1.35%
+
+[37] table_row | Holdings ( 65 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | Interglobe Aviation Ltd | Industrials | Equity | 1.34%
+
+[38] table_row | Holdings ( 65 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Karur Vysya Bank Ltd | Financial | Equity | 1.30%
+
+[39] table_row | Holdings ( 65 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Jubilant FoodWorks Ltd | Consumer Discretionary | Equity | 1.23%
+
+[40] table_row | Holdings ( 65 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Metropolis Healthcare Ltd | Healthcare | Equity | 1.17%
+
+[41] table_row | Holdings ( 65 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Alkem Laboratories Ltd | Healthcare | Equity | 1.17%
+
+[42] table_row | Holdings ( 65 ) | 80 chars | row_group=1
+Name | Sector | Instruments | Assets | Infosys Ltd | Technology | Equity | 1.17%
+
+[43] table_row | Holdings ( 65 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | Hindustan Aeronautics Ltd | Industrials | Equity | 1.13%
+
+[44] table_row | Holdings ( 65 ) | 78 chars | row_group=1
+Name | Sector | Instruments | Assets | Cipla Ltd | Healthcare | Equity | 1.09%
+
+[45] table_row | Holdings ( 65 ) | 106 chars | row_group=1
+Name | Sector | Instruments | Assets | Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.07%
+
+[46] table_row | Holdings ( 65 ) | 80 chars | row_group=1
+Name | Sector | Instruments | Assets | Mphasis Ltd | Technology | Equity | 1.06%
+
+[47] table_row | Holdings ( 65 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | United Spirits Ltd | Consumer Staples | Equity | 1.06%
+
+[48] table_row | Holdings ( 65 ) | 112 chars | row_group=1
+Name | Sector | Instruments | Assets | Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.03%
+
+[49] table_row | Holdings ( 65 ) | 72 chars | row_group=1
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 1.03%
+
+[50] table_row | Holdings ( 65 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | ICICI Lombard General Insurance Company Ltd | Financial | Equity | 1.02%
+
+[51] table_row | Holdings ( 65 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Tech Mahindra Ltd | Technology | Equity | 1.02%
+
+[52] table_row | Holdings ( 65 ) | 78 chars | row_group=1
+Name | Sector | Instruments | Assets | Lupin Ltd | Healthcare | Equity | 0.96%
+
+[53] table_row | Holdings ( 65 ) | 114 chars | row_group=1
+Name | Sector | Instruments | Assets | ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.96%
+
+[54] table_row | Holdings ( 65 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Eicher Motors Ltd | Consumer Discretionary | Equity | 0.90%
+
+[55] table_row | Holdings ( 65 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | JSW Energy Ltd | Energy & Utilities | Equity | 0.87%
+
+[56] table_row | Holdings ( 65 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Havells India Ltd | Consumer Discretionary | Equity | 0.83%
+
+[57] table_row | Holdings ( 65 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Chalet Hotels Ltd | Consumer Discretionary | Equity | 0.81%
+
+[58] table_row | Holdings ( 65 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Hindustan Unilever Ltd | Consumer Staples | Equity | 0.74%
+
+[59] table_row | Holdings ( 65 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.74%
+
+[60] table_row | Holdings ( 65 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | IIFL Wealth Management Ltd | Financial | Equity | 0.73%
+
+[61] table_row | Holdings ( 65 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.72%
+
+[62] table_row | Holdings ( 65 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Birla Corporation Ltd | Materials | Equity | 0.55%
+
+[63] table_row | Holdings ( 65 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Westlife Development Ltd | Consumer Discretionary | Equity | 0.53%
+
+[64] table_row | Holdings ( 65 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Life Insurance Corporation of India | Financial | Equity | 0.52%
+
+[65] table_row | Holdings ( 65 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharat Electronics Ltd | Industrials | Equity | 0.47%
+
+[66] table_row | Holdings ( 65 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | The Ramco Cements Ltd | Materials | Equity | 0.44%
+
+[67] table_row | Holdings ( 65 ) | 79 chars | row_group=1
+Name | Sector | Instruments | Assets | Cyient Ltd | Technology | Equity | 0.44%
+
+[68] table_row | Holdings ( 65 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.41%
+
+[69] table_row | Holdings ( 65 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | TeamLease Services Ltd | Industrials | Equity | 0.33%
+
+[70] table_row | Holdings ( 65 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.32%
+
+[71] table_row | Holdings ( 65 ) | 115 chars | row_group=1
+Name | Sector | Instruments | Assets | Popular Vehicles And Services Ltd. | Consumer Discretionary | Equity | 0.32%
+
+[72] table_row | Holdings ( 65 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Anthem Biosciences Ltd. | Healthcare | Equity | 0.28%
+
+[73] table_row | Holdings ( 65 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Rubicon Research Ltd. | Healthcare | Equity | 0.25%
+
+[74] table_row | Holdings ( 65 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Industrials | Equity | 0.18%
+
+[75] table_row | Holdings ( 65 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.13%
+
+[76] table_row | Holdings ( 65 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | JK Lakshmi Cement Ltd | Materials | Equity | 0.13%
+
+[77] table_row | Holdings ( 65 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | SBI Funds Management Ltd | Financial | Equity | 0.06%
+
+[78] table_row | Holdings ( 65 ) | 106 chars | row_group=1
+Name | Sector | Instruments | Assets | Medi Assist Healthcare Services Ltd. | Industrials | Equity | 0.04%
+
+[79] table_row | Holdings ( 65 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Escorts Kubota Ltd | Industrials | Equity | 0.03%
+
+[80] table_row | Holdings ( 65 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Net Payables | Unspecified | Net Payables | -0.04%
+
+[81] para | Holdings ( 65 ) | 7 chars
+See All
+
+[82] heading | Holdings ( 65 ) | 19 chars
+Minimum investments
+
+[83] para | Holdings ( 65 ) > Minimum investments | 75 chars
+Min. for 1st investment ₹500 Min. for 2nd investment ₹500 Min. for SIP ₹500
+
+[84] heading | Holdings ( 65 ) | 20 chars
+Returns and rankings
+
+[85] para | Holdings ( 65 ) > Returns and rankings | 35 chars
+Annualised returns Absolute returns
+
+[86] heading | Holdings ( 65 ) > Returns and rankings | 26 chars
+Name | 3Y | 5Y | 10Y | All
+
+[87] table_row | Holdings ( 65 ) > Returns and rankings | 77 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Fund returns | +11.6% | +13.1% | +12.8% | +13.6%
+
+[88] table_row | Holdings ( 65 ) > Returns and rankings | 97 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Category average ( Equity ELSS ) | +11.4% | +10.4% | +13.2% | +17.1%
+
+[89] table_row | Holdings ( 65 ) > Returns and rankings | 68 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Rank ( Equity ELSS ) | 11 | 5 | 17 | --
+
+[90] heading | Holdings ( 65 ) | 29 chars
+Exit load, stamp duty and tax
+
+[91] para | Holdings ( 65 ) > Exit load, stamp duty and tax | 3 chars
+Nil
+
+[92] heading | Holdings ( 65 ) > Exit load, stamp duty and tax | 54 chars
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+
+[93] para | Holdings ( 65 ) > Exit load, stamp duty and tax > Stamp duty on investment: 0.005% (from July 1st, 2020) | 18 chars
+from July 1st 2020
+
+[94] heading | Holdings ( 65 ) > Exit load, stamp duty and tax | 15 chars
+Tax implication
+
+[95] para | Holdings ( 65 ) > Exit load, stamp duty and tax > Tax implication | 157 chars
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+[96] para | Holdings ( 65 ) > Exit load, stamp duty and tax > Tax implication | 15 chars
+Check past data
+
+[97] heading | Holdings ( 65 ) | 15 chars
+Fund management
+
+[98] heading | Holdings ( 65 ) | 52 chars
+AK Amar Kalkundrikar Dec 2025 - Present View details
+
+[99] para | Holdings ( 65 ) > AK Amar Kalkundrikar Dec 2025 - Present View details | 363 chars
+Education Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School. Experience Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF. Also manages these schemes HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Multi Cap Fund Direct Growth
+
+[100] heading | Holdings ( 65 ) | 48 chars
+DM Dhruv Muchhal Jun 2023 - Present View details
+
+[101] para | Holdings ( 65 ) > DM Dhruv Muchhal Jun 2023 - Present View details | 1899 chars
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+
+[102] heading | Holdings ( 65 ) | 49 chars
+About HDFC ELSS Tax Saver Fund Direct Plan Growth
+
+[103] para | Holdings ( 65 ) > About HDFC ELSS Tax Saver Fund Direct Plan Growth | 534 chars
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹1,416.90. The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ;
+
+[104] heading | Holdings ( 65 ) > About HDFC ELSS Tax Saver Fund Direct Plan Growth | 20 chars
+Investment Objective
+
+[105] para | Holdings ( 65 ) > About HDFC ELSS Tax Saver Fund Direct Plan Growth > Investment Objective | 141 chars
+The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.
+
+[106] para | Holdings ( 65 ) > About HDFC ELSS Tax Saver Fund Direct Plan Growth > Investment Objective | 76 chars
+Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)
+
+[107] heading | Holdings ( 65 ) | 10 chars
+Fund house
+
+[108] para | Holdings ( 65 ) > Fund house | 484 chars
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Deutsche Bank Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+
+[109] para | Fund details | 74 chars
+Lock-in period: 3 years. (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)

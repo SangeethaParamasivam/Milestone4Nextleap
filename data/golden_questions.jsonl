@@ -1,0 +1,10 @@
+{"id": "Q1", "category": "expense_ratio", "question": "What is the expense ratio of HDFC Large Cap Fund – Direct Growth?", "expect_topic": "expense_ratio", "expect_refusal": false}
+{"id": "Q2", "category": "exit_load", "question": "Is there an exit load on HDFC Small Cap Fund – Direct Growth?", "expect_topic": "exit_load", "expect_refusal": false}
+{"id": "Q3", "category": "min_sip", "question": "What is the minimum SIP amount for HDFC Equity (Flexi Cap) Fund?", "expect_topic": "min_sip", "expect_refusal": false}
+{"id": "Q4", "category": "lockin_80c", "question": "What is the lock-in period in HDFC ELSS Tax Saver Fund?", "expect_topic": "lockin_80c", "expect_refusal": false}
+{"id": "Q5", "category": "riskometer", "question": "What is the riskometer level of HDFC Balanced Advantage Fund?", "expect_topic": "riskometer", "expect_refusal": false}
+{"id": "Q6", "category": "benchmark", "question": "What is the benchmark of HDFC Large Cap Fund?", "expect_topic": "benchmark", "expect_refusal": false}
+{"id": "Q7", "category": "statements_download", "question": "How do I download my capital gains statement?", "expect_topic": "statements_download", "expect_refusal": false}
+{"id": "Q8", "category": "plan_direct_vs_regular", "question": "What is the difference between Direct and Regular plan?", "expect_topic": "plan_direct_vs_regular", "expect_refusal": false}
+{"id": "Q9", "category": "out_of_corpus", "question": "What is the expense ratio of Parag Parflex Fund?", "expect_topic": "general", "expect_refusal": true}
+{"id": "Q10", "category": "objective", "question": "What is the investment objective of HDFC Equity (Flexi Cap) Fund?", "expect_topic": "objective", "expect_refusal": false}

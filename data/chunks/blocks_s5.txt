@@ -1,0 +1,1165 @@
+extraction_path: bs4_lxml_structural
+
+source_id: s5
+url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+page_title: HDFC Balanced Advantage Fund Direct Growth
+blocks: 386
+extracted_chars: 48491
+
+[0] para |  | 33 chars
++10.20 % 3Y annualised +0.03 % 1D
+
+[1] para |  | 18 chars
+1M 6M 1Y 3Y 5Y All
+
+[2] para | Fund facts > NAV | 70 chars
+NAV: 30 Sep '26 ₹549.92 (HDFC Balanced Advantage Fund - Direct Growth)
+
+[3] para | Fund facts > Min. for SIP | 64 chars
+Min. for SIP ₹100 (HDFC Balanced Advantage Fund - Direct Growth)
+
+[4] para | Fund facts > Fund size (AUM) | 78 chars
+Fund size (AUM) ₹1,07,295.79 Cr (HDFC Balanced Advantage Fund - Direct Growth)
+
+[5] para | Fund facts > Expense ratio | 66 chars
+Expense ratio 0.78% (HDFC Balanced Advantage Fund - Direct Growth)
+
+[6] heading |  | 17 chars
+Return calculator
+
+[7] para | Return calculator | 20 chars
+Monthly SIP One time
+
+[8] para | Return calculator | 25 chars
+Monthly investment ₹5,000
+
+[9] heading | Return calculator | 79 chars
+Over the past | Total investment | Would've become | Historic returns | Returns
+
+[10] table_row | Return calculator | 121 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹58,623 |  | -2.30 %
+
+[11] table_row | Return calculator | 127 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,87,720 |  | + 4.29 %
+
+[12] table_row | Return calculator | 128 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹3,86,893 |  | + 28.96 %
+
+[13] table_row | Return calculator | 131 chars | row_group=0
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹12,36,185 |  | + 106.03 %
+
+[14] heading |  | 16 chars
+Holdings ( 326 )
+
+[15] heading | Holdings ( 326 ) | 36 chars
+Name | Sector | Instruments | Assets
+
+[16] table_row | Holdings ( 326 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | ICICI Bank Ltd | Financial | Equity | 5.32%
+
+[17] table_row | Holdings ( 326 ) | 81 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC Bank Ltd | Financial | Equity | 4.13%
+
+[18] table_row | Holdings ( 326 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Reliance Industries Ltd | Energy & Utilities | Equity | 3.74%
+
+[19] table_row | Holdings ( 326 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | State Bank of India | Financial | Equity | 3.46%
+
+[20] table_row | Holdings ( 326 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharti Airtel Ltd | Technology | Equity | 2.93%
+
+[21] table_row | Holdings ( 326 ) | 81 chars | row_group=1
+Name | Sector | Instruments | Assets | Axis Bank Ltd | Financial | Equity | 2.68%
+
+[22] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Larsen & Toubro Ltd | Industrials | Equity | 2.59%
+
+[23] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | GOI Sec 7.18 14/08/2033 | Entities | GOI Securities | 1.99%
+
+[24] table_row | Holdings ( 326 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | NTPC Ltd | Energy & Utilities | Equity | 1.94%
+
+[25] table_row | Holdings ( 326 ) | 79 chars | row_group=1
+Name | Sector | Instruments | Assets | Zomato Ltd | Technology | Equity | 1.65%
+
+[26] table_row | Holdings ( 326 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | Coal India Ltd | Materials | Equity | 1.60%
+
+[27] table_row | Holdings ( 326 ) | 80 chars | row_group=1
+Name | Sector | Instruments | Assets | Infosys Ltd | Technology | Equity | 1.59%
+
+[28] table_row | Holdings ( 326 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Sun Pharmaceutical Industries Ltd | Healthcare | Equity | 1.54%
+
+[29] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Kotak Mahindra Bank Ltd | Financial | Equity | 1.52%
+
+[30] table_row | Holdings ( 326 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 1.46%
+
+[31] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | HCL Technologies Ltd | Technology | Equity | 1.24%
+
+[32] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Consultancy Services Ltd | Technology | Equity | 1.20%
+
+[33] table_row | Holdings ( 326 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Life Insurance Corporation of India | Financial | Equity | 1.18%
+
+[34] table_row | Holdings ( 326 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | Interglobe Aviation Ltd | Industrials | Equity | 1.18%
+
+[35] table_row | Holdings ( 326 ) | 78 chars | row_group=1
+Name | Sector | Instruments | Assets | Lupin Ltd | Healthcare | Equity | 1.16%
+
+[36] table_row | Holdings ( 326 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | ITC Ltd | Consumer Staples | Equity | 1.02%
+
+[37] table_row | Holdings ( 326 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.87%
+
+[38] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | SBI Life Insurance Company Ltd | Financial | Equity | 0.87%
+
+[39] table_row | Holdings ( 326 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 0.82%
+
+[40] table_row | Holdings ( 326 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | GAIL (India) Ltd | Energy & Utilities | Equity | 0.81%
+
+[41] table_row | Holdings ( 326 ) | 118 chars | row_group=1
+Name | Sector | Instruments | Assets | Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.80%
+
+[42] table_row | Holdings ( 326 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Divi's Laboratories Ltd | Healthcare | Equity | 0.78%
+
+[43] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | GOI Sec 7.18 24/07/2037 | Entities | GOI Securities | 0.75%
+
+[44] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100 | Entities | GOI Securities | 0.71%
+
+[45] table_row | Holdings ( 326 ) | 125 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 34208 GOI 08AP34 7.1 FV RS 100 | Entities | GOI Securities | 0.70%
+
+[46] table_row | Holdings ( 326 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | Bank Of Baroda | Financial | Equity | 0.67%
+
+[47] table_row | Holdings ( 326 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Net Current Assets | Unspecified | Net Current Assets | 0.65%
+
+[48] table_row | Holdings ( 326 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Steel Ltd | Materials | Equity | 0.65%
+
+[49] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Apar Industries Ltd | Diversified | Equity | 0.63%
+
+[50] table_row | Holdings ( 326 ) | 109 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharat Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.63%
+
+[51] table_row | Holdings ( 326 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Indusind Bank Ltd | Financial | Equity | 0.62%
+
+[52] table_row | Holdings ( 326 ) | 133 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 447 7.57 NCD 18OT29 FVRS1LAC | Financial | Bonds/Debentures | 0.60%
+
+[53] table_row | Holdings ( 326 ) | 112 chars | row_group=1
+Name | Sector | Instruments | Assets | Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.60%
+
+[54] table_row | Holdings ( 326 ) | 72 chars | row_group=1
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 0.60%
+
+[55] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Power Finance Corporation Ltd | Financial | Equity | 0.58%
+
+[56] table_row | Holdings ( 326 ) | 114 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE BANK OF INDIA SR 2 7.33 BD 20SP39 FVRS1CR | Financial | Bonds | 0.56%
+
+[57] table_row | Holdings ( 326 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | JSW Infrastructure Ltd | Industrials | Equity | 0.55%
+
+[58] table_row | Holdings ( 326 ) | 125 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100 | Entities | GOI Securities | 0.53%
+
+[59] table_row | Holdings ( 326 ) | 75 chars | row_group=1
+Name | Sector | Instruments | Assets | REC Ltd | Financial | Equity | 0.51%
+
+[60] table_row | Holdings ( 326 ) | 118 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE BANK OF INDIA SR I 7.42 BD 29AG39 FVRS1CR | Financial | Debenture | 0.51%
+
+[61] table_row | Holdings ( 326 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | AU Small Finance Bank Ltd | Financial | Equity | 0.50%
+
+[62] table_row | Holdings ( 326 ) | 132 chars | row_group=1
+Name | Sector | Instruments | Assets | Brookfield India Real Estate Trust REIT | Real Estate | Real Estate Investment Trusts | 0.50%
+
+[63] table_row | Holdings ( 326 ) | 134 chars | row_group=1
+Name | Sector | Instruments | Assets | PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC | Industrials | Debenture | 0.48%
+
+[64] table_row | Holdings ( 326 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Jindal Steel & Power Ltd | Materials | Equity | 0.47%
+
+[65] table_row | Holdings ( 326 ) | 114 chars | row_group=1
+Name | Sector | Instruments | Assets | Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 0.47%
+
+[66] table_row | Holdings ( 326 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Ultratech Cement Ltd | Materials | Equity | 0.46%
+
+[67] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Ipca Laboratories Ltd | Healthcare | Equity | 0.46%
+
+[68] table_row | Holdings ( 326 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | Hindustan Aeronautics Ltd | Industrials | Equity | 0.44%
+
+[69] table_row | Holdings ( 326 ) | 107 chars | row_group=1
+Name | Sector | Instruments | Assets | Canara HSBC Life Insurance Company Ltd. | Financial | Equity | 0.43%
+
+[70] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Aurobindo Pharma Ltd | Healthcare | Equity | 0.43%
+
+[71] table_row | Holdings ( 326 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Auto Ltd | Consumer Discretionary | Equity | 0.43%
+
+[72] table_row | Holdings ( 326 ) | 153 chars | row_group=1
+Name | Sector | Instruments | Assets | TORRENT POWER LIMITED SR 15 TR D 8.20 NCD 24JU36 FVRS1LAC | Energy & Utilities | Non Convertible Debenture | 0.41%
+
+[73] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Kaynes Technology India Ltd | Industrials | Equity | 0.39%
+
+[74] table_row | Holdings ( 326 ) | 99 chars | row_group=1
+Name | Sector | Instruments | Assets | Britannia Industries Ltd | Consumer Staples | Equity | 0.39%
+
+[75] table_row | Holdings ( 326 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.39%
+
+[76] table_row | Holdings ( 326 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | Techno Electric & Engineering Company Ltd | Industrials | Equity | 0.39%
+
+[77] table_row | Holdings ( 326 ) | 107 chars | row_group=1
+Name | Sector | Instruments | Assets | Dynamatic Technologies Ltd | Consumer Discretionary | Equity | 0.39%
+
+[78] table_row | Holdings ( 326 ) | 78 chars | row_group=1
+Name | Sector | Instruments | Assets | BEML Ltd | Industrials | Equity | 0.39%
+
+[79] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | WeWork India Management Ltd. | Industrials | Equity | 0.39%
+
+[80] table_row | Holdings ( 326 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Finserv Ltd | Financial | Equity | 0.38%
+
+[81] table_row | Holdings ( 326 ) | 145 chars | row_group=1
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC | Financial | Bonds/NCDs | 0.37%
+
+[82] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Apollo Tyres Ltd | Consumer Discretionary | Equity | 0.37%
+
+[83] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharat Forge Ltd | Consumer Discretionary | Equity | 0.37%
+
+[84] table_row | Holdings ( 326 ) | 115 chars | row_group=1
+Name | Sector | Instruments | Assets | REC LIMITED SR 201B 6.90 BD 31MR31 FVRS10LAC | Financial | Debenture | 0.36%
+
+[85] table_row | Holdings ( 326 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Gujarat Pipavav Port Ltd | Industrials | Equity | 0.36%
+
+[86] table_row | Holdings ( 326 ) | 142 chars | row_group=1
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC | Financial | Debenture | 0.35%
+
+[87] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Five-Star Business Finance Ltd | Financial | Equity | 0.33%
+
+[88] table_row | Holdings ( 326 ) | 123 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR AA010 7.80 NCD 06SP32 FVRS10LAC | Financial | Debenture | 0.33%
+
+[89] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 179 7.44 BD 13JU34 FVRS1LAC | Financial | Bonds | 0.32%
+
+[90] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100 | Industrials | State Development Loan | 0.32%
+
+[91] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Titagarh Wagons Ltd | Industrials | Equity | 0.32%
+
+[92] table_row | Holdings ( 326 ) | 166 chars | row_group=1
+Name | Sector | Instruments | Assets | HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR E 7.29 NCD 12FB35 FVRS1LAC | Financial | Non Convertible Debenture | 0.32%
+
+[93] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Hindustan Unilever Ltd | Consumer Staples | Equity | 0.31%
+
+[94] table_row | Holdings ( 326 ) | 118 chars | row_group=1
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC | Financial | Bonds/NCDs | 0.31%
+
+[95] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Bosch Ltd | Consumer Discretionary | Equity | 0.31%
+
+[96] table_row | Holdings ( 326 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Ambuja Cements Ltd | Materials | Equity | 0.31%
+
+[97] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Rubicon Research Ltd. | Healthcare | Equity | 0.30%
+
+[98] table_row | Holdings ( 326 ) | 93 chars | row_group=1
+Name | Sector | Instruments | Assets | United Spirits Ltd | Consumer Staples | Equity | 0.29%
+
+[99] table_row | Holdings ( 326 ) | 142 chars | row_group=1
+Name | Sector | Instruments | Assets | INVIT POWERGRID INFRASTRUCTURE INVESTMENT TRUST | Industrials | Infrastructure Investment Trust | 0.29%
+
+[100] table_row | Holdings ( 326 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | Savita Oil Technologies Ltd | Materials | Equity | 0.29%
+
+[101] table_row | Holdings ( 326 ) | 80 chars | row_group=1
+Name | Sector | Instruments | Assets | Mphasis Ltd | Technology | Equity | 0.28%
+
+[102] table_row | Holdings ( 326 ) | 110 chars | row_group=1
+Name | Sector | Instruments | Assets | Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.28%
+
+[103] table_row | Holdings ( 326 ) | 115 chars | row_group=1
+Name | Sector | Instruments | Assets | HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.28%
+
+[104] table_row | Holdings ( 326 ) | 118 chars | row_group=1
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 7.82% NCD 31JN34 FVRS1LAC | Financial | Debenture | 0.28%
+
+[105] table_row | Holdings ( 326 ) | 141 chars | row_group=1
+Name | Sector | Instruments | Assets | ULTRATECH CEMENT LIMITED SR I 7.22 NCD 02FB29 FVRS1LAC | Materials | Non Convertible Debenture | 0.28%
+
+[106] table_row | Holdings ( 326 ) | 133 chars | row_group=1
+Name | Sector | Instruments | Assets | MUTHOOT FINANCE LIMITED RR NCD 04SP29 FVRS1LAC | Financial | Non Convertible Debenture | 0.28%
+
+[107] table_row | Holdings ( 326 ) | 122 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR US006 7.75 NCD 13JU33 FVRS1LAC | Financial | Debenture | 0.27%
+
+[108] table_row | Holdings ( 326 ) | 148 chars | row_group=1
+Name | Sector | Instruments | Assets | JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD7 7.90 LOA 10AG28 FVRS1LAC | Industrials | Debenture | 0.27%
+
+[109] table_row | Holdings ( 326 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Kalpataru Power Transmission Ltd | Industrials | Equity | 0.25%
+
+[110] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharat Dynamics Ltd | Industrials | Equity | 0.25%
+
+[111] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Mishra Dhatu Nigam Ltd | Materials | Equity | 0.25%
+
+[112] table_row | Holdings ( 326 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | Lakshmi Machine Works Ltd | Industrials | Equity | 0.24%
+
+[113] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 31909 GOI 22AG32 7.26 FV RS 100 | Entities | GOI Securities | 0.24%
+
+[114] table_row | Holdings ( 326 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Aavas Financiers Ltd | Financial | Equity | 0.24%
+
+[115] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Godrej Properties Ltd | Real Estate | Equity | 0.23%
+
+[116] table_row | Holdings ( 326 ) | 141 chars | row_group=1
+Name | Sector | Instruments | Assets | HDB FINANCIAL SERVICES LIMITED SR A/1 FX 198 7.988 LOA 08DC26 FVRS1LAC | Financial | Debenture | 0.23%
+
+[117] table_row | Holdings ( 326 ) | 143 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 439 7.73 NCD 22MR34 FVRS 1LAC | Financial | Non Convertible Debenture | 0.23%
+
+[118] table_row | Holdings ( 326 ) | 149 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25E 7.53 BD 24MR28 FVRS1LAC | Financial | Bonds | 0.23%
+
+[119] table_row | Holdings ( 326 ) | 125 chars | row_group=1
+Name | Sector | Instruments | Assets | BAJAJ HOUSING FINANCE LIMITED 7.66 NCD 20MR28 FVRS1LAC | Financial | Debenture | 0.23%
+
+[120] table_row | Holdings ( 326 ) | 125 chars | row_group=1
+Name | Sector | Instruments | Assets | BAJAJ HOUSING FINANCE LIMITED 7.89 NCD 14JL34 FVRS1LAC | Financial | Debenture | 0.23%
+
+[121] table_row | Holdings ( 326 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | BANK OF BARODA SR XXV 7.75 BD 21DC33 FVRS1CR | Financial | Bonds | 0.23%
+
+[122] table_row | Holdings ( 326 ) | 133 chars | row_group=1
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 7.57 NCD 03AP30 FVRS1LAC | Financial | Non Convertible Debenture | 0.23%
+
+[123] table_row | Holdings ( 326 ) | 118 chars | row_group=1
+Name | Sector | Instruments | Assets | PUNJAB NATIONAL BANK SR III 7.34 BD 14FB35 FVRS1LAC | Financial | Bonds | 0.23%
+
+[124] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Alkem Laboratories Ltd | Healthcare | Equity | 0.23%
+
+[125] table_row | Holdings ( 326 ) | 109 chars | row_group=1
+Name | Sector | Instruments | Assets | BANK OF BARODA CD 06JAN27 | Financial | Certificate of Deposit | 0.23%
+
+[126] table_row | Holdings ( 326 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | J Kumar Infraprojects Ltd | Industrials | Equity | 0.23%
+
+[127] table_row | Holdings ( 326 ) | 127 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIA UNIVERSAL TRUST AL1 SERIES A3 PTC 25SEP24 | Unspecified | Securitised Debt | 0.21%
+
+[128] table_row | Holdings ( 326 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | NHPC Ltd | Energy & Utilities | Equity | 0.21%
+
+[129] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Trent Ltd | Consumer Discretionary | Equity | 0.21%
+
+[130] table_row | Holdings ( 326 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Time Technoplast Ltd | Materials | Equity | 0.21%
+
+[131] table_row | Holdings ( 326 ) | 112 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 7.35 BD 02JN32 FVRS1LAC | Financial | Bonds | 0.21%
+
+[132] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 0.20%
+
+[133] table_row | Holdings ( 326 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.20%
+
+[134] table_row | Holdings ( 326 ) | 172 chars | row_group=1
+Name | Sector | Instruments | Assets | CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD72 9.10 NCD 27JU31 FVRS1LAC | Financial | Non Convertible Debenture | 0.19%
+
+[135] table_row | Holdings ( 326 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Tech Mahindra Ltd | Technology | Equity | 0.19%
+
+[136] table_row | Holdings ( 326 ) | 118 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE BANK OF INDIA SR I 7.81 BD 02NV38 FVRS1CR | Financial | Debenture | 0.19%
+
+[137] table_row | Holdings ( 326 ) | 160 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 175 7.57 BD 18AP29 FVRS1LAC | Financial | Non Convertible Debenture | 0.19%
+
+[138] table_row | Holdings ( 326 ) | 132 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 7.59 BD 08SP27 FVRS1LAC | Financial | Non Convertible Debenture | 0.19%
+
+[139] table_row | Holdings ( 326 ) | 76 chars | row_group=1
+Name | Sector | Instruments | Assets | PCBL Ltd | Materials | Equity | 0.19%
+
+[140] table_row | Holdings ( 326 ) | 142 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 446 7.65 NCD 19AG31 FVRS1LAC | Financial | Non Convertible Debenture | 0.18%
+
+[141] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | SUNDARAM FINANCE LIMITED SR Z7 7.24 NCD 14FB28 FVRS1LAC | Financial | Debenture | 0.18%
+
+[142] table_row | Holdings ( 326 ) | 149 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC | Financial | Bonds | 0.18%
+
+[143] table_row | Holdings ( 326 ) | 159 chars | row_group=1
+Name | Sector | Instruments | Assets | MAHANAGAR TELEPHONE NIGAM LIMITED. SR VIII TR C 7.80 BD 07NV33 FVRS1LAC | Technology | Non Convertible Debenture | 0.18%
+
+[144] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Tega Industries Ltd | Industrials | Equity | 0.18%
+
+[145] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36288 MP 06AG43 7.22 FV RS 100 | Unspecified | State Development Loan | 0.18%
+
+[146] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Ashoka Buildcon Ltd | Industrials | Equity | 0.18%
+
+[147] table_row | Holdings ( 326 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.18%
+
+[148] table_row | Holdings ( 326 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | CESC Ltd | Energy & Utilities | Equity | 0.17%
+
+[149] table_row | Holdings ( 326 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | Ashok Leyland Ltd | Industrials | Equity | 0.17%
+
+[150] table_row | Holdings ( 326 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Industrials | Equity | 0.17%
+
+[151] table_row | Holdings ( 326 ) | 122 chars | row_group=1
+Name | Sector | Instruments | Assets | Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.16%
+
+[152] table_row | Holdings ( 326 ) | 172 chars | row_group=1
+Name | Sector | Instruments | Assets | CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD80 8.88 NCD 25JU33 FVRS1LAC | Financial | Non Convertible Debenture | 0.16%
+
+[153] table_row | Holdings ( 326 ) | 144 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 180 7.39 BD 15JL34 FVRS1LAC | Financial | Debenture | 0.16%
+
+[154] table_row | Holdings ( 326 ) | 84 chars | row_group=1
+Name | Sector | Instruments | Assets | Asian Paints Ltd | Materials | Equity | 0.16%
+
+[155] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | 7.35% RECL 31 JULY 2034 | Financial | Bonds | 0.15%
+
+[156] table_row | Holdings ( 326 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | Garden Reach Shipbuilders & Engineers Ltd | Industrials | Equity | 0.15%
+
+[157] table_row | Holdings ( 326 ) | 153 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24E 7.80 BD 15MR27 FVRS1LAC | Financial | Debenture | 0.15%
+
+[158] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36290 MP 06AG48 7.22 FV RS 100 | Unspecified | State Development Loan | 0.15%
+
+[159] table_row | Holdings ( 326 ) | 128 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 438 7.8350 NCD 11MY27 FVRS1LAC | Financial | Debenture | 0.14%
+
+[160] table_row | Holdings ( 326 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.14%
+
+[161] table_row | Holdings ( 326 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Shriram Transport Finance Company Ltd | Financial | Equity | 0.14%
+
+[162] table_row | Holdings ( 326 ) | 143 chars | row_group=1
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VI 7.79 BD 14MY27 FVRS1LAC | Financial | Debenture | 0.14%
+
+[163] table_row | Holdings ( 326 ) | 154 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 23I 7.62 LOA 31JN28 FVRS1LAC | Financial | Debenture | 0.14%
+
+[164] table_row | Holdings ( 326 ) | 78 chars | row_group=1
+Name | Sector | Instruments | Assets | Cipla Ltd | Healthcare | Equity | 0.14%
+
+[165] table_row | Holdings ( 326 ) | 123 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 451 7.66 NCD 11DC29 FVRS 1LAC | Financial | Bonds | 0.14%
+
+[166] table_row | Holdings ( 326 ) | 117 chars | row_group=1
+Name | Sector | Instruments | Assets | MUTHOOT FINANCE LIMITED RR NCD 26JL29 FVRS1LAC | Financial | Debenture | 0.14%
+
+[167] table_row | Holdings ( 326 ) | 135 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC | Financial | Bonds | 0.14%
+
+[168] table_row | Holdings ( 326 ) | 147 chars | row_group=1
+Name | Sector | Instruments | Assets | POWER GRID CORPORATION OF INDIA LIMITED SR LXXX 7.12 BD 24DC34 FVRS1LAC | Energy & Utilities | Bonds | 0.14%
+
+[169] table_row | Holdings ( 326 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | YES BANK LIMITED CD 11MAR27 | Financial | Certificate of Deposit | 0.13%
+
+[170] table_row | Holdings ( 326 ) | 131 chars | row_group=1
+Name | Sector | Instruments | Assets | India Universal Trust AL1 Sec. Debt 8.09 21/11/2027 | Unspecified | Securitised Debt | 0.13%
+
+[171] table_row | Holdings ( 326 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC Life Insurance Co Ltd | Financial | Equity | 0.13%
+
+[172] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 187 7.28 BD 14FB40 FVRS1LAC | Financial | Bonds | 0.13%
+
+[173] table_row | Holdings ( 326 ) | 77 chars | row_group=1
+Name | Sector | Instruments | Assets | DLF Ltd | Real Estate | Equity | 0.13%
+
+[174] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | SUNDARAM FINANCE LIMITED SR Z8 7.45 NCD 16MR29 FVRS1LAC | Financial | Debenture | 0.13%
+
+[175] table_row | Holdings ( 326 ) | 143 chars | row_group=1
+Name | Sector | Instruments | Assets | TATA CAPITAL HOUSING FINANCE LIMITED SR D OP II 7.8 NCD 05AG27 FVRS10LAC | Financial | Debenture | 0.12%
+
+[176] table_row | Holdings ( 326 ) | 113 chars | row_group=1
+Name | Sector | Instruments | Assets | Gujarat Industries Power Company Ltd | Energy & Utilities | Equity | 0.12%
+
+[177] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Aditya Birla Sun Life AMC Ltd | Financial | Equity | 0.12%
+
+[178] table_row | Holdings ( 326 ) | 166 chars | row_group=1
+Name | Sector | Instruments | Assets | HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR F 7.37 NCD 12MR35 FVRS1LAC | Financial | Non Convertible Debenture | 0.11%
+
+[179] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Info Edge (India) Ltd | Technology | Equity | 0.11%
+
+[180] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100 | Entities | GOI Securities | 0.11%
+
+[181] table_row | Holdings ( 326 ) | 84 chars | row_group=1
+Name | Sector | Instruments | Assets | Bandhan Bank Ltd | Financial | Equity | 0.11%
+
+[182] table_row | Holdings ( 326 ) | 101 chars | row_group=1
+Name | Sector | Instruments | Assets | SBI Cards & Payments Services Ltd | Financial | Equity | 0.11%
+
+[183] table_row | Holdings ( 326 ) | 141 chars | row_group=1
+Name | Sector | Instruments | Assets | BAJAJ HOUSING FINANCE LIMITED NCD 7.50 09AP35 FVRS1LAC | Financial | Non Convertible Debenture | 0.11%
+
+[184] table_row | Holdings ( 326 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Consumer Discretionary | Equity | 0.11%
+
+[185] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Jio Financial Services Limited | Financial | Equity | 0.11%
+
+[186] table_row | Holdings ( 326 ) | 148 chars | row_group=1
+Name | Sector | Instruments | Assets | JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD8 7.43 LOA 24OT34 FVRS1LAC | Industrials | Debenture | 0.11%
+
+[187] table_row | Holdings ( 326 ) | 133 chars | row_group=1
+Name | Sector | Instruments | Assets | PIPELINE INFRASTRUCTURE LIMITED SR 2 7.96 NCD 11MR28 FVRS1AC | Industrials | Debenture | 0.11%
+
+[188] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Dr. Reddy's Laboratories Ltd | Healthcare | Equity | 0.11%
+
+[189] table_row | Holdings ( 326 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Whirlpool Of India Ltd | Consumer Discretionary | Equity | 0.11%
+
+[190] table_row | Holdings ( 326 ) | 106 chars | row_group=1
+Name | Sector | Instruments | Assets | LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.11%
+
+[191] table_row | Holdings ( 326 ) | 80 chars | row_group=1
+Name | Sector | Instruments | Assets | Swiggy Ltd. | Technology | Equity | 0.11%
+
+[192] table_row | Holdings ( 326 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Avenue Supermarts Ltd | Consumer Staples | Equity | 0.10%
+
+[193] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Blue Dart Express Ltd | Industrials | Equity | 0.10%
+
+[194] table_row | Holdings ( 326 ) | 125 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 33071 GOI 19JU53 7.3 FV RS 100 | Entities | GOI Securities | 0.10%
+
+[195] table_row | Holdings ( 326 ) | 130 chars | row_group=1
+Name | Sector | Instruments | Assets | REC LIMITED SR 199 7.96 BD 15JU30 FVRS10LAC | Financial | Non Convertible Debenture | 0.10%
+
+[196] table_row | Holdings ( 326 ) | 132 chars | row_group=1
+Name | Sector | Instruments | Assets | POWER FINANCE CORPORATION LIMITED SR 246B 7.38 BD 15JN32 FVRS1LAC | Financial | Bonds | 0.10%
+
+[197] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | JSW Energy Ltd | Energy & Utilities | Equity | 0.10%
+
+[198] table_row | Holdings ( 326 ) | 120 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC Housing Finance Ltd Debenture 8.75 08/12/2028 | Financial | Debenture | 0.10%
+
+[199] table_row | Holdings ( 326 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | 7.71% GOI 18-May-2066 | Entities | GOI Securities | 0.09%
+
+[200] table_row | Holdings ( 326 ) | 133 chars | row_group=1
+Name | Sector | Instruments | Assets | KOTAK MAHINDRA INVESTMENTS LIMITED 8.1929 NCD 28JN27 FVRS1LAC | Financial | Bonds/NCDs | 0.09%
+
+[201] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC | Financial | Bonds | 0.09%
+
+[202] table_row | Holdings ( 326 ) | 117 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 7.51 BD 04AP31 FVRS1LAC | Financial | Bonds/NCDs | 0.09%
+
+[203] table_row | Holdings ( 326 ) | 116 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 7.59 BD 14JL27 FVRS1LAC | Financial | Debenture | 0.09%
+
+[204] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 440 7.87 NCD 14MY29 FVRS1LAC | Financial | Debenture | 0.09%
+
+[205] table_row | Holdings ( 326 ) | 142 chars | row_group=1
+Name | Sector | Instruments | Assets | TOYOTA FINANCIAL SERVICES INDIA LIMITED SR S40 8.15 LOA 07SP26 FVRS1LAC | Financial | Debenture | 0.09%
+
+[206] table_row | Holdings ( 326 ) | 148 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LIMITED TR- 353 7.75 LOA 23NV27 FVRS10LAC | Financial | Non Convertible Debenture | 0.09%
+
+[207] table_row | Holdings ( 326 ) | 117 chars | row_group=1
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 8.08 NCD 20MY36 FVRS1LAC | Financial | Debenture | 0.09%
+
+[208] table_row | Holdings ( 326 ) | 136 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LIMITED TR 434 OP I 7.70 LOA 16MY28 FVRS10LAC | Financial | Debenture | 0.09%
+
+[209] table_row | Holdings ( 326 ) | 137 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LIMITED TR 417 OPT I 6.40 LOA 30NV26 FVRS10LAC | Financial | Debenture | 0.09%
+
+[210] table_row | Holdings ( 326 ) | 153 chars | row_group=1
+Name | Sector | Instruments | Assets | CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR 665 RR NCD 27FB29 FVRS1LAC | Financial | Debenture | 0.09%
+
+[211] table_row | Holdings ( 326 ) | 138 chars | row_group=1
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC | Financial | Bonds | 0.09%
+
+[212] table_row | Holdings ( 326 ) | 160 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 181 7.37 BD 31JL29 FVRS1LAC | Financial | Non Convertible Debenture | 0.09%
+
+[213] table_row | Holdings ( 326 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Jubilant FoodWorks Ltd | Consumer Discretionary | Equity | 0.09%
+
+[214] table_row | Holdings ( 326 ) | 135 chars | row_group=1
+Name | Sector | Instruments | Assets | TATA CAPITAL LIMITED SR B RR NCD 21FB29 FVRS1LAC | Financial | Non Convertible Debenture | 0.09%
+
+[215] table_row | Holdings ( 326 ) | 137 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36384 AP 03SP37 7.63 FV RS 100 | Financial | State Development Loan | 0.09%
+
+[216] table_row | Holdings ( 326 ) | 132 chars | row_group=1
+Name | Sector | Instruments | Assets | POWER FINANCE CORPORATION LIMITED SR 247A 7.44 BD 15JN30 FVRS1LAC | Financial | Bonds | 0.09%
+
+[217] table_row | Holdings ( 326 ) | 149 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC | Financial | Bonds | 0.09%
+
+[218] table_row | Holdings ( 326 ) | 136 chars | row_group=1
+Name | Sector | Instruments | Assets | POWER FINANCE CORPORATION LIMITED SR 258A 6.92 BD 16FB28 FVRS1LAC | Financial | Debenture | 0.09%
+
+[219] table_row | Holdings ( 326 ) | 166 chars | row_group=1
+Name | Sector | Instruments | Assets | HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 6.64 NCD 17JL28 FVRS1LAC | Financial | Non Convertible Debenture | 0.09%
+
+[220] table_row | Holdings ( 326 ) | 132 chars | row_group=1
+Name | Sector | Instruments | Assets | POWER FINANCE CORPORATION LIMITED SR 247B 7.40 BD 15JN35 FVRS1LAC | Financial | Bonds | 0.09%
+
+[221] table_row | Holdings ( 326 ) | 149 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25F 7.37 BD 28MY35 FVRS1LAC | Financial | Bonds | 0.09%
+
+[222] table_row | Holdings ( 326 ) | 97 chars | row_group=1
+Name | Sector | Instruments | Assets | Indraprastha Gas Ltd | Energy & Utilities | Equity | 0.09%
+
+[223] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36558 MP 01OT45 7.48 FV RS 100 | Unspecified | State Development Loan | 0.09%
+
+[224] table_row | Holdings ( 326 ) | 124 chars | row_group=1
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 7.70 NCD 04OT34 FVRS1LAC | Financial | Bonds/Debentures | 0.09%
+
+[225] table_row | Holdings ( 326 ) | 114 chars | row_group=1
+Name | Sector | Instruments | Assets | UNION BANK OF INDIA CD 19JAN27 | Financial | Certificate of Deposit | 0.09%
+
+[226] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 30969 MP 17NV41 6.99 FV RS 100 | Unspecified | State Development Loan | 0.09%
+
+[227] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36739 GUJ 26NV33 7.07 FV RS 100 | Industrials | State Development Loan | 0.08%
+
+[228] table_row | Holdings ( 326 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | UTI Asset Management Company Ltd | Financial | Equity | 0.08%
+
+[229] table_row | Holdings ( 326 ) | 109 chars | row_group=1
+Name | Sector | Instruments | Assets | Tenneco Clean Air India Ltd. | Consumer Discretionary | Equity | 0.08%
+
+[230] table_row | Holdings ( 326 ) | 100 chars | row_group=1
+Name | Sector | Instruments | Assets | Texmaco Rail & Engineering Ltd | Industrials | Equity | 0.07%
+
+[231] table_row | Holdings ( 326 ) | 109 chars | row_group=1
+Name | Sector | Instruments | Assets | REC LIMITED SR 233 7.53 BD 31MY34 FVRS1LAC | Financial | Bonds | 0.07%
+
+[232] table_row | Holdings ( 326 ) | 137 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36381 AP 03SP33 7.48 FV RS 100 | Financial | State Development Loan | 0.07%
+
+[233] table_row | Holdings ( 326 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Aegis Vopak Terminals Ltd. | Energy & Utilities | Equity | 0.07%
+
+[234] table_row | Holdings ( 326 ) | 114 chars | row_group=1
+Name | Sector | Instruments | Assets | Zee Entertainment Enterprises Ltd | Consumer Discretionary | Equity | 0.07%
+
+[235] table_row | Holdings ( 326 ) | 135 chars | row_group=1
+Name | Sector | Instruments | Assets | Indian Railway Finance Corporation Ltd Debenture 7.49 30/05/2027 | Financial | Debenture | 0.07%
+
+[236] table_row | Holdings ( 326 ) | 160 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 178 7.46 BD 18JU29 FVRS1LAC | Financial | Non Convertible Debenture | 0.07%
+
+[237] table_row | Holdings ( 326 ) | 142 chars | row_group=1
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.22 BD 10AP29 FVRS1LAC | Financial | Debenture | 0.07%
+
+[238] table_row | Holdings ( 326 ) | 148 chars | row_group=1
+Name | Sector | Instruments | Assets | L&T METRO RAIL (HYDERABAD) LIMITED 7.55 NCD 28AP35 FVRS1LAC | Industrials | Non Convertible Debenture | 0.07%
+
+[239] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100 | Entities | GOI Securities | 0.07%
+
+[240] table_row | Holdings ( 326 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Home First Finance Company India Ltd | Financial | Equity | 0.07%
+
+[241] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36720 RAJ 19NV37 7.29 FV RS 100 | Unspecified | State Development Loan | 0.06%
+
+[242] table_row | Holdings ( 326 ) | 82 chars | row_group=1
+Name | Sector | Instruments | Assets | PB Fintech Ltd | Financial | Equity | 0.06%
+
+[243] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | NUVOCO Vistas Corp Ltd | Materials | Equity | 0.06%
+
+[244] table_row | Holdings ( 326 ) | 137 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36383 AP 03SP36 7.62 FV RS 100 | Financial | State Development Loan | 0.06%
+
+[245] table_row | Holdings ( 326 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | ITC Hotels Ltd | Consumer Discretionary | Equity | 0.06%
+
+[246] table_row | Holdings ( 326 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Vodafone Idea Ltd | Technology | Equity | 0.06%
+
+[247] table_row | Holdings ( 326 ) | 101 chars | row_group=1
+Name | Sector | Instruments | Assets | Milky Mist Dairy Food Ltd. | Consumer Staples | Equity | 0.06%
+
+[248] table_row | Holdings ( 326 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | Housing & Urban Development Corporation Ltd | Financial | Equity | 0.06%
+
+[249] table_row | Holdings ( 326 ) | 137 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36382 AP 03SP34 7.48 FV RS 100 | Financial | State Development Loan | 0.06%
+
+[250] table_row | Holdings ( 326 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | IIFL Wealth Management Ltd | Financial | Equity | 0.06%
+
+[251] table_row | Holdings ( 326 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Torrent Power Ltd | Energy & Utilities | Equity | 0.05%
+
+[252] table_row | Holdings ( 326 ) | 138 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR Y005 6.83 NCD 08JN31 FVRS10LAC | Financial | Non Convertible Debenture | 0.05%
+
+[253] table_row | Holdings ( 326 ) | 127 chars | row_group=1
+Name | Sector | Instruments | Assets | BHARTI TELECOM LIMITED SR XXIX 7.75 NCD 29FB28 FVRS1LAC | Technology | Debenture | 0.05%
+
+[254] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Persistent Systems Ltd | Technology | Equity | 0.05%
+
+[255] table_row | Holdings ( 326 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Westlife Development Ltd | Consumer Discretionary | Equity | 0.05%
+
+[256] table_row | Holdings ( 326 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Bharti Hexacom Ltd. | Technology | Equity | 0.05%
+
+[257] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 37672 TN 15JL34 7.39 FV RS 100 | Unspecified | State Development Loan | 0.05%
+
+[258] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33844 GUJ 17JN33 7.64 FV RS 100 | Industrials | State Development Loan | 0.05%
+
+[259] table_row | Holdings ( 326 ) | 124 chars | row_group=1
+Name | Sector | Instruments | Assets | GRASIM INDUSTRIES LIMITED SR II 7.63 LOA 01DC27 FVRS10LAC | Materials | Bonds | 0.05%
+
+[260] table_row | Holdings ( 326 ) | 154 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24C 7.83 BD 30DC26 FVRS1LAC | Financial | Bonds/NCDs | 0.05%
+
+[261] table_row | Holdings ( 326 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | 7.90% LIC Housing Finance Ltd NCD 23-06-2027 | Financial | Bonds | 0.05%
+
+[262] table_row | Holdings ( 326 ) | 122 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR US003 7.70 NCD 16MY28 FVRS1LAC | Financial | Debenture | 0.05%
+
+[263] table_row | Holdings ( 326 ) | 127 chars | row_group=1
+Name | Sector | Instruments | Assets | GRASIM INDUSTRIES LIMITED SR I 7.50 LOA 10JU27 FVRS10LAC | Materials | Debenture | 0.05%
+
+[264] table_row | Holdings ( 326 ) | 135 chars | row_group=1
+Name | Sector | Instruments | Assets | Union Bank of India SR-XX Additional Tier 1 Bo 9.50 | Financial | Additional Tier 1 Bond | 0.05%
+
+[265] table_row | Holdings ( 326 ) | 160 chars | row_group=1
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.55 BD 22SP26 FVRS1LAC | Financial | Non Convertible Debenture | 0.05%
+
+[266] table_row | Holdings ( 326 ) | 141 chars | row_group=1
+Name | Sector | Instruments | Assets | Power Grid Corporation of India Ltd Debenture 7.30 19/06/2027 | Energy & Utilities | Debenture | 0.05%
+
+[267] table_row | Holdings ( 326 ) | 146 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 172B 7.45 BD 13OT28 FVRS1LAC | Financial | Bonds/NCDs | 0.05%
+
+[268] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100 | Unspecified | State Development Loan | 0.05%
+
+[269] table_row | Holdings ( 326 ) | 160 chars | row_group=1
+Name | Sector | Instruments | Assets | INDIAN OIL CORPORATION LIMITED SR XXVII 7.25 NCD 06JN30 FVRS1LAC | Energy & Utilities | Non Convertible Debenture | 0.05%
+
+[270] table_row | Holdings ( 326 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | 7.48 SIDBI 24.05.2029 | Financial | Bonds | 0.05%
+
+[271] table_row | Holdings ( 326 ) | 122 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR US002 7.80 NCD 03MY33 FVRS1LAC | Financial | Debenture | 0.05%
+
+[272] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.34 BD 26FB29 FVRS1LAC | Financial | Bonds | 0.05%
+
+[273] table_row | Holdings ( 326 ) | 142 chars | row_group=1
+Name | Sector | Instruments | Assets | BHARTI TELECOM LIMITED SR XXX 7.85 NCD 20MR29 FVRS1LAC | Technology | Non Convertible Debenture | 0.05%
+
+[274] table_row | Holdings ( 326 ) | 150 chars | row_group=1
+Name | Sector | Instruments | Assets | HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR B 6.90 NCD 06MY30 FVRS1LAC | Financial | Debenture | 0.05%
+
+[275] table_row | Holdings ( 326 ) | 112 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 6.80 BD 02AP32 FVRS1LAC | Financial | Bonds | 0.05%
+
+[276] table_row | Holdings ( 326 ) | 138 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36634 MH 23OT36 7.2 FV RS 100 | Unspecified | State Development Loan | 0.05%
+
+[277] table_row | Holdings ( 326 ) | 90 chars | row_group=1
+Name | Sector | Instruments | Assets | Fortis Healthcare Ltd | Healthcare | Equity | 0.04%
+
+[278] table_row | Holdings ( 326 ) | 88 chars | row_group=1
+Name | Sector | Instruments | Assets | Ceigall India Ltd. | Industrials | Equity | 0.04%
+
+[279] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33876 GUJ 24JN33 7.63 FV RS 100 | Industrials | State Development Loan | 0.04%
+
+[280] table_row | Holdings ( 326 ) | 114 chars | row_group=1
+Name | Sector | Instruments | Assets | ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.04%
+
+[281] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 37125 HAR 25FB41 7.67 FV RS 100 | Unspecified | State Development Loan | 0.04%
+
+[282] table_row | Holdings ( 326 ) | 106 chars | row_group=1
+Name | Sector | Instruments | Assets | Devyani International Ltd | Consumer Discretionary | Equity | 0.04%
+
+[283] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33845 GUJ 17JN34 7.64 FV RS 100 | Industrials | State Development Loan | 0.04%
+
+[284] table_row | Holdings ( 326 ) | 104 chars | row_group=1
+Name | Sector | Instruments | Assets | Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 0.04%
+
+[285] table_row | Holdings ( 326 ) | 153 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25A 7.70 BD 30SP27 FVRS1LAC | Financial | Debenture | 0.03%
+
+[286] table_row | Holdings ( 326 ) | 142 chars | row_group=1
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 454 7.58 NCD 23MR35 FVRS1LAC | Financial | Non Convertible Debenture | 0.03%
+
+[287] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | RHI Magnesita India Ltd | Materials | Equity | 0.03%
+
+[288] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 37493 GUJ 10JU37 7.63 FV RS 100 | Industrials | State Development Loan | 0.03%
+
+[289] table_row | Holdings ( 326 ) | 155 chars | row_group=1
+Name | Sector | Instruments | Assets | RURAL ELECTRIFICATION CORPORATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC | Financial | Zero Coupon Bonds | 0.03%
+
+[290] table_row | Holdings ( 326 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | SBI Funds Management Ltd | Financial | Equity | 0.03%
+
+[291] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 35031 GOI 07OT34 6.79 FV RS 100 | Entities | GOI Securities | 0.03%
+
+[292] table_row | Holdings ( 326 ) | 127 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR W010 7.40 NCD 28FB30 FVRS10LAC | Financial | Fixed Deposits | 0.03%
+
+[293] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | Uttar Pradesh State Government Securities (20/03/2036) | Unspecified | State Development Loan | 0.03%
+
+[294] table_row | Holdings ( 326 ) | 111 chars | row_group=1
+Name | Sector | Instruments | Assets | Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 0.03%
+
+[295] table_row | Holdings ( 326 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Ramco Systems Ltd | Technology | Equity | 0.03%
+
+[296] table_row | Holdings ( 326 ) | 106 chars | row_group=1
+Name | Sector | Instruments | Assets | Medi Assist Healthcare Services Ltd. | Industrials | Equity | 0.03%
+
+[297] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33877 GUJ 24JN34 7.63 FV RS 100 | Industrials | State Development Loan | 0.03%
+
+[298] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 33002 GOI 12JU63 7.25 FV RS 100 | Entities | GOI Securities | 0.03%
+
+[299] table_row | Holdings ( 326 ) | 122 chars | row_group=1
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR Z007 7.10 NCD 12NV31 FVRS10LAC | Financial | Debenture | 0.03%
+
+[300] table_row | Holdings ( 326 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Coromandel International Ltd | Materials | Equity | 0.02%
+
+[301] table_row | Holdings ( 326 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | Chambal Fertilisers & Chemicals Ltd | Materials | Equity | 0.02%
+
+[302] table_row | Holdings ( 326 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | 7.75% IRFC NCD RED 15-04-2033** | Financial | Debenture | 0.02%
+
+[303] table_row | Holdings ( 326 ) | 136 chars | row_group=1
+Name | Sector | Instruments | Assets | AXIS FINANCE LIMITED SR 03 RR NCD 11JN29 FVRS1LAC | Financial | Non Convertible Debenture | 0.02%
+
+[304] table_row | Holdings ( 326 ) | 149 chars | row_group=1
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC | Financial | Bonds | 0.02%
+
+[305] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | GOI Sec 7.23 15/04/2039 | Entities | GOI Securities | 0.02%
+
+[306] table_row | Holdings ( 326 ) | 125 chars | row_group=1
+Name | Sector | Instruments | Assets | SANSAR TRUST JULY 2023 II SERIES A1 PTC 07AUG23 | Financial | Securitised Debt | 0.02%
+
+[307] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | TruAlt Bioenergy Ltd. | Energy & Utilities | Equity | 0.02%
+
+[308] table_row | Holdings ( 326 ) | 89 chars | row_group=1
+Name | Sector | Instruments | Assets | Aditya Infotech Ltd. | Technology | Equity | 0.02%
+
+[309] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 34136 MH 22MR39 7.45 FV RS 100 | Unspecified | State Development Loan | 0.02%
+
+[310] table_row | Holdings ( 326 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | L&T Finance Holdings Ltd | Financial | Equity | 0.02%
+
+[311] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | BEML Land Assets Ltd. | Real Estate | Equity | 0.02%
+
+[312] table_row | Holdings ( 326 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Fusion Micro Finance Ltd | Financial | Equity | 0.02%
+
+[313] table_row | Holdings ( 326 ) | 105 chars | row_group=1
+Name | Sector | Instruments | Assets | Gsec C-STRIPS Mat 17-June-2028 | Entities | GOI Securities | 0.02%
+
+[314] table_row | Holdings ( 326 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Bajaj Housing Finance Ltd. | Financial | Equity | 0.02%
+
+[315] table_row | Holdings ( 326 ) | 94 chars | row_group=1
+Name | Sector | Instruments | Assets | Varun Beverages Ltd | Consumer Staples | Equity | 0.01%
+
+[316] table_row | Holdings ( 326 ) | 96 chars | row_group=1
+Name | Sector | Instruments | Assets | Emcure Pharmaceuticals Ltd. | Healthcare | Equity | 0.01%
+
+[317] table_row | Holdings ( 326 ) | 91 chars | row_group=1
+Name | Sector | Instruments | Assets | Paradeep Phosphates Ltd | Materials | Equity | 0.01%
+
+[318] table_row | Holdings ( 326 ) | 84 chars | row_group=1
+Name | Sector | Instruments | Assets | Shiprocket Ltd. | Technology | Equity | 0.01%
+
+[319] table_row | Holdings ( 326 ) | 86 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Chemicals Ltd | Materials | Equity | 0.01%
+
+[320] table_row | Holdings ( 326 ) | 87 chars | row_group=1
+Name | Sector | Instruments | Assets | Union Bank of India | Financial | Equity | 0.01%
+
+[321] table_row | Holdings ( 326 ) | 79 chars | row_group=1
+Name | Sector | Instruments | Assets | Rites Ltd | Industrials | Equity | 0.01%
+
+[322] table_row | Holdings ( 326 ) | 106 chars | row_group=1
+Name | Sector | Instruments | Assets | Star Health & Allied Insurance Co. Ltd | Financial | Equity | 0.01%
+
+[323] table_row | Holdings ( 326 ) | 102 chars | row_group=1
+Name | Sector | Instruments | Assets | Campus Activewear Ltd | Consumer Discretionary | Equity | 0.01%
+
+[324] table_row | Holdings ( 326 ) | 75 chars | row_group=1
+Name | Sector | Instruments | Assets | UPL Ltd | Materials | Equity | 0.01%
+
+[325] table_row | Holdings ( 326 ) | 139 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33896 MH 31JN35 7.63 FV RS 100 | Unspecified | State Development Loan | 0.01%
+
+[326] table_row | Holdings ( 326 ) | 84 chars | row_group=1
+Name | Sector | Instruments | Assets | JNK India Ltd. | Industrials | Equity | 0.01%
+
+[327] table_row | Holdings ( 326 ) | 101 chars | row_group=1
+Name | Sector | Instruments | Assets | Tamil Nadu Newsprint & Papers Ltd | Materials | Equity | 0.01%
+
+[328] table_row | Holdings ( 326 ) | 92 chars | row_group=1
+Name | Sector | Instruments | Assets | Aster DM Healthcare Ltd | Healthcare | Equity | 0.01%
+
+[329] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | Raajmarg Infra Investment Trust | Industrials | Infrastructure Investment Trust | 0.01%
+
+[330] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | Kwality Walls India Ltd | Consumer Staples | Equity | 0.00%
+
+[331] table_row | Holdings ( 326 ) | 130 chars | row_group=1
+Name | Sector | Instruments | Assets | CENTRAL GOVERNMENT LOAN 30951 GOI 15DC51 6.99 FV RS 100 | Entities | GOI Securities | 0.00%
+
+[332] table_row | Holdings ( 326 ) | 98 chars | row_group=1
+Name | Sector | Instruments | Assets | GOI Sec 7.17 17/04/2030 | Entities | GOI Securities | 0.00%
+
+[333] table_row | Holdings ( 326 ) | 130 chars | row_group=1
+Name | Sector | Instruments | Assets | CENTRAL GOVERNMENT LOAN 29633 GOI 17DC50 6.67 FV RS 100 | Entities | GOI Securities | 0.00%
+
+[334] table_row | Holdings ( 326 ) | 140 chars | row_group=1
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 34101 CHT 20MR34 7.47 FV RS 100 | Unspecified | State Development Loan | 0.00%
+
+[335] table_row | Holdings ( 326 ) | 99 chars | row_group=1
+Name | Sector | Instruments | Assets | S Chand And Co Ltd | Consumer Discretionary | Equity | 0.00%
+
+[336] table_row | Holdings ( 326 ) | 95 chars | row_group=1
+Name | Sector | Instruments | Assets | CMR Green Technologies Ltd. | Materials | Equity | 0.00%
+
+[337] table_row | Holdings ( 326 ) | 126 chars | row_group=1
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 32584 GOI 06FB33 7.26 FV RS 100 | Entities | GOI Securities | 0.00%
+
+[338] table_row | Holdings ( 326 ) | 101 chars | row_group=1
+Name | Sector | Instruments | Assets | Tata Consumer Products Ltd | Consumer Staples | Equity | 0.00%
+
+[339] table_row | Holdings ( 326 ) | 85 chars | row_group=1
+Name | Sector | Instruments | Assets | Indus Towers Ltd | Technology | Equity | 0.00%
+
+[340] table_row | Holdings ( 326 ) | 103 chars | row_group=1
+Name | Sector | Instruments | Assets | MEP Infrastructure Developers Ltd | Industrials | Equity | 0.00%
+
+[341] table_row | Holdings ( 326 ) | 99 chars | row_group=1
+Name | Sector | Instruments | Assets | AGS Transact Technologies Ltd | Industrials | Equity | 0.00%
+
+[342] para | Holdings ( 326 ) | 7 chars
+See All
+
+[343] heading | Holdings ( 326 ) | 19 chars
+Minimum investments
+
+[344] para | Holdings ( 326 ) > Minimum investments | 75 chars
+Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+
+[345] heading | Holdings ( 326 ) | 20 chars
+Returns and rankings
+
+[346] para | Holdings ( 326 ) > Returns and rankings | 35 chars
+Annualised returns Absolute returns
+
+[347] heading | Holdings ( 326 ) > Returns and rankings | 26 chars
+Name | 3Y | 5Y | 10Y | All
+
+[348] table_row | Holdings ( 326 ) > Returns and rankings | 77 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Fund returns | +10.2% | +13.3% | +13.4% | +14.2%
+
+[349] table_row | Holdings ( 326 ) > Returns and rankings | 115 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Category average ( Hybrid Dynamic Asset Allocation ) | +9.4% | +8.9% | +10.1% | +10.9%
+
+[350] table_row | Holdings ( 326 ) > Returns and rankings | 87 chars | row_group=2
+Name | 3Y | 5Y | 10Y | All | Rank ( Hybrid Dynamic Asset Allocation ) | 9 | 1 | -- | --
+
+[351] heading | Holdings ( 326 ) | 29 chars
+Exit load, stamp duty and tax
+
+[352] para | Holdings ( 326 ) > Exit load, stamp duty and tax | 103 chars
+Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.
+
+[353] heading | Holdings ( 326 ) > Exit load, stamp duty and tax | 54 chars
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+
+[354] para | Holdings ( 326 ) > Exit load, stamp duty and tax > Stamp duty on investment: 0.005% (from July 1st, 2020) | 18 chars
+from July 1st 2020
+
+[355] heading | Holdings ( 326 ) > Exit load, stamp duty and tax | 15 chars
+Tax implication
+
+[356] para | Holdings ( 326 ) > Exit load, stamp duty and tax > Tax implication | 157 chars
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+[357] para | Holdings ( 326 ) > Exit load, stamp duty and tax > Tax implication | 15 chars
+Check past data
+
+[358] heading | Holdings ( 326 ) | 21 chars
+Compare similar funds
+
+[359] heading | Holdings ( 326 ) > Compare similar funds | 33 chars
+ | Name | 1Y | 3Y | Fund Size(Cr)
+
+[360] table_row | Holdings ( 326 ) > Compare similar funds | 129 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Aditya Birla Sun Life Balanced Advantage Fund Direct Growth | +5.70% | +11.13% | 10,125.44
+
+[361] table_row | Holdings ( 326 ) > Compare similar funds | 119 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | ICICI Prudential Balanced Advantage Direct Growth | +2.66% | +10.36% | 75,399.17
+
+[362] table_row | Holdings ( 326 ) > Compare similar funds | 114 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | HDFC Balanced Advantage Fund Direct Growth | -1.43% | +10.20% | 1,07,295.79
+
+[363] table_row | Holdings ( 326 ) > Compare similar funds | 118 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Nippon India Balanced Advantage Fund Direct Growth | +1.81% | +9.86% | 9,917.50
+
+[364] table_row | Holdings ( 326 ) > Compare similar funds | 115 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | DSP Dynamic Asset Allocation Fund Direct Growth | +2.54% | +9.81% | 3,821.11
+
+[365] table_row | Holdings ( 326 ) > Compare similar funds | 43 chars | row_group=3
+ | Name | 1Y | 3Y | Fund Size(Cr) | Compare
+
+[366] heading | Holdings ( 326 ) | 15 chars
+Fund management
+
+[367] heading | Holdings ( 326 ) | 47 chars
+AB Anil Bamboli Jul 2022 - Present View details
+
+[368] para | Holdings ( 326 ) > AB Anil Bamboli Jul 2022 - Present View details | 883 chars
+Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years. Also manages these schemes HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Children's Fund Direct Plan
+
+[369] heading | Holdings ( 326 ) | 47 chars
+AA Arun Agarwal Oct 2022 - Present View details
+
+[370] para | Holdings ( 326 ) > AA Arun Agarwal Oct 2022 - Present View details | 1830 chars
+Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
+
+[371] heading | Holdings ( 326 ) | 48 chars
+DM Dhruv Muchhal Jun 2023 - Present View details
+
+[372] para | Holdings ( 326 ) > DM Dhruv Muchhal Jun 2023 - Present View details | 1899 chars
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+
+[373] heading | Holdings ( 326 ) | 50 chars
+NM Nandita Menezes Mar 2025 - Present View details
+
+[374] para | Holdings ( 326 ) > NM Nandita Menezes Mar 2025 - Present View details | 1753 chars
+Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
+
+[375] heading | Holdings ( 326 ) | 48 chars
+GA Gopal Agrawal Jul 2022 - Present View details
+
+[376] para | Holdings ( 326 ) > GA Gopal Agrawal Jul 2022 - Present View details | 547 chars
+Education Mr.Agrawal is a B.E and MBM. Experience Prior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL. Also manages these schemes HDFC Balanced Advantage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Dividend Yield Fund Direct Growth
+
+[377] heading | Holdings ( 326 ) | 46 chars
+ID Ihab Dalwai Sep 2026 - Present View details
+
+[378] para | Holdings ( 326 ) > ID Ihab Dalwai Sep 2026 - Present View details | 397 chars
+Education Mr. Dalwai is a Chartered Accountant. Experience Prior to joining the HDFC AMC, he was associated with ICICI Prudential AMC. Also manages these schemes HDFC Balanced Advantage Fund Direct Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Multi Asset Active FoF Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth
+
+[379] heading | Holdings ( 326 ) | 48 chars
+About HDFC Balanced Advantage Fund Direct Growth
+
+[380] para | Holdings ( 326 ) > About HDFC Balanced Advantage Fund Direct Growth | 628 chars
+HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹549.92. The HDFC Balanced Advantage Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year. ;
+
+[381] heading | Holdings ( 326 ) > About HDFC Balanced Advantage Fund Direct Growth | 20 chars
+Investment Objective
+
+[382] para | Holdings ( 326 ) > About HDFC Balanced Advantage Fund Direct Growth > Investment Objective | 118 chars
+The Scheme seeks to provide long term capital appreciation / income from a dynamic mix of equity and debt investments.
+
+[383] para | Holdings ( 326 ) > About HDFC Balanced Advantage Fund Direct Growth > Investment Objective | 90 chars
+Fund benchmark NIFTY 50 Hybrid Composite Debt 50:50 Index Scheme Information Document(SID)
+
+[384] heading | Holdings ( 326 ) | 10 chars
+Fund house
+
+[385] para | Holdings ( 326 ) > Fund house | 480 chars
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian HDFC Bank Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,

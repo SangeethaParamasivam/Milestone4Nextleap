@@ -1,0 +1,1273 @@
+[0] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general |  | chars=51 tokens=13
++7.64 % 3Y annualised -0.35 % 1D
+1M 6M 1Y 3Y 5Y All
+---
+[1] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | nav | NAV | chars=63 tokens=16
+NAV: 30 Sep '26 ₹1,161.71 (HDFC Large Cap Fund - Direct Growth)
+---
+[2] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Min. for SIP | chars=55 tokens=14
+Min. for SIP ₹100 (HDFC Large Cap Fund - Direct Growth)
+---
+[3] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Fund size (AUM) | chars=67 tokens=17
+Fund size (AUM) ₹39,933.36 Cr (HDFC Large Cap Fund - Direct Growth)
+---
+[4] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | expense_ratio | Expense ratio | chars=57 tokens=15
+Expense ratio 1.03% (HDFC Large Cap Fund - Direct Growth)
+---
+[5] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Return calculator | chars=126 tokens=32
+Monthly SIP One time
+Monthly investment ₹5,000
+Over the past | Total investment | Would've become | Historic returns | Returns
+---
+[6] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Return calculator | chars=508 tokens=127
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹57,320 |  | -4.47 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,79,633 |  | -0.20 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹3,57,712 |  | + 19.24 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹10,86,022 |  | + 81.00 %
+---
+[7] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Holdings ( 50 ) | chars=809 tokens=203
+Name | Sector | Instruments | Assets | ICICI Bank Ltd | Financial | Equity | 10.05%
+Name | Sector | Instruments | Assets | HDFC Bank Ltd | Financial | Equity | 6.88%
+Name | Sector | Instruments | Assets | Bharti Airtel Ltd | Technology | Equity | 6.23%
+Name | Sector | Instruments | Assets | Kotak Mahindra Bank Ltd | Financial | Equity | 5.71%
+Name | Sector | Instruments | Assets | Titan Company Ltd | Consumer Discretionary | Equity | 5.27%
+Name | Sector | Instruments | Assets | Reliance Industries Ltd | Energy & Utilities | Equity | 4.78%
+Name | Sector | Instruments | Assets | Torrent Pharmaceuticals Ltd | Healthcare | Equity | 4.04%
+Name | Sector | Instruments | Assets | Axis Bank Ltd | Financial | Equity | 3.49%
+Name | Sector | Instruments | Assets | Bajaj Finserv Ltd | Financial | Equity | 3.33%
+---
+[8] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Holdings ( 50 ) | chars=807 tokens=202
+Name | Sector | Instruments | Assets | Bajaj Auto Ltd | Consumer Discretionary | Equity | 2.93%
+Name | Sector | Instruments | Assets | Infosys Ltd | Technology | Equity | 2.76%
+Name | Sector | Instruments | Assets | Lupin Ltd | Healthcare | Equity | 2.53%
+Name | Sector | Instruments | Assets | Zomato Ltd | Technology | Equity | 2.49%
+Name | Sector | Instruments | Assets | Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.44%
+Name | Sector | Instruments | Assets | Ambuja Cements Ltd | Materials | Equity | 2.24%
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Industrials | Equity | 2.02%
+Name | Sector | Instruments | Assets | Larsen & Toubro Ltd | Industrials | Equity | 1.99%
+Name | Sector | Instruments | Assets | Interglobe Aviation Ltd | Industrials | Equity | 1.97%
+---
+[9] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Holdings ( 50 ) | chars=752 tokens=188
+Name | Sector | Instruments | Assets | State Bank of India | Financial | Equity | 1.89%
+Name | Sector | Instruments | Assets | NTPC Ltd | Energy & Utilities | Equity | 1.83%
+Name | Sector | Instruments | Assets | United Spirits Ltd | Consumer Staples | Equity | 1.78%
+Name | Sector | Instruments | Assets | Max Healthcare Institute Ltd | Healthcare | Equity | 1.72%
+Name | Sector | Instruments | Assets | Mankind Pharma Ltd. | Healthcare | Equity | 1.66%
+Name | Sector | Instruments | Assets | Indusind Bank Ltd | Financial | Equity | 1.57%
+Name | Sector | Instruments | Assets | ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.43%
+Name | Sector | Instruments | Assets | Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.37%
+---
+[10] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Holdings ( 50 ) | chars=839 tokens=210
+Name | Sector | Instruments | Assets | Havells India Ltd | Consumer Discretionary | Equity | 1.35%
+Name | Sector | Instruments | Assets | Tata Consumer Products Ltd | Consumer Staples | Equity | 1.31%
+Name | Sector | Instruments | Assets | Swiggy Ltd. | Technology | Equity | 1.30%
+Name | Sector | Instruments | Assets | Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.21%
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 1.04%
+Name | Sector | Instruments | Assets | Eicher Motors Ltd | Consumer Discretionary | Equity | 1.03%
+Name | Sector | Instruments | Assets | SRF Ltd | Materials | Equity | 0.89%
+Name | Sector | Instruments | Assets | Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 0.87%
+Name | Sector | Instruments | Assets | TATA CAPITAL LIMITED EQ | Financial | Equity | 0.75%
+---
+[11] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Holdings ( 50 ) | chars=815 tokens=204
+Name | Sector | Instruments | Assets | SBI Funds Management Ltd | Financial | Equity | 0.67%
+Name | Sector | Instruments | Assets | Dabur India Ltd | Consumer Staples | Equity | 0.66%
+Name | Sector | Instruments | Assets | Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.65%
+Name | Sector | Instruments | Assets | CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.62%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.48%
+Name | Sector | Instruments | Assets | Bharat Electronics Ltd | Industrials | Equity | 0.47%
+Name | Sector | Instruments | Assets | Life Insurance Corporation of India | Financial | Equity | 0.41%
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Consumer Discretionary | Equity | 0.41%
+---
+[12] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Holdings ( 50 ) | chars=654 tokens=164
+Name | Sector | Instruments | Assets | DLF Ltd | Real Estate | Equity | 0.37%
+Name | Sector | Instruments | Assets | Cummins India Ltd | Industrials | Equity | 0.29%
+Name | Sector | Instruments | Assets | Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.28%
+Name | Sector | Instruments | Assets | Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 0.24%
+Name | Sector | Instruments | Assets | Hindalco Industries Ltd | Materials | Equity | 0.23%
+Name | Sector | Instruments | Assets | SBI Life Insurance Company Ltd | Financial | Equity | 0.17%
+Name | Sector | Instruments | Assets | Net Payables | Unspecified | Net Payables | -0.10%
+---
+[13] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Minimum investments | chars=75 tokens=19
+Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+---
+[14] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Returns and rankings | chars=62 tokens=16
+Annualised returns Absolute returns
+Name | 3Y | 5Y | 10Y | All
+---
+[15] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Returns and rankings | chars=252 tokens=63
+Name | 3Y | 5Y | 10Y | All | Fund returns | +7.6% | +9.7% | +12.0% | +12.5%
+Name | 3Y | 5Y | 10Y | All | Category average ( Equity Large Cap ) | +10.3% | +8.7% | +11.9% | +12.7%
+Name | 3Y | 5Y | 10Y | All | Rank ( Equity Large Cap ) | 45 | 21 | 14 | --
+---
+[16] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | exit_load | Exit load, stamp duty and tax | chars=96 tokens=24
+Exit load of 1% if redeemed within 1 year
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+---
+[17] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | exit_load | Tax implication | chars=173 tokens=44
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+---
+[18] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Compare similar funds | chars=590 tokens=148
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Invesco India Large Cap Fund Direct Growth | +1.44% | +12.92% | 2,020.76
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Bandhan Large Cap Fund Direct Growth | -0.75% | +11.77% | 2,179.99
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Nippon India Large Cap Fund Direct Growth | -5.61% | +9.76% | 54,133.66
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | ICICI Prudential Large Cap Fund Direct Growth | -6.17% | +9.51% | 80,206.20
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | HDFC Large Cap Fund Direct Growth | -4.47% | +7.64% | 39,933.36
+ | Name | 1Y | 3Y | Fund Size(Cr) | Compare
+---
+[19] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Holdings ( 50 ) | chars=63 tokens=16
+Fund management
+RB Rahul Baijal Jul 2022 - Present View details
+---
+[20] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | RB Rahul Baijal Jul 2022 - Present View details | chars=448 tokens=112
+Education Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering Experience Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank. Also manages these schemes HDFC Large Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Defence Fund Direct Growth
+---
+[21] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Holdings ( 50 ) | chars=48 tokens=12
+DM Dhruv Muchhal Jun 2023 - Present View details
+---
+[22] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Dir
+---
+[23] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+, Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Grow
+---
+[24] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+on Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logis
+---
+[25] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=359 tokens=90
+Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+---
+[26] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | About HDFC Large Cap Fund Direct Growth | chars=562 tokens=141
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹1,161.71. The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year ;
+Investment Objective
+---
+[27] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | benchmark | Investment Objective | chars=193 tokens=49
+The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
+Fund benchmark NIFTY 100 Total Return Index Scheme Information Document(SID)
+---
+[28] https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth | scheme_page | general | Fund house | chars=480 tokens=120
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian HDFC Bank Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+---
+[29] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general |  | chars=52 tokens=13
++14.54 % 3Y annualised -0.17 % 1D
+1M 6M 1Y 3Y 5Y All
+---
+[30] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | nav | NAV | chars=72 tokens=18
+NAV: 30 Sep '26 ₹2,169.07 (HDFC Equity (Flexi Cap) Fund - Direct Growth)
+---
+[31] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Min. for SIP | chars=64 tokens=16
+Min. for SIP ₹100 (HDFC Equity (Flexi Cap) Fund - Direct Growth)
+---
+[32] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Fund size (AUM) | chars=78 tokens=20
+Fund size (AUM) ₹1,13,606.46 Cr (HDFC Equity (Flexi Cap) Fund - Direct Growth)
+---
+[33] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | expense_ratio | Expense ratio | chars=66 tokens=17
+Expense ratio 0.77% (HDFC Equity (Flexi Cap) Fund - Direct Growth)
+---
+[34] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Return calculator | chars=126 tokens=32
+Monthly SIP One time
+Monthly investment ₹5,000
+Over the past | Total investment | Would've become | Historic returns | Returns
+---
+[35] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Return calculator | chars=510 tokens=128
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹58,953 |  | -1.75 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,96,687 |  | + 9.27 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹4,17,035 |  | + 39.01 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹14,07,437 |  | + 134.57 %
+---
+[36] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=789 tokens=198
+Name | Sector | Instruments | Assets | ICICI Bank Ltd | Financial | Equity | 9.19%
+Name | Sector | Instruments | Assets | Axis Bank Ltd | Financial | Equity | 6.19%
+Name | Sector | Instruments | Assets | HDFC Bank Ltd | Financial | Equity | 5.71%
+Name | Sector | Instruments | Assets | State Bank of India | Financial | Equity | 4.16%
+Name | Sector | Instruments | Assets | Zomato Ltd | Technology | Equity | 3.39%
+Name | Sector | Instruments | Assets | Kotak Mahindra Bank Ltd | Financial | Equity | 3.27%
+Name | Sector | Instruments | Assets | SBI Life Insurance Company Ltd | Financial | Equity | 3.19%
+Name | Sector | Instruments | Assets | Larsen & Toubro Ltd | Industrials | Equity | 3.16%
+Name | Sector | Instruments | Assets | Interglobe Aviation Ltd | Industrials | Equity | 2.98%
+---
+[37] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=751 tokens=188
+Name | Sector | Instruments | Assets | Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.74%
+Name | Sector | Instruments | Assets | Bharti Airtel Ltd | Technology | Equity | 2.58%
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 2.55%
+Name | Sector | Instruments | Assets | HCL Technologies Ltd | Technology | Equity | 2.48%
+Name | Sector | Instruments | Assets | Cipla Ltd | Healthcare | Equity | 2.47%
+Name | Sector | Instruments | Assets | Eicher Motors Ltd | Consumer Discretionary | Equity | 2.44%
+Name | Sector | Instruments | Assets | Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.04%
+Name | Sector | Instruments | Assets | Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.75%
+---
+[38] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=839 tokens=210
+Name | Sector | Instruments | Assets | Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.62%
+Name | Sector | Instruments | Assets | Divi's Laboratories Ltd | Healthcare | Equity | 1.58%
+Name | Sector | Instruments | Assets | PB Fintech Ltd | Financial | Equity | 1.52%
+Name | Sector | Instruments | Assets | Max Healthcare Institute Ltd | Healthcare | Equity | 1.49%
+Name | Sector | Instruments | Assets | JSW Steel Ltd | Materials | Equity | 1.45%
+Name | Sector | Instruments | Assets | Piramal Pharma Ltd | Healthcare | Equity | 1.44%
+Name | Sector | Instruments | Assets | Reliance Industries Ltd | Energy & Utilities | Equity | 1.44%
+Name | Sector | Instruments | Assets | Bosch Ltd | Consumer Discretionary | Equity | 1.34%
+Name | Sector | Instruments | Assets | Persistent Systems Ltd | Technology | Equity | 1.34%
+---
+[39] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=843 tokens=211
+Name | Sector | Instruments | Assets | Lupin Ltd | Healthcare | Equity | 0.94%
+Name | Sector | Instruments | Assets | Varroc Engineering Ltd | Consumer Discretionary | Equity | 0.88%
+Name | Sector | Instruments | Assets | Tata Steel Ltd | Materials | Equity | 0.88%
+Name | Sector | Instruments | Assets | Ultratech Cement Ltd | Materials | Equity | 0.87%
+Name | Sector | Instruments | Assets | TVS Motor Company Ltd | Consumer Discretionary | Equity | 0.85%
+Name | Sector | Instruments | Assets | Aster DM Healthcare Ltd | Healthcare | Equity | 0.81%
+Name | Sector | Instruments | Assets | United Spirits Ltd | Consumer Staples | Equity | 0.75%
+Name | Sector | Instruments | Assets | FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 0.75%
+Name | Sector | Instruments | Assets | Dr. Lal Pathlabs Ltd | Healthcare | Equity | 0.71%
+---
+[40] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=809 tokens=203
+Name | Sector | Instruments | Assets | Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.70%
+Name | Sector | Instruments | Assets | Britannia Industries Ltd | Consumer Staples | Equity | 0.70%
+Name | Sector | Instruments | Assets | Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.68%
+Name | Sector | Instruments | Assets | Bharat Electronics Ltd | Industrials | Equity | 0.62%
+Name | Sector | Instruments | Assets | Anthem Biosciences Ltd. | Healthcare | Equity | 0.61%
+Name | Sector | Instruments | Assets | ACME Solar Holdings Ltd. | Energy & Utilities | Equity | 0.57%
+Name | Sector | Instruments | Assets | Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.57%
+Name | Sector | Instruments | Assets | Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.57%
+---
+[41] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=756 tokens=189
+Name | Sector | Instruments | Assets | Kalpataru Power Transmission Ltd | Industrials | Equity | 0.56%
+Name | Sector | Instruments | Assets | Craftsman Automation Ltd | Consumer Discretionary | Equity | 0.56%
+Name | Sector | Instruments | Assets | JSW Infrastructure Ltd | Industrials | Equity | 0.55%
+Name | Sector | Instruments | Assets | Havells India Ltd | Consumer Discretionary | Equity | 0.54%
+Name | Sector | Instruments | Assets | Infosys Ltd | Technology | Equity | 0.54%
+Name | Sector | Instruments | Assets | Neuland Laboratories Ltd | Healthcare | Equity | 0.52%
+Name | Sector | Instruments | Assets | Adani Enterprises Ltd | Materials | Equity | 0.51%
+Name | Sector | Instruments | Assets | NUVOCO Vistas Corp Ltd | Materials | Equity | 0.49%
+---
+[42] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=786 tokens=197
+Name | Sector | Instruments | Assets | Prestige Estates Projects Ltd | Real Estate | Equity | 0.48%
+Name | Sector | Instruments | Assets | HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.48%
+Name | Sector | Instruments | Assets | Bajaj Auto Ltd | Consumer Discretionary | Equity | 0.46%
+Name | Sector | Instruments | Assets | Ashok Leyland Ltd | Industrials | Equity | 0.46%
+Name | Sector | Instruments | Assets | ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.46%
+Name | Sector | Instruments | Assets | BSE Ltd | Financial | Equity | 0.45%
+Name | Sector | Instruments | Assets | CORONA Remedies Ltd. | Healthcare | Equity | 0.42%
+Name | Sector | Instruments | Assets | Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.41%
+---
+[43] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=817 tokens=205
+Name | Sector | Instruments | Assets | Nippon Life India Asset Management Ltd | Financial | Equity | 0.38%
+Name | Sector | Instruments | Assets | SBI Funds Management Ltd | Financial | Equity | 0.38%
+Name | Sector | Instruments | Assets | Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.34%
+Name | Sector | Instruments | Assets | Metropolis Healthcare Ltd | Healthcare | Equity | 0.33%
+Name | Sector | Instruments | Assets | Escorts Kubota Ltd | Industrials | Equity | 0.32%
+Name | Sector | Instruments | Assets | Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.32%
+Name | Sector | Instruments | Assets | The Ramco Cements Ltd | Materials | Equity | 0.31%
+Name | Sector | Instruments | Assets | Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.30%
+---
+[44] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=790 tokens=198
+Name | Sector | Instruments | Assets | Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.29%
+Name | Sector | Instruments | Assets | Life Insurance Corporation of India | Financial | Equity | 0.29%
+Name | Sector | Instruments | Assets | Swiggy Ltd. | Technology | Equity | 0.27%
+Name | Sector | Instruments | Assets | Biocon Ltd | Healthcare | Equity | 0.26%
+Name | Sector | Instruments | Assets | Apar Industries Ltd | Diversified | Equity | 0.26%
+Name | Sector | Instruments | Assets | Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.26%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.26%
+Name | Sector | Instruments | Assets | JK Lakshmi Cement Ltd | Materials | Equity | 0.23%
+---
+[45] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=825 tokens=207
+Name | Sector | Instruments | Assets | Ather Energy Ltd. | Consumer Discretionary | Equity | 0.23%
+Name | Sector | Instruments | Assets | Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.23%
+Name | Sector | Instruments | Assets | Rubicon Research Ltd. | Healthcare | Equity | 0.21%
+Name | Sector | Instruments | Assets | Diamond Power Infrastructure Ltd | Industrials | Equity | 0.21%
+Name | Sector | Instruments | Assets | ABB India Ltd | Industrials | Equity | 0.12%
+Name | Sector | Instruments | Assets | Tenneco Clean Air India Ltd. | Consumer Discretionary | Equity | 0.10%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100 | Entities | GOI Securities | 0.10%
+Name | Sector | Instruments | Assets | 7.37% GOI CG 23-10-2028 | Entities | GOI Securities | 0.09%
+---
+[46] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=289 tokens=73
+Name | Sector | Instruments | Assets | Bank Of Baroda | Financial | Equity | 0.08%
+Name | Sector | Instruments | Assets | Dixon Technologies (India) Limited | Consumer Discretionary | Futures | 0.03%
+Name | Sector | Instruments | Assets | Net Payables | Unspecified | Net Payables | -0.08%
+---
+[47] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Minimum investments | chars=75 tokens=19
+Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+---
+[48] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Returns and rankings | chars=62 tokens=16
+Annualised returns Absolute returns
+Name | 3Y | 5Y | 10Y | All
+---
+[49] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Returns and rankings | chars=253 tokens=64
+Name | 3Y | 5Y | 10Y | All | Fund returns | +14.5% | +15.7% | +15.5% | +15.6%
+Name | 3Y | 5Y | 10Y | All | Category average ( Equity Flexi Cap ) | +12.2% | +10.7% | +13.3% | +14.2%
+Name | 3Y | 5Y | 10Y | All | Rank ( Equity Flexi Cap ) | 12 | 3 | 2 | --
+---
+[50] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | exit_load | Exit load, stamp duty and tax | chars=96 tokens=24
+Exit load of 1% if redeemed within 1 year
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+---
+[51] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | exit_load | Tax implication | chars=173 tokens=44
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+---
+[52] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Compare similar funds | chars=581 tokens=146
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Bank of India Flexi Cap Fund Direct Growth | +11.38% | +18.37% | 2,952.99
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | ITI Flexi Cap Fund Direct Growth | +13.02% | +17.95% | 1,588.12
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | HSBC Flexi Cap Fund Direct Growth | +6.10% | +14.89% | 5,999.66
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | HDFC Flexi Cap Direct Plan Growth | -1.08% | +14.54% | 1,13,606.46
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Franklin India Flexi Cap Fund Direct Growth | -4.58% | +9.67% | 19,384.81
+ | Name | 1Y | 3Y | Fund Size(Cr) | Compare
+---
+[53] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=64 tokens=16
+Fund management
+DM Dhruv Muchhal Jun 2023 - Present View details
+---
+[54] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Dir
+---
+[55] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+, Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Grow
+---
+[56] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+on Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logis
+---
+[57] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=359 tokens=90
+Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+---
+[58] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Holdings ( 86 ) | chars=47 tokens=12
+AG Amit Ganatra Feb 2026 - Present View details
+---
+[59] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | AG Amit Ganatra Feb 2026 - Present View details | chars=387 tokens=97
+Education Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR. Experience Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity. Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Focused Fund Direct Growth
+---
+[60] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | About HDFC Flexi Cap Direct Plan Growth | chars=563 tokens=141
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹2,169.07. The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year ;
+Investment Objective
+---
+[61] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | benchmark | Investment Objective | chars=216 tokens=54
+The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.
+Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)
+---
+[62] https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth | scheme_page | general | Fund house | chars=484 tokens=121
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Deutsche Bank Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+---
+[63] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general |  | chars=52 tokens=13
++11.61 % 3Y annualised -0.14 % 1D
+1M 6M 1Y 3Y 5Y All
+---
+[64] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | nav | NAV | chars=75 tokens=19
+NAV: 30 Sep '26 ₹1,416.90 (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+---
+[65] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Min. for SIP | chars=67 tokens=17
+Min. for SIP ₹500 (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+---
+[66] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Fund size (AUM) | chars=79 tokens=20
+Fund size (AUM) ₹15,991.78 Cr (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+---
+[67] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | expense_ratio | Expense ratio | chars=69 tokens=18
+Expense ratio 1.21% (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+---
+[68] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Return calculator | chars=126 tokens=32
+Monthly SIP One time
+Monthly investment ₹5,000
+Over the past | Total investment | Would've become | Historic returns | Returns
+---
+[69] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Return calculator | chars=510 tokens=128
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹56,952 |  | -5.08 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,84,073 |  | + 2.26 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹3,85,495 |  | + 28.50 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹12,00,183 |  | + 100.03 %
+---
+[70] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=807 tokens=202
+Name | Sector | Instruments | Assets | ICICI Bank Ltd | Financial | Equity | 9.32%
+Name | Sector | Instruments | Assets | HDFC Bank Ltd | Financial | Equity | 7.36%
+Name | Sector | Instruments | Assets | Axis Bank Ltd | Financial | Equity | 6.50%
+Name | Sector | Instruments | Assets | Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 4.66%
+Name | Sector | Instruments | Assets | State Bank of India | Financial | Equity | 4.64%
+Name | Sector | Instruments | Assets | Kotak Mahindra Bank Ltd | Financial | Equity | 4.59%
+Name | Sector | Instruments | Assets | Bharti Airtel Ltd | Technology | Equity | 4.29%
+Name | Sector | Instruments | Assets | SBI Life Insurance Company Ltd | Financial | Equity | 3.25%
+Name | Sector | Instruments | Assets | HCL Technologies Ltd | Technology | Equity | 2.93%
+---
+[71] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=838 tokens=210
+Name | Sector | Instruments | Assets | Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 2.76%
+Name | Sector | Instruments | Assets | Reliance Industries Ltd | Energy & Utilities | Equity | 2.66%
+Name | Sector | Instruments | Assets | Zomato Ltd | Technology | Equity | 2.31%
+Name | Sector | Instruments | Assets | Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.96%
+Name | Sector | Instruments | Assets | Tata Steel Ltd | Materials | Equity | 1.73%
+Name | Sector | Instruments | Assets | Britannia Industries Ltd | Consumer Staples | Equity | 1.72%
+Name | Sector | Instruments | Assets | Larsen & Toubro Ltd | Industrials | Equity | 1.60%
+Name | Sector | Instruments | Assets | Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 1.53%
+Name | Sector | Instruments | Assets | JSW Steel Ltd | Materials | Equity | 1.51%
+---
+[72] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=818 tokens=205
+Name | Sector | Instruments | Assets | Bosch Ltd | Consumer Discretionary | Equity | 1.41%
+Name | Sector | Instruments | Assets | Dr. Lal Pathlabs Ltd | Healthcare | Equity | 1.38%
+Name | Sector | Instruments | Assets | PB Fintech Ltd | Financial | Equity | 1.35%
+Name | Sector | Instruments | Assets | Interglobe Aviation Ltd | Industrials | Equity | 1.34%
+Name | Sector | Instruments | Assets | Karur Vysya Bank Ltd | Financial | Equity | 1.30%
+Name | Sector | Instruments | Assets | Jubilant FoodWorks Ltd | Consumer Discretionary | Equity | 1.23%
+Name | Sector | Instruments | Assets | Metropolis Healthcare Ltd | Healthcare | Equity | 1.17%
+Name | Sector | Instruments | Assets | Alkem Laboratories Ltd | Healthcare | Equity | 1.17%
+Name | Sector | Instruments | Assets | Infosys Ltd | Technology | Equity | 1.17%
+---
+[73] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=841 tokens=211
+Name | Sector | Instruments | Assets | Hindustan Aeronautics Ltd | Industrials | Equity | 1.13%
+Name | Sector | Instruments | Assets | Cipla Ltd | Healthcare | Equity | 1.09%
+Name | Sector | Instruments | Assets | Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.07%
+Name | Sector | Instruments | Assets | Mphasis Ltd | Technology | Equity | 1.06%
+Name | Sector | Instruments | Assets | United Spirits Ltd | Consumer Staples | Equity | 1.06%
+Name | Sector | Instruments | Assets | Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.03%
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 1.03%
+Name | Sector | Instruments | Assets | ICICI Lombard General Insurance Company Ltd | Financial | Equity | 1.02%
+Name | Sector | Instruments | Assets | Tech Mahindra Ltd | Technology | Equity | 1.02%
+---
+[74] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=784 tokens=196
+Name | Sector | Instruments | Assets | Lupin Ltd | Healthcare | Equity | 0.96%
+Name | Sector | Instruments | Assets | ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.96%
+Name | Sector | Instruments | Assets | Eicher Motors Ltd | Consumer Discretionary | Equity | 0.90%
+Name | Sector | Instruments | Assets | JSW Energy Ltd | Energy & Utilities | Equity | 0.87%
+Name | Sector | Instruments | Assets | Havells India Ltd | Consumer Discretionary | Equity | 0.83%
+Name | Sector | Instruments | Assets | Chalet Hotels Ltd | Consumer Discretionary | Equity | 0.81%
+Name | Sector | Instruments | Assets | Hindustan Unilever Ltd | Consumer Staples | Equity | 0.74%
+Name | Sector | Instruments | Assets | Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.74%
+---
+[75] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=762 tokens=191
+Name | Sector | Instruments | Assets | IIFL Wealth Management Ltd | Financial | Equity | 0.73%
+Name | Sector | Instruments | Assets | Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.72%
+Name | Sector | Instruments | Assets | Birla Corporation Ltd | Materials | Equity | 0.55%
+Name | Sector | Instruments | Assets | Westlife Development Ltd | Consumer Discretionary | Equity | 0.53%
+Name | Sector | Instruments | Assets | Life Insurance Corporation of India | Financial | Equity | 0.52%
+Name | Sector | Instruments | Assets | Bharat Electronics Ltd | Industrials | Equity | 0.47%
+Name | Sector | Instruments | Assets | The Ramco Cements Ltd | Materials | Equity | 0.44%
+Name | Sector | Instruments | Assets | Cyient Ltd | Technology | Equity | 0.44%
+---
+[76] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=803 tokens=201
+Name | Sector | Instruments | Assets | Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.41%
+Name | Sector | Instruments | Assets | TeamLease Services Ltd | Industrials | Equity | 0.33%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.32%
+Name | Sector | Instruments | Assets | Popular Vehicles And Services Ltd. | Consumer Discretionary | Equity | 0.32%
+Name | Sector | Instruments | Assets | Anthem Biosciences Ltd. | Healthcare | Equity | 0.28%
+Name | Sector | Instruments | Assets | Rubicon Research Ltd. | Healthcare | Equity | 0.25%
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Industrials | Equity | 0.18%
+Name | Sector | Instruments | Assets | Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.13%
+---
+[77] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=468 tokens=117
+Name | Sector | Instruments | Assets | JK Lakshmi Cement Ltd | Materials | Equity | 0.13%
+Name | Sector | Instruments | Assets | SBI Funds Management Ltd | Financial | Equity | 0.06%
+Name | Sector | Instruments | Assets | Medi Assist Healthcare Services Ltd. | Industrials | Equity | 0.04%
+Name | Sector | Instruments | Assets | Escorts Kubota Ltd | Industrials | Equity | 0.03%
+Name | Sector | Instruments | Assets | Net Payables | Unspecified | Net Payables | -0.04%
+---
+[78] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Minimum investments | chars=75 tokens=19
+Min. for 1st investment ₹500 Min. for 2nd investment ₹500 Min. for SIP ₹500
+---
+[79] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Returns and rankings | chars=62 tokens=16
+Annualised returns Absolute returns
+Name | 3Y | 5Y | 10Y | All
+---
+[80] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Returns and rankings | chars=244 tokens=61
+Name | 3Y | 5Y | 10Y | All | Fund returns | +11.6% | +13.1% | +12.8% | +13.6%
+Name | 3Y | 5Y | 10Y | All | Category average ( Equity ELSS ) | +11.4% | +10.4% | +13.2% | +17.1%
+Name | 3Y | 5Y | 10Y | All | Rank ( Equity ELSS ) | 11 | 5 | 17 | --
+---
+[81] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | exit_load | Exit load, stamp duty and tax | chars=58 tokens=15
+Nil
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+---
+[82] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | exit_load | Tax implication | chars=173 tokens=44
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+---
+[83] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=68 tokens=17
+Fund management
+AK Amar Kalkundrikar Dec 2025 - Present View details
+---
+[84] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | AK Amar Kalkundrikar Dec 2025 - Present View details | chars=363 tokens=91
+Education Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School. Experience Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF. Also manages these schemes HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Multi Cap Fund Direct Growth
+---
+[85] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=48 tokens=12
+DM Dhruv Muchhal Jun 2023 - Present View details
+---
+[86] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Dir
+---
+[87] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+, Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Grow
+---
+[88] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+on Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logis
+---
+[89] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=359 tokens=90
+Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+---
+[90] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Holdings ( 65 ) | chars=49 tokens=13
+About HDFC ELSS Tax Saver Fund Direct Plan Growth
+---
+[91] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | About HDFC ELSS Tax Saver Fund Direct Plan Growth | chars=555 tokens=139
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹1,416.90. The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ;
+Investment Objective
+---
+[92] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | benchmark | Investment Objective | chars=218 tokens=55
+The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.
+Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)
+---
+[93] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | general | Fund house | chars=484 tokens=121
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Deutsche Bank Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+---
+[94] https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth | scheme_page | lockin_80c | Fund details | chars=74 tokens=19
+Lock-in period: 3 years. (HDFC ELSS Tax Saver Fund - Direct Plan - Growth)
+---
+[95] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general |  | chars=51 tokens=13
++9.98 % 3Y annualised +0.21 % 1D
+1M 6M 1Y 3Y 5Y All
+---
+[96] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | nav | NAV | chars=61 tokens=16
+NAV: 30 Sep '26 ₹156.27 (HDFC Small Cap Fund - Direct Growth)
+---
+[97] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Min. for SIP | chars=55 tokens=14
+Min. for SIP ₹100 (HDFC Small Cap Fund - Direct Growth)
+---
+[98] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Fund size (AUM) | chars=67 tokens=17
+Fund size (AUM) ₹41,890.86 Cr (HDFC Small Cap Fund - Direct Growth)
+---
+[99] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | expense_ratio | Expense ratio | chars=57 tokens=15
+Expense ratio 0.78% (HDFC Small Cap Fund - Direct Growth)
+---
+[100] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Return calculator | chars=126 tokens=32
+Monthly SIP One time
+Monthly investment ₹5,000
+Over the past | Total investment | Would've become | Historic returns | Returns
+---
+[101] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Return calculator | chars=511 tokens=128
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹60,244 |  | + 0.41 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,90,924 |  | + 6.07 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹4,05,295 |  | + 35.10 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹14,92,143 |  | + 148.69 %
+---
+[102] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=815 tokens=204
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 10.25%
+Name | Sector | Instruments | Assets | Firstsource Solutions Ltd | Industrials | Equity | 3.71%
+Name | Sector | Instruments | Assets | Aster DM Healthcare Ltd | Healthcare | Equity | 3.56%
+Name | Sector | Instruments | Assets | Gabriel India Ltd | Consumer Discretionary | Equity | 3.25%
+Name | Sector | Instruments | Assets | eClerx Services Ltd | Technology | Equity | 3.09%
+Name | Sector | Instruments | Assets | Bank Of Baroda | Financial | Equity | 2.67%
+Name | Sector | Instruments | Assets | Indian Bank | Financial | Equity | 2.08%
+Name | Sector | Instruments | Assets | Krishna Institute Of Medical Sciences Ltd | Healthcare | Equity | 2.01%
+Name | Sector | Instruments | Assets | Eris Lifesciences Ltd | Healthcare | Equity | 2.00%
+---
+[103] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=780 tokens=195
+Name | Sector | Instruments | Assets | Apar Industries Ltd | Diversified | Equity | 1.90%
+Name | Sector | Instruments | Assets | Pearl Global Industries Ltd | Consumer Discretionary | Equity | 1.77%
+Name | Sector | Instruments | Assets | The Federal Bank Ltd | Financial | Equity | 1.77%
+Name | Sector | Instruments | Assets | Sudarshan Chemical Industries Ltd | Materials | Equity | 1.75%
+Name | Sector | Instruments | Assets | Home First Finance Company India Ltd | Financial | Equity | 1.69%
+Name | Sector | Instruments | Assets | Vijaya Diagnostic Centre Ltd | Healthcare | Equity | 1.67%
+Name | Sector | Instruments | Assets | PVR Ltd | Consumer Discretionary | Equity | 1.66%
+Name | Sector | Instruments | Assets | Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.63%
+---
+[104] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=771 tokens=193
+Name | Sector | Instruments | Assets | Kalpataru Power Transmission Ltd | Industrials | Equity | 1.55%
+Name | Sector | Instruments | Assets | City Union Bank Ltd | Financial | Equity | 1.46%
+Name | Sector | Instruments | Assets | Suprajit Engineering Ltd | Consumer Discretionary | Equity | 1.42%
+Name | Sector | Instruments | Assets | The Great Eastern Shipping Company Ltd | Energy & Utilities | Equity | 1.41%
+Name | Sector | Instruments | Assets | Sonata Software Ltd | Technology | Equity | 1.40%
+Name | Sector | Instruments | Assets | Power Mech Projects Ltd | Industrials | Equity | 1.32%
+Name | Sector | Instruments | Assets | Akzo Nobel India Ltd | Materials | Equity | 1.32%
+Name | Sector | Instruments | Assets | Timken India Ltd | Industrials | Equity | 1.31%
+---
+[105] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=771 tokens=193
+Name | Sector | Instruments | Assets | Vardhman Textiles Ltd | Consumer Discretionary | Equity | 1.28%
+Name | Sector | Instruments | Assets | Dodla Dairy Ltd | Consumer Staples | Equity | 1.28%
+Name | Sector | Instruments | Assets | Godrej Consumer Products Ltd | Consumer Staples | Equity | 1.27%
+Name | Sector | Instruments | Assets | Aditya Vision Ltd | Consumer Discretionary | Equity | 1.26%
+Name | Sector | Instruments | Assets | Blue Dart Express Ltd | Industrials | Equity | 1.22%
+Name | Sector | Instruments | Assets | Equitas Small Finance Bank Ltd | Financial | Equity | 1.20%
+Name | Sector | Instruments | Assets | Redington Ltd | Technology | Equity | 1.16%
+Name | Sector | Instruments | Assets | LG Balakrishnan & Brothers Ltd | Industrials | Equity | 1.12%
+---
+[106] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=772 tokens=193
+Name | Sector | Instruments | Assets | Fiem Industries Ltd | Consumer Discretionary | Equity | 1.10%
+Name | Sector | Instruments | Assets | JK Tyre & Industries Ltd | Consumer Discretionary | Equity | 1.09%
+Name | Sector | Instruments | Assets | Fortis Healthcare Ltd | Healthcare | Equity | 1.08%
+Name | Sector | Instruments | Assets | Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.08%
+Name | Sector | Instruments | Assets | Voltamp Transformers Ltd | Industrials | Equity | 1.05%
+Name | Sector | Instruments | Assets | VRL Logistics Ltd | Industrials | Equity | 1.04%
+Name | Sector | Instruments | Assets | Indigo Paints Ltd | Materials | Equity | 1.03%
+Name | Sector | Instruments | Assets | Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.01%
+---
+[107] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=764 tokens=191
+Name | Sector | Instruments | Assets | Sharda Cropchem Ltd | Materials | Equity | 1.00%
+Name | Sector | Instruments | Assets | Transport Corporation Of India Ltd | Industrials | Equity | 0.99%
+Name | Sector | Instruments | Assets | NRB Bearings Ltd | Industrials | Equity | 0.97%
+Name | Sector | Instruments | Assets | Zensar Technologies Ltd | Technology | Equity | 0.93%
+Name | Sector | Instruments | Assets | Shoppers Stop Ltd | Consumer Discretionary | Equity | 0.92%
+Name | Sector | Instruments | Assets | Lumax Industries Ltd | Consumer Discretionary | Equity | 0.90%
+Name | Sector | Instruments | Assets | Tega Industries Ltd | Industrials | Equity | 0.88%
+Name | Sector | Instruments | Assets | UTI Asset Management Company Ltd | Financial | Equity | 0.87%
+---
+[108] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=746 tokens=187
+Name | Sector | Instruments | Assets | Kirloskar Ferrous Industries Ltd | Materials | Equity | 0.85%
+Name | Sector | Instruments | Assets | Chambal Fertilisers & Chemicals Ltd | Materials | Equity | 0.84%
+Name | Sector | Instruments | Assets | SKF India (Industrial) Ltd | Industrials | Equity | 0.79%
+Name | Sector | Instruments | Assets | Tata Steel Ltd | Materials | Equity | 0.68%
+Name | Sector | Instruments | Assets | Mastek Ltd | Technology | Equity | 0.66%
+Name | Sector | Instruments | Assets | Unichem Laboratories Ltd | Healthcare | Equity | 0.66%
+Name | Sector | Instruments | Assets | Redtape Ltd | Consumer Discretionary | Equity | 0.66%
+Name | Sector | Instruments | Assets | The Anup Engineering Ltd | Industrials | Equity | 0.63%
+---
+[109] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=774 tokens=194
+Name | Sector | Instruments | Assets | DHFL VYSYA HOUSING FINANCE LIMITED EQ | Financial | Equity | 0.63%
+Name | Sector | Instruments | Assets | Bajaj Consumer Care Ltd | Consumer Staples | Equity | 0.59%
+Name | Sector | Instruments | Assets | PNC Infratech Ltd | Industrials | Equity | 0.59%
+Name | Sector | Instruments | Assets | Wakefit Innovations Ltd. | Consumer Discretionary | Equity | 0.56%
+Name | Sector | Instruments | Assets | GMM Pfaudler Ltd | Industrials | Equity | 0.53%
+Name | Sector | Instruments | Assets | Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.49%
+Name | Sector | Instruments | Assets | KEC International Ltd | Diversified | Equity | 0.49%
+Name | Sector | Instruments | Assets | Gateway Distriparks Ltd | Industrials | Equity | 0.43%
+---
+[110] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=839 tokens=210
+Name | Sector | Instruments | Assets | GNA Axles Ltd | Consumer Discretionary | Equity | 0.42%
+Name | Sector | Instruments | Assets | Ion Exchange (India) Ltd | Industrials | Equity | 0.42%
+Name | Sector | Instruments | Assets | SKF India Ltd | Industrials | Equity | 0.41%
+Name | Sector | Instruments | Assets | Kei Industries Ltd | Industrials | Equity | 0.41%
+Name | Sector | Instruments | Assets | Awfis Space Solutions Ltd. | Industrials | Equity | 0.41%
+Name | Sector | Instruments | Assets | La Opala RG Ltd | Consumer Discretionary | Equity | 0.38%
+Name | Sector | Instruments | Assets | Insecticides (India) Ltd | Materials | Equity | 0.38%
+Name | Sector | Instruments | Assets | Vesuvius India Ltd | Industrials | Equity | 0.38%
+Name | Sector | Instruments | Assets | Vedant Fashions Ltd | Consumer Discretionary | Equity | 0.37%
+---
+[111] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=847 tokens=212
+Name | Sector | Instruments | Assets | Gujarat Pipavav Port Ltd | Industrials | Equity | 0.35%
+Name | Sector | Instruments | Assets | IFGL Refractories Ltd | Industrials | Equity | 0.33%
+Name | Sector | Instruments | Assets | G R Infraprojects Ltd | Industrials | Equity | 0.31%
+Name | Sector | Instruments | Assets | Jupiter Life Line Hospitals Ltd. | Healthcare | Equity | 0.30%
+Name | Sector | Instruments | Assets | Emami Ltd | Consumer Staples | Equity | 0.29%
+Name | Sector | Instruments | Assets | DB Corp Ltd | Industrials | Equity | 0.22%
+Name | Sector | Instruments | Assets | Goodyear India Ltd | Consumer Discretionary | Equity | 0.22%
+Name | Sector | Instruments | Assets | Sula Vineyards Ltd | Consumer Staples | Equity | 0.21%
+Name | Sector | Instruments | Assets | Brainbees Solutions Ltd. | Consumer Discretionary | Equity | 0.20%
+---
+[112] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=359 tokens=90
+Name | Sector | Instruments | Assets | BEML Ltd | Industrials | Equity | 0.19%
+Name | Sector | Instruments | Assets | Carborundum Universal Ltd | Materials | Equity | 0.17%
+Name | Sector | Instruments | Assets | Net Current Assets | Unspecified | Net Current Assets | 0.11%
+Name | Sector | Instruments | Assets | TCI Express Ltd | Industrials | Equity | 0.06%
+---
+[113] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Minimum investments | chars=75 tokens=19
+Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+---
+[114] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Returns and rankings | chars=62 tokens=16
+Annualised returns Absolute returns
+Name | 3Y | 5Y | 10Y | All
+---
+[115] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Returns and rankings | chars=254 tokens=64
+Name | 3Y | 5Y | 10Y | All | Fund returns | +10.0% | +14.1% | +17.3% | +18.1%
+Name | 3Y | 5Y | 10Y | All | Category average ( Equity Small Cap ) | +16.8% | +16.4% | +17.8% | +20.4%
+Name | 3Y | 5Y | 10Y | All | Rank ( Equity Small Cap ) | 34 | 18 | 6 | --
+---
+[116] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | exit_load | Exit load, stamp duty and tax | chars=96 tokens=24
+Exit load of 1% if redeemed within 1 year
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+---
+[117] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | exit_load | Tax implication | chars=173 tokens=44
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+---
+[118] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Compare similar funds | chars=588 tokens=147
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | ITI Small Cap Fund Direct Growth | +22.17% | +23.65% | 3,602.84
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Bandhan Small Cap Fund Direct Growth | +12.63% | +23.60% | 34,176.02
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Invesco India Small Cap Fund Direct Growth | +15.89% | +21.91% | 15,744.40
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Sundaram Small Cap Fund Direct Growth | +15.94% | +16.10% | 4,155.35
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Nippon India Small Cap Fund Direct Growth | +9.97% | +14.69% | 82,580.30
+ | Name | 1Y | 3Y | Fund Size(Cr) | Compare
+---
+[119] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=64 tokens=16
+Fund management
+DM Dhruv Muchhal Jun 2023 - Present View details
+---
+[120] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Dir
+---
+[121] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+, Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Grow
+---
+[122] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+on Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logis
+---
+[123] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=359 tokens=90
+Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+---
+[124] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Holdings ( 87 ) | chars=50 tokens=13
+CS Chirag Setalvad Jun 2014 - Present View details
+---
+[125] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | CS Chirag Setalvad Jun 2014 - Present View details | chars=476 tokens=119
+Education Mr. Setalvad is a B. Sc and MBA from University of North Carolina. Experience Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V. Also manages these schemes HDFC Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Children's Fund Direct Plan
+---
+[126] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | About HDFC Small Cap Fund Direct Growth | chars=561 tokens=141
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹156.27. The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year ;
+Investment Objective
+---
+[127] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | benchmark | Investment Objective | chars=201 tokens=51
+The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.
+Fund benchmark BSE 250 SmallCap Total Return Index Scheme Information Document(SID)
+---
+[128] https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth | scheme_page | general | Fund house | chars=482 tokens=121
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Citibank NA Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+---
+[129] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general |  | chars=52 tokens=13
++10.20 % 3Y annualised +0.03 % 1D
+1M 6M 1Y 3Y 5Y All
+---
+[130] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | nav | NAV | chars=70 tokens=18
+NAV: 30 Sep '26 ₹549.92 (HDFC Balanced Advantage Fund - Direct Growth)
+---
+[131] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Min. for SIP | chars=64 tokens=16
+Min. for SIP ₹100 (HDFC Balanced Advantage Fund - Direct Growth)
+---
+[132] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Fund size (AUM) | chars=78 tokens=20
+Fund size (AUM) ₹1,07,295.79 Cr (HDFC Balanced Advantage Fund - Direct Growth)
+---
+[133] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | expense_ratio | Expense ratio | chars=66 tokens=17
+Expense ratio 0.78% (HDFC Balanced Advantage Fund - Direct Growth)
+---
+[134] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Return calculator | chars=126 tokens=32
+Monthly SIP One time
+Monthly investment ₹5,000
+Over the past | Total investment | Would've become | Historic returns | Returns
+---
+[135] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Return calculator | chars=510 tokens=128
+Over the past | Total investment | Would've become | Historic returns | Returns | 1 year | ₹60,000 | ₹58,623 |  | -2.30 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 3 years | ₹1,80,000 | ₹1,87,720 |  | + 4.29 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 5 years | ₹3,00,000 | ₹3,86,893 |  | + 28.96 %
+Over the past | Total investment | Would've become | Historic returns | Returns | 10 years | ₹6,00,000 | ₹12,36,185 |  | + 106.03 %
+---
+[136] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=797 tokens=200
+Name | Sector | Instruments | Assets | ICICI Bank Ltd | Financial | Equity | 5.32%
+Name | Sector | Instruments | Assets | HDFC Bank Ltd | Financial | Equity | 4.13%
+Name | Sector | Instruments | Assets | Reliance Industries Ltd | Energy & Utilities | Equity | 3.74%
+Name | Sector | Instruments | Assets | State Bank of India | Financial | Equity | 3.46%
+Name | Sector | Instruments | Assets | Bharti Airtel Ltd | Technology | Equity | 2.93%
+Name | Sector | Instruments | Assets | Axis Bank Ltd | Financial | Equity | 2.68%
+Name | Sector | Instruments | Assets | Larsen & Toubro Ltd | Industrials | Equity | 2.59%
+Name | Sector | Instruments | Assets | GOI Sec 7.18 14/08/2033 | Entities | GOI Securities | 1.99%
+Name | Sector | Instruments | Assets | NTPC Ltd | Energy & Utilities | Equity | 1.94%
+---
+[137] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=836 tokens=209
+Name | Sector | Instruments | Assets | Zomato Ltd | Technology | Equity | 1.65%
+Name | Sector | Instruments | Assets | Coal India Ltd | Materials | Equity | 1.60%
+Name | Sector | Instruments | Assets | Infosys Ltd | Technology | Equity | 1.59%
+Name | Sector | Instruments | Assets | Sun Pharmaceutical Industries Ltd | Healthcare | Equity | 1.54%
+Name | Sector | Instruments | Assets | Kotak Mahindra Bank Ltd | Financial | Equity | 1.52%
+Name | Sector | Instruments | Assets | Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 1.46%
+Name | Sector | Instruments | Assets | HCL Technologies Ltd | Technology | Equity | 1.24%
+Name | Sector | Instruments | Assets | Tata Consultancy Services Ltd | Technology | Equity | 1.20%
+Name | Sector | Instruments | Assets | Life Insurance Corporation of India | Financial | Equity | 1.18%
+---
+[138] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=778 tokens=195
+Name | Sector | Instruments | Assets | Interglobe Aviation Ltd | Industrials | Equity | 1.18%
+Name | Sector | Instruments | Assets | Lupin Ltd | Healthcare | Equity | 1.16%
+Name | Sector | Instruments | Assets | ITC Ltd | Consumer Staples | Equity | 1.02%
+Name | Sector | Instruments | Assets | Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.87%
+Name | Sector | Instruments | Assets | SBI Life Insurance Company Ltd | Financial | Equity | 0.87%
+Name | Sector | Instruments | Assets | Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 0.82%
+Name | Sector | Instruments | Assets | GAIL (India) Ltd | Energy & Utilities | Equity | 0.81%
+Name | Sector | Instruments | Assets | Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.80%
+---
+[139] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=801 tokens=201
+Name | Sector | Instruments | Assets | Divi's Laboratories Ltd | Healthcare | Equity | 0.78%
+Name | Sector | Instruments | Assets | GOI Sec 7.18 24/07/2037 | Entities | GOI Securities | 0.75%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100 | Entities | GOI Securities | 0.71%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 34208 GOI 08AP34 7.1 FV RS 100 | Entities | GOI Securities | 0.70%
+Name | Sector | Instruments | Assets | Bank Of Baroda | Financial | Equity | 0.67%
+Name | Sector | Instruments | Assets | Net Current Assets | Unspecified | Net Current Assets | 0.65%
+Name | Sector | Instruments | Assets | Tata Steel Ltd | Materials | Equity | 0.65%
+Name | Sector | Instruments | Assets | Apar Industries Ltd | Diversified | Equity | 0.63%
+---
+[140] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=821 tokens=206
+Name | Sector | Instruments | Assets | Bharat Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.63%
+Name | Sector | Instruments | Assets | Indusind Bank Ltd | Financial | Equity | 0.62%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 447 7.57 NCD 18OT29 FVRS1LAC | Financial | Bonds/Debentures | 0.60%
+Name | Sector | Instruments | Assets | Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.60%
+Name | Sector | Instruments | Assets | Repo | Unspecified | Repo | 0.60%
+Name | Sector | Instruments | Assets | Power Finance Corporation Ltd | Financial | Equity | 0.58%
+Name | Sector | Instruments | Assets | STATE BANK OF INDIA SR 2 7.33 BD 20SP39 FVRS1CR | Financial | Bonds | 0.56%
+Name | Sector | Instruments | Assets | JSW Infrastructure Ltd | Industrials | Equity | 0.55%
+---
+[141] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=775 tokens=194
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100 | Entities | GOI Securities | 0.53%
+Name | Sector | Instruments | Assets | REC Ltd | Financial | Equity | 0.51%
+Name | Sector | Instruments | Assets | STATE BANK OF INDIA SR I 7.42 BD 29AG39 FVRS1CR | Financial | Debenture | 0.51%
+Name | Sector | Instruments | Assets | AU Small Finance Bank Ltd | Financial | Equity | 0.50%
+Name | Sector | Instruments | Assets | Brookfield India Real Estate Trust REIT | Real Estate | Real Estate Investment Trusts | 0.50%
+Name | Sector | Instruments | Assets | PIPELINE INFRASTRUCTURE LIMITED SR 3 7.96 NCD 11MR29 FVRS1LAC | Industrials | Debenture | 0.48%
+Name | Sector | Instruments | Assets | Jindal Steel & Power Ltd | Materials | Equity | 0.47%
+---
+[142] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=838 tokens=210
+Name | Sector | Instruments | Assets | Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 0.47%
+Name | Sector | Instruments | Assets | Ultratech Cement Ltd | Materials | Equity | 0.46%
+Name | Sector | Instruments | Assets | Ipca Laboratories Ltd | Healthcare | Equity | 0.46%
+Name | Sector | Instruments | Assets | Hindustan Aeronautics Ltd | Industrials | Equity | 0.44%
+Name | Sector | Instruments | Assets | Canara HSBC Life Insurance Company Ltd. | Financial | Equity | 0.43%
+Name | Sector | Instruments | Assets | Aurobindo Pharma Ltd | Healthcare | Equity | 0.43%
+Name | Sector | Instruments | Assets | Bajaj Auto Ltd | Consumer Discretionary | Equity | 0.43%
+Name | Sector | Instruments | Assets | TORRENT POWER LIMITED SR 15 TR D 8.20 NCD 24JU36 FVRS1LAC | Energy & Utilities | Non Convertible Debenture | 0.41%
+---
+[143] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=778 tokens=195
+Name | Sector | Instruments | Assets | Kaynes Technology India Ltd | Industrials | Equity | 0.39%
+Name | Sector | Instruments | Assets | Britannia Industries Ltd | Consumer Staples | Equity | 0.39%
+Name | Sector | Instruments | Assets | Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.39%
+Name | Sector | Instruments | Assets | Techno Electric & Engineering Company Ltd | Industrials | Equity | 0.39%
+Name | Sector | Instruments | Assets | Dynamatic Technologies Ltd | Consumer Discretionary | Equity | 0.39%
+Name | Sector | Instruments | Assets | BEML Ltd | Industrials | Equity | 0.39%
+Name | Sector | Instruments | Assets | WeWork India Management Ltd. | Industrials | Equity | 0.39%
+Name | Sector | Instruments | Assets | Bajaj Finserv Ltd | Financial | Equity | 0.38%
+---
+[144] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=794 tokens=199
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC | Financial | Bonds/NCDs | 0.37%
+Name | Sector | Instruments | Assets | Apollo Tyres Ltd | Consumer Discretionary | Equity | 0.37%
+Name | Sector | Instruments | Assets | Bharat Forge Ltd | Consumer Discretionary | Equity | 0.37%
+Name | Sector | Instruments | Assets | REC LIMITED SR 201B 6.90 BD 31MR31 FVRS10LAC | Financial | Debenture | 0.36%
+Name | Sector | Instruments | Assets | Gujarat Pipavav Port Ltd | Industrials | Equity | 0.36%
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.83 BD 24NV28 FVRS1LAC | Financial | Debenture | 0.35%
+Name | Sector | Instruments | Assets | Five-Star Business Finance Ltd | Financial | Equity | 0.33%
+---
+[145] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=760 tokens=190
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR AA010 7.80 NCD 06SP32 FVRS10LAC | Financial | Debenture | 0.33%
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 179 7.44 BD 13JU34 FVRS1LAC | Financial | Bonds | 0.32%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100 | Industrials | State Development Loan | 0.32%
+Name | Sector | Instruments | Assets | Titagarh Wagons Ltd | Industrials | Equity | 0.32%
+Name | Sector | Instruments | Assets | HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR E 7.29 NCD 12FB35 FVRS1LAC | Financial | Non Convertible Debenture | 0.32%
+Name | Sector | Instruments | Assets | Hindustan Unilever Ltd | Consumer Staples | Equity | 0.31%
+---
+[146] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=801 tokens=201
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 7.55 NCD 03AP35 FVRS1LAC | Financial | Bonds/NCDs | 0.31%
+Name | Sector | Instruments | Assets | Bosch Ltd | Consumer Discretionary | Equity | 0.31%
+Name | Sector | Instruments | Assets | Ambuja Cements Ltd | Materials | Equity | 0.31%
+Name | Sector | Instruments | Assets | Rubicon Research Ltd. | Healthcare | Equity | 0.30%
+Name | Sector | Instruments | Assets | United Spirits Ltd | Consumer Staples | Equity | 0.29%
+Name | Sector | Instruments | Assets | INVIT POWERGRID INFRASTRUCTURE INVESTMENT TRUST | Industrials | Infrastructure Investment Trust | 0.29%
+Name | Sector | Instruments | Assets | Savita Oil Technologies Ltd | Materials | Equity | 0.29%
+Name | Sector | Instruments | Assets | Mphasis Ltd | Technology | Equity | 0.28%
+---
+[147] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=744 tokens=186
+Name | Sector | Instruments | Assets | Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.28%
+Name | Sector | Instruments | Assets | HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.28%
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 7.82% NCD 31JN34 FVRS1LAC | Financial | Debenture | 0.28%
+Name | Sector | Instruments | Assets | ULTRATECH CEMENT LIMITED SR I 7.22 NCD 02FB29 FVRS1LAC | Materials | Non Convertible Debenture | 0.28%
+Name | Sector | Instruments | Assets | MUTHOOT FINANCE LIMITED RR NCD 04SP29 FVRS1LAC | Financial | Non Convertible Debenture | 0.28%
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR US006 7.75 NCD 13JU33 FVRS1LAC | Financial | Debenture | 0.27%
+---
+[148] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=836 tokens=209
+Name | Sector | Instruments | Assets | JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD7 7.90 LOA 10AG28 FVRS1LAC | Industrials | Debenture | 0.27%
+Name | Sector | Instruments | Assets | Kalpataru Power Transmission Ltd | Industrials | Equity | 0.25%
+Name | Sector | Instruments | Assets | Bharat Dynamics Ltd | Industrials | Equity | 0.25%
+Name | Sector | Instruments | Assets | Mishra Dhatu Nigam Ltd | Materials | Equity | 0.25%
+Name | Sector | Instruments | Assets | Lakshmi Machine Works Ltd | Industrials | Equity | 0.24%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 31909 GOI 22AG32 7.26 FV RS 100 | Entities | GOI Securities | 0.24%
+Name | Sector | Instruments | Assets | Aavas Financiers Ltd | Financial | Equity | 0.24%
+Name | Sector | Instruments | Assets | Godrej Properties Ltd | Real Estate | Equity | 0.23%
+---
+[149] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=799 tokens=200
+Name | Sector | Instruments | Assets | HDB FINANCIAL SERVICES LIMITED SR A/1 FX 198 7.988 LOA 08DC26 FVRS1LAC | Financial | Debenture | 0.23%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 439 7.73 NCD 22MR34 FVRS 1LAC | Financial | Non Convertible Debenture | 0.23%
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25E 7.53 BD 24MR28 FVRS1LAC | Financial | Bonds | 0.23%
+Name | Sector | Instruments | Assets | BAJAJ HOUSING FINANCE LIMITED 7.66 NCD 20MR28 FVRS1LAC | Financial | Debenture | 0.23%
+Name | Sector | Instruments | Assets | BAJAJ HOUSING FINANCE LIMITED 7.89 NCD 14JL34 FVRS1LAC | Financial | Debenture | 0.23%
+Name | Sector | Instruments | Assets | BANK OF BARODA SR XXV 7.75 BD 21DC33 FVRS1CR | Financial | Bonds | 0.23%
+---
+[150] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=764 tokens=191
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 7.57 NCD 03AP30 FVRS1LAC | Financial | Non Convertible Debenture | 0.23%
+Name | Sector | Instruments | Assets | PUNJAB NATIONAL BANK SR III 7.34 BD 14FB35 FVRS1LAC | Financial | Bonds | 0.23%
+Name | Sector | Instruments | Assets | Alkem Laboratories Ltd | Healthcare | Equity | 0.23%
+Name | Sector | Instruments | Assets | BANK OF BARODA CD 06JAN27 | Financial | Certificate of Deposit | 0.23%
+Name | Sector | Instruments | Assets | J Kumar Infraprojects Ltd | Industrials | Equity | 0.23%
+Name | Sector | Instruments | Assets | INDIA UNIVERSAL TRUST AL1 SERIES A3 PTC 25SEP24 | Unspecified | Securitised Debt | 0.21%
+Name | Sector | Instruments | Assets | NHPC Ltd | Energy & Utilities | Equity | 0.21%
+---
+[151] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=753 tokens=189
+Name | Sector | Instruments | Assets | Trent Ltd | Consumer Discretionary | Equity | 0.21%
+Name | Sector | Instruments | Assets | Time Technoplast Ltd | Materials | Equity | 0.21%
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 7.35 BD 02JN32 FVRS1LAC | Financial | Bonds | 0.21%
+Name | Sector | Instruments | Assets | Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 0.20%
+Name | Sector | Instruments | Assets | Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.20%
+Name | Sector | Instruments | Assets | CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD72 9.10 NCD 27JU31 FVRS1LAC | Financial | Non Convertible Debenture | 0.19%
+Name | Sector | Instruments | Assets | Tech Mahindra Ltd | Technology | Equity | 0.19%
+---
+[152] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=759 tokens=190
+Name | Sector | Instruments | Assets | STATE BANK OF INDIA SR I 7.81 BD 02NV38 FVRS1CR | Financial | Debenture | 0.19%
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 175 7.57 BD 18AP29 FVRS1LAC | Financial | Non Convertible Debenture | 0.19%
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 7.59 BD 08SP27 FVRS1LAC | Financial | Non Convertible Debenture | 0.19%
+Name | Sector | Instruments | Assets | PCBL Ltd | Materials | Equity | 0.19%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 446 7.65 NCD 19AG31 FVRS1LAC | Financial | Non Convertible Debenture | 0.18%
+Name | Sector | Instruments | Assets | SUNDARAM FINANCE LIMITED SR Z7 7.24 NCD 14FB28 FVRS1LAC | Financial | Debenture | 0.18%
+---
+[153] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=810 tokens=203
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC | Financial | Bonds | 0.18%
+Name | Sector | Instruments | Assets | MAHANAGAR TELEPHONE NIGAM LIMITED. SR VIII TR C 7.80 BD 07NV33 FVRS1LAC | Technology | Non Convertible Debenture | 0.18%
+Name | Sector | Instruments | Assets | Tega Industries Ltd | Industrials | Equity | 0.18%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36288 MP 06AG43 7.22 FV RS 100 | Unspecified | State Development Loan | 0.18%
+Name | Sector | Instruments | Assets | Ashoka Buildcon Ltd | Industrials | Equity | 0.18%
+Name | Sector | Instruments | Assets | Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.18%
+Name | Sector | Instruments | Assets | CESC Ltd | Energy & Utilities | Equity | 0.17%
+---
+[154] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=790 tokens=198
+Name | Sector | Instruments | Assets | Ashok Leyland Ltd | Industrials | Equity | 0.17%
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Industrials | Equity | 0.17%
+Name | Sector | Instruments | Assets | Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.16%
+Name | Sector | Instruments | Assets | CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD80 8.88 NCD 25JU33 FVRS1LAC | Financial | Non Convertible Debenture | 0.16%
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 180 7.39 BD 15JL34 FVRS1LAC | Financial | Debenture | 0.16%
+Name | Sector | Instruments | Assets | Asian Paints Ltd | Materials | Equity | 0.16%
+Name | Sector | Instruments | Assets | 7.35% RECL 31 JULY 2034 | Financial | Bonds | 0.15%
+---
+[155] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=746 tokens=187
+Name | Sector | Instruments | Assets | Garden Reach Shipbuilders & Engineers Ltd | Industrials | Equity | 0.15%
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24E 7.80 BD 15MR27 FVRS1LAC | Financial | Debenture | 0.15%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36290 MP 06AG48 7.22 FV RS 100 | Unspecified | State Development Loan | 0.15%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 438 7.8350 NCD 11MY27 FVRS1LAC | Financial | Debenture | 0.14%
+Name | Sector | Instruments | Assets | CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.14%
+Name | Sector | Instruments | Assets | Shriram Transport Finance Company Ltd | Financial | Equity | 0.14%
+---
+[156] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=755 tokens=189
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VI 7.79 BD 14MY27 FVRS1LAC | Financial | Debenture | 0.14%
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 23I 7.62 LOA 31JN28 FVRS1LAC | Financial | Debenture | 0.14%
+Name | Sector | Instruments | Assets | Cipla Ltd | Healthcare | Equity | 0.14%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 451 7.66 NCD 11DC29 FVRS 1LAC | Financial | Bonds | 0.14%
+Name | Sector | Instruments | Assets | MUTHOOT FINANCE LIMITED RR NCD 26JL29 FVRS1LAC | Financial | Debenture | 0.14%
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 192 BD 01DC35 FVRS1LAC | Financial | Bonds | 0.14%
+---
+[157] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=832 tokens=208
+Name | Sector | Instruments | Assets | POWER GRID CORPORATION OF INDIA LIMITED SR LXXX 7.12 BD 24DC34 FVRS1LAC | Energy & Utilities | Bonds | 0.14%
+Name | Sector | Instruments | Assets | YES BANK LIMITED CD 11MAR27 | Financial | Certificate of Deposit | 0.13%
+Name | Sector | Instruments | Assets | India Universal Trust AL1 Sec. Debt 8.09 21/11/2027 | Unspecified | Securitised Debt | 0.13%
+Name | Sector | Instruments | Assets | HDFC Life Insurance Co Ltd | Financial | Equity | 0.13%
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 187 7.28 BD 14FB40 FVRS1LAC | Financial | Bonds | 0.13%
+Name | Sector | Instruments | Assets | DLF Ltd | Real Estate | Equity | 0.13%
+Name | Sector | Instruments | Assets | SUNDARAM FINANCE LIMITED SR Z8 7.45 NCD 16MR29 FVRS1LAC | Financial | Debenture | 0.13%
+---
+[158] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=825 tokens=207
+Name | Sector | Instruments | Assets | TATA CAPITAL HOUSING FINANCE LIMITED SR D OP II 7.8 NCD 05AG27 FVRS10LAC | Financial | Debenture | 0.12%
+Name | Sector | Instruments | Assets | Gujarat Industries Power Company Ltd | Energy & Utilities | Equity | 0.12%
+Name | Sector | Instruments | Assets | Aditya Birla Sun Life AMC Ltd | Financial | Equity | 0.12%
+Name | Sector | Instruments | Assets | HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR F 7.37 NCD 12MR35 FVRS1LAC | Financial | Non Convertible Debenture | 0.11%
+Name | Sector | Instruments | Assets | Info Edge (India) Ltd | Technology | Equity | 0.11%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100 | Entities | GOI Securities | 0.11%
+Name | Sector | Instruments | Assets | Bandhan Bank Ltd | Financial | Equity | 0.11%
+---
+[159] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=820 tokens=205
+Name | Sector | Instruments | Assets | SBI Cards & Payments Services Ltd | Financial | Equity | 0.11%
+Name | Sector | Instruments | Assets | BAJAJ HOUSING FINANCE LIMITED NCD 7.50 09AP35 FVRS1LAC | Financial | Non Convertible Debenture | 0.11%
+Name | Sector | Instruments | Assets | Tata Motors Ltd | Consumer Discretionary | Equity | 0.11%
+Name | Sector | Instruments | Assets | Jio Financial Services Limited | Financial | Equity | 0.11%
+Name | Sector | Instruments | Assets | JAMNAGAR UTILITIES & POWER PRIVATE LIMITED SR PPD8 7.43 LOA 24OT34 FVRS1LAC | Industrials | Debenture | 0.11%
+Name | Sector | Instruments | Assets | PIPELINE INFRASTRUCTURE LIMITED SR 2 7.96 NCD 11MR28 FVRS1AC | Industrials | Debenture | 0.11%
+Name | Sector | Instruments | Assets | Dr. Reddy's Laboratories Ltd | Healthcare | Equity | 0.11%
+---
+[160] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=737 tokens=185
+Name | Sector | Instruments | Assets | Whirlpool Of India Ltd | Consumer Discretionary | Equity | 0.11%
+Name | Sector | Instruments | Assets | LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.11%
+Name | Sector | Instruments | Assets | Swiggy Ltd. | Technology | Equity | 0.11%
+Name | Sector | Instruments | Assets | Avenue Supermarts Ltd | Consumer Staples | Equity | 0.10%
+Name | Sector | Instruments | Assets | Blue Dart Express Ltd | Industrials | Equity | 0.10%
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 33071 GOI 19JU53 7.3 FV RS 100 | Entities | GOI Securities | 0.10%
+Name | Sector | Instruments | Assets | REC LIMITED SR 199 7.96 BD 15JU30 FVRS10LAC | Financial | Non Convertible Debenture | 0.10%
+---
+[161] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=834 tokens=209
+Name | Sector | Instruments | Assets | POWER FINANCE CORPORATION LIMITED SR 246B 7.38 BD 15JN32 FVRS1LAC | Financial | Bonds | 0.10%
+Name | Sector | Instruments | Assets | JSW Energy Ltd | Energy & Utilities | Equity | 0.10%
+Name | Sector | Instruments | Assets | LIC Housing Finance Ltd Debenture 8.75 08/12/2028 | Financial | Debenture | 0.10%
+Name | Sector | Instruments | Assets | 7.71% GOI 18-May-2066 | Entities | GOI Securities | 0.09%
+Name | Sector | Instruments | Assets | KOTAK MAHINDRA INVESTMENTS LIMITED 8.1929 NCD 28JN27 FVRS1LAC | Financial | Bonds/NCDs | 0.09%
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IV 7.79 BD 19AP27 FVRS1LAC | Financial | Bonds | 0.09%
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 7.51 BD 04AP31 FVRS1LAC | Financial | Bonds/NCDs | 0.09%
+---
+[162] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=790 tokens=198
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 7.59 BD 14JL27 FVRS1LAC | Financial | Debenture | 0.09%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 440 7.87 NCD 14MY29 FVRS1LAC | Financial | Debenture | 0.09%
+Name | Sector | Instruments | Assets | TOYOTA FINANCIAL SERVICES INDIA LIMITED SR S40 8.15 LOA 07SP26 FVRS1LAC | Financial | Debenture | 0.09%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LIMITED TR- 353 7.75 LOA 23NV27 FVRS10LAC | Financial | Non Convertible Debenture | 0.09%
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 8.08 NCD 20MY36 FVRS1LAC | Financial | Debenture | 0.09%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LIMITED TR 434 OP I 7.70 LOA 16MY28 FVRS10LAC | Financial | Debenture | 0.09%
+---
+[163] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=831 tokens=208
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LIMITED TR 417 OPT I 6.40 LOA 30NV26 FVRS10LAC | Financial | Debenture | 0.09%
+Name | Sector | Instruments | Assets | CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR 665 RR NCD 27FB29 FVRS1LAC | Financial | Debenture | 0.09%
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 7.61 BD 10AG29 FVRS1LAC | Financial | Bonds | 0.09%
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 181 7.37 BD 31JL29 FVRS1LAC | Financial | Non Convertible Debenture | 0.09%
+Name | Sector | Instruments | Assets | Jubilant FoodWorks Ltd | Consumer Discretionary | Equity | 0.09%
+Name | Sector | Instruments | Assets | TATA CAPITAL LIMITED SR B RR NCD 21FB29 FVRS1LAC | Financial | Non Convertible Debenture | 0.09%
+---
+[164] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=724 tokens=181
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36384 AP 03SP37 7.63 FV RS 100 | Financial | State Development Loan | 0.09%
+Name | Sector | Instruments | Assets | POWER FINANCE CORPORATION LIMITED SR 247A 7.44 BD 15JN30 FVRS1LAC | Financial | Bonds | 0.09%
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC | Financial | Bonds | 0.09%
+Name | Sector | Instruments | Assets | POWER FINANCE CORPORATION LIMITED SR 258A 6.92 BD 16FB28 FVRS1LAC | Financial | Debenture | 0.09%
+Name | Sector | Instruments | Assets | HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR D 6.64 NCD 17JL28 FVRS1LAC | Financial | Non Convertible Debenture | 0.09%
+---
+[165] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=760 tokens=190
+Name | Sector | Instruments | Assets | POWER FINANCE CORPORATION LIMITED SR 247B 7.40 BD 15JN35 FVRS1LAC | Financial | Bonds | 0.09%
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25F 7.37 BD 28MY35 FVRS1LAC | Financial | Bonds | 0.09%
+Name | Sector | Instruments | Assets | Indraprastha Gas Ltd | Energy & Utilities | Equity | 0.09%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36558 MP 01OT45 7.48 FV RS 100 | Unspecified | State Development Loan | 0.09%
+Name | Sector | Instruments | Assets | BAJAJ FINANCE LIMITED 7.70 NCD 04OT34 FVRS1LAC | Financial | Bonds/Debentures | 0.09%
+Name | Sector | Instruments | Assets | UNION BANK OF INDIA CD 19JAN27 | Financial | Certificate of Deposit | 0.09%
+---
+[166] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=840 tokens=210
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 30969 MP 17NV41 6.99 FV RS 100 | Unspecified | State Development Loan | 0.09%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36739 GUJ 26NV33 7.07 FV RS 100 | Industrials | State Development Loan | 0.08%
+Name | Sector | Instruments | Assets | UTI Asset Management Company Ltd | Financial | Equity | 0.08%
+Name | Sector | Instruments | Assets | Tenneco Clean Air India Ltd. | Consumer Discretionary | Equity | 0.08%
+Name | Sector | Instruments | Assets | Texmaco Rail & Engineering Ltd | Industrials | Equity | 0.07%
+Name | Sector | Instruments | Assets | REC LIMITED SR 233 7.53 BD 31MY34 FVRS1LAC | Financial | Bonds | 0.07%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36381 AP 03SP33 7.48 FV RS 100 | Financial | State Development Loan | 0.07%
+---
+[167] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=807 tokens=202
+Name | Sector | Instruments | Assets | Aegis Vopak Terminals Ltd. | Energy & Utilities | Equity | 0.07%
+Name | Sector | Instruments | Assets | Zee Entertainment Enterprises Ltd | Consumer Discretionary | Equity | 0.07%
+Name | Sector | Instruments | Assets | Indian Railway Finance Corporation Ltd Debenture 7.49 30/05/2027 | Financial | Debenture | 0.07%
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 178 7.46 BD 18JU29 FVRS1LAC | Financial | Non Convertible Debenture | 0.07%
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR V 7.22 BD 10AP29 FVRS1LAC | Financial | Debenture | 0.07%
+Name | Sector | Instruments | Assets | L&T METRO RAIL (HYDERABAD) LIMITED 7.55 NCD 28AP35 FVRS1LAC | Industrials | Non Convertible Debenture | 0.07%
+---
+[168] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=780 tokens=195
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 36320 GOI 18AG55 7.24 FV RS 100 | Entities | GOI Securities | 0.07%
+Name | Sector | Instruments | Assets | Home First Finance Company India Ltd | Financial | Equity | 0.07%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36720 RAJ 19NV37 7.29 FV RS 100 | Unspecified | State Development Loan | 0.06%
+Name | Sector | Instruments | Assets | PB Fintech Ltd | Financial | Equity | 0.06%
+Name | Sector | Instruments | Assets | NUVOCO Vistas Corp Ltd | Materials | Equity | 0.06%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36383 AP 03SP36 7.62 FV RS 100 | Financial | State Development Loan | 0.06%
+Name | Sector | Instruments | Assets | ITC Hotels Ltd | Consumer Discretionary | Equity | 0.06%
+---
+[169] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=767 tokens=192
+Name | Sector | Instruments | Assets | Vodafone Idea Ltd | Technology | Equity | 0.06%
+Name | Sector | Instruments | Assets | Milky Mist Dairy Food Ltd. | Consumer Staples | Equity | 0.06%
+Name | Sector | Instruments | Assets | Housing & Urban Development Corporation Ltd | Financial | Equity | 0.06%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36382 AP 03SP34 7.48 FV RS 100 | Financial | State Development Loan | 0.06%
+Name | Sector | Instruments | Assets | IIFL Wealth Management Ltd | Financial | Equity | 0.06%
+Name | Sector | Instruments | Assets | Torrent Power Ltd | Energy & Utilities | Equity | 0.05%
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR Y005 6.83 NCD 08JN31 FVRS10LAC | Financial | Non Convertible Debenture | 0.05%
+---
+[170] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=820 tokens=205
+Name | Sector | Instruments | Assets | BHARTI TELECOM LIMITED SR XXIX 7.75 NCD 29FB28 FVRS1LAC | Technology | Debenture | 0.05%
+Name | Sector | Instruments | Assets | Persistent Systems Ltd | Technology | Equity | 0.05%
+Name | Sector | Instruments | Assets | Westlife Development Ltd | Consumer Discretionary | Equity | 0.05%
+Name | Sector | Instruments | Assets | Bharti Hexacom Ltd. | Technology | Equity | 0.05%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 37672 TN 15JL34 7.39 FV RS 100 | Unspecified | State Development Loan | 0.05%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33844 GUJ 17JN33 7.64 FV RS 100 | Industrials | State Development Loan | 0.05%
+Name | Sector | Instruments | Assets | GRASIM INDUSTRIES LIMITED SR II 7.63 LOA 01DC27 FVRS10LAC | Materials | Bonds | 0.05%
+---
+[171] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=814 tokens=204
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24C 7.83 BD 30DC26 FVRS1LAC | Financial | Bonds/NCDs | 0.05%
+Name | Sector | Instruments | Assets | 7.90% LIC Housing Finance Ltd NCD 23-06-2027 | Financial | Bonds | 0.05%
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR US003 7.70 NCD 16MY28 FVRS1LAC | Financial | Debenture | 0.05%
+Name | Sector | Instruments | Assets | GRASIM INDUSTRIES LIMITED SR I 7.50 LOA 10JU27 FVRS10LAC | Materials | Debenture | 0.05%
+Name | Sector | Instruments | Assets | Union Bank of India SR-XX Additional Tier 1 Bo 9.50 | Financial | Additional Tier 1 Bond | 0.05%
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.55 BD 22SP26 FVRS1LAC | Financial | Non Convertible Debenture | 0.05%
+---
+[172] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=801 tokens=201
+Name | Sector | Instruments | Assets | Power Grid Corporation of India Ltd Debenture 7.30 19/06/2027 | Energy & Utilities | Debenture | 0.05%
+Name | Sector | Instruments | Assets | INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 172B 7.45 BD 13OT28 FVRS1LAC | Financial | Bonds/NCDs | 0.05%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 37119 BH 25FB41 7.72 FV RS 100 | Unspecified | State Development Loan | 0.05%
+Name | Sector | Instruments | Assets | INDIAN OIL CORPORATION LIMITED SR XXVII 7.25 NCD 06JN30 FVRS1LAC | Energy & Utilities | Non Convertible Debenture | 0.05%
+Name | Sector | Instruments | Assets | 7.48 SIDBI 24.05.2029 | Financial | Bonds | 0.05%
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR US002 7.80 NCD 03MY33 FVRS1LAC | Financial | Debenture | 0.05%
+---
+[173] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=777 tokens=195
+Name | Sector | Instruments | Assets | SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR III 7.34 BD 26FB29 FVRS1LAC | Financial | Bonds | 0.05%
+Name | Sector | Instruments | Assets | BHARTI TELECOM LIMITED SR XXX 7.85 NCD 20MR29 FVRS1LAC | Technology | Non Convertible Debenture | 0.05%
+Name | Sector | Instruments | Assets | HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR B 6.90 NCD 06MY30 FVRS1LAC | Financial | Debenture | 0.05%
+Name | Sector | Instruments | Assets | NATIONAL HOUSING BANK 6.80 BD 02AP32 FVRS1LAC | Financial | Bonds | 0.05%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 36634 MH 23OT36 7.2 FV RS 100 | Unspecified | State Development Loan | 0.05%
+Name | Sector | Instruments | Assets | Fortis Healthcare Ltd | Healthcare | Equity | 0.04%
+---
+[174] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=838 tokens=210
+Name | Sector | Instruments | Assets | Ceigall India Ltd. | Industrials | Equity | 0.04%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33876 GUJ 24JN33 7.63 FV RS 100 | Industrials | State Development Loan | 0.04%
+Name | Sector | Instruments | Assets | ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.04%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 37125 HAR 25FB41 7.67 FV RS 100 | Unspecified | State Development Loan | 0.04%
+Name | Sector | Instruments | Assets | Devyani International Ltd | Consumer Discretionary | Equity | 0.04%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33845 GUJ 17JN34 7.64 FV RS 100 | Industrials | State Development Loan | 0.04%
+Name | Sector | Instruments | Assets | Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 0.04%
+---
+[175] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=778 tokens=195
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25A 7.70 BD 30SP27 FVRS1LAC | Financial | Debenture | 0.03%
+Name | Sector | Instruments | Assets | LIC HOUSING FINANCE LTD TR 454 7.58 NCD 23MR35 FVRS1LAC | Financial | Non Convertible Debenture | 0.03%
+Name | Sector | Instruments | Assets | RHI Magnesita India Ltd | Materials | Equity | 0.03%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 37493 GUJ 10JU37 7.63 FV RS 100 | Industrials | State Development Loan | 0.03%
+Name | Sector | Instruments | Assets | RURAL ELECTRIFICATION CORPORATION LIMITED SR GOI-IV 8.70 BD 28SP28 FVRS10LAC | Financial | Zero Coupon Bonds | 0.03%
+Name | Sector | Instruments | Assets | SBI Funds Management Ltd | Financial | Equity | 0.03%
+---
+[176] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=842 tokens=211
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 35031 GOI 07OT34 6.79 FV RS 100 | Entities | GOI Securities | 0.03%
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR W010 7.40 NCD 28FB30 FVRS10LAC | Financial | Fixed Deposits | 0.03%
+Name | Sector | Instruments | Assets | Uttar Pradesh State Government Securities (20/03/2036) | Unspecified | State Development Loan | 0.03%
+Name | Sector | Instruments | Assets | Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 0.03%
+Name | Sector | Instruments | Assets | Ramco Systems Ltd | Technology | Equity | 0.03%
+Name | Sector | Instruments | Assets | Medi Assist Healthcare Services Ltd. | Industrials | Equity | 0.03%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33877 GUJ 24JN34 7.63 FV RS 100 | Industrials | State Development Loan | 0.03%
+---
+[177] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=840 tokens=210
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 33002 GOI 12JU63 7.25 FV RS 100 | Entities | GOI Securities | 0.03%
+Name | Sector | Instruments | Assets | HDFC BANK LIMITED SR Z007 7.10 NCD 12NV31 FVRS10LAC | Financial | Debenture | 0.03%
+Name | Sector | Instruments | Assets | Coromandel International Ltd | Materials | Equity | 0.02%
+Name | Sector | Instruments | Assets | Chambal Fertilisers & Chemicals Ltd | Materials | Equity | 0.02%
+Name | Sector | Instruments | Assets | 7.75% IRFC NCD RED 15-04-2033** | Financial | Debenture | 0.02%
+Name | Sector | Instruments | Assets | AXIS FINANCE LIMITED SR 03 RR NCD 11JN29 FVRS1LAC | Financial | Non Convertible Debenture | 0.02%
+Name | Sector | Instruments | Assets | NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC | Financial | Bonds | 0.02%
+---
+[178] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=831 tokens=208
+Name | Sector | Instruments | Assets | GOI Sec 7.23 15/04/2039 | Entities | GOI Securities | 0.02%
+Name | Sector | Instruments | Assets | SANSAR TRUST JULY 2023 II SERIES A1 PTC 07AUG23 | Financial | Securitised Debt | 0.02%
+Name | Sector | Instruments | Assets | TruAlt Bioenergy Ltd. | Energy & Utilities | Equity | 0.02%
+Name | Sector | Instruments | Assets | Aditya Infotech Ltd. | Technology | Equity | 0.02%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 34136 MH 22MR39 7.45 FV RS 100 | Unspecified | State Development Loan | 0.02%
+Name | Sector | Instruments | Assets | L&T Finance Holdings Ltd | Financial | Equity | 0.02%
+Name | Sector | Instruments | Assets | BEML Land Assets Ltd. | Real Estate | Equity | 0.02%
+Name | Sector | Instruments | Assets | Fusion Micro Finance Ltd | Financial | Equity | 0.02%
+---
+[179] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=824 tokens=206
+Name | Sector | Instruments | Assets | Gsec C-STRIPS Mat 17-June-2028 | Entities | GOI Securities | 0.02%
+Name | Sector | Instruments | Assets | Bajaj Housing Finance Ltd. | Financial | Equity | 0.02%
+Name | Sector | Instruments | Assets | Varun Beverages Ltd | Consumer Staples | Equity | 0.01%
+Name | Sector | Instruments | Assets | Emcure Pharmaceuticals Ltd. | Healthcare | Equity | 0.01%
+Name | Sector | Instruments | Assets | Paradeep Phosphates Ltd | Materials | Equity | 0.01%
+Name | Sector | Instruments | Assets | Shiprocket Ltd. | Technology | Equity | 0.01%
+Name | Sector | Instruments | Assets | Tata Chemicals Ltd | Materials | Equity | 0.01%
+Name | Sector | Instruments | Assets | Union Bank of India | Financial | Equity | 0.01%
+Name | Sector | Instruments | Assets | Rites Ltd | Industrials | Equity | 0.01%
+---
+[180] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=832 tokens=208
+Name | Sector | Instruments | Assets | Star Health & Allied Insurance Co. Ltd | Financial | Equity | 0.01%
+Name | Sector | Instruments | Assets | Campus Activewear Ltd | Consumer Discretionary | Equity | 0.01%
+Name | Sector | Instruments | Assets | UPL Ltd | Materials | Equity | 0.01%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 33896 MH 31JN35 7.63 FV RS 100 | Unspecified | State Development Loan | 0.01%
+Name | Sector | Instruments | Assets | JNK India Ltd. | Industrials | Equity | 0.01%
+Name | Sector | Instruments | Assets | Tamil Nadu Newsprint & Papers Ltd | Materials | Equity | 0.01%
+Name | Sector | Instruments | Assets | Aster DM Healthcare Ltd | Healthcare | Equity | 0.01%
+Name | Sector | Instruments | Assets | Raajmarg Infra Investment Trust | Industrials | Infrastructure Investment Trust | 0.01%
+---
+[181] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=796 tokens=199
+Name | Sector | Instruments | Assets | Kwality Walls India Ltd | Consumer Staples | Equity | 0.00%
+Name | Sector | Instruments | Assets | CENTRAL GOVERNMENT LOAN 30951 GOI 15DC51 6.99 FV RS 100 | Entities | GOI Securities | 0.00%
+Name | Sector | Instruments | Assets | GOI Sec 7.17 17/04/2030 | Entities | GOI Securities | 0.00%
+Name | Sector | Instruments | Assets | CENTRAL GOVERNMENT LOAN 29633 GOI 17DC50 6.67 FV RS 100 | Entities | GOI Securities | 0.00%
+Name | Sector | Instruments | Assets | STATE DEVELOPMENT LOAN 34101 CHT 20MR34 7.47 FV RS 100 | Unspecified | State Development Loan | 0.00%
+Name | Sector | Instruments | Assets | S Chand And Co Ltd | Consumer Discretionary | Equity | 0.00%
+Name | Sector | Instruments | Assets | CMR Green Technologies Ltd. | Materials | Equity | 0.00%
+---
+[182] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=518 tokens=130
+Name | Sector | Instruments | Assets | GOVERNMENT OF INDIA 32584 GOI 06FB33 7.26 FV RS 100 | Entities | GOI Securities | 0.00%
+Name | Sector | Instruments | Assets | Tata Consumer Products Ltd | Consumer Staples | Equity | 0.00%
+Name | Sector | Instruments | Assets | Indus Towers Ltd | Technology | Equity | 0.00%
+Name | Sector | Instruments | Assets | MEP Infrastructure Developers Ltd | Industrials | Equity | 0.00%
+Name | Sector | Instruments | Assets | AGS Transact Technologies Ltd | Industrials | Equity | 0.00%
+---
+[183] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Minimum investments | chars=75 tokens=19
+Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+---
+[184] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Returns and rankings | chars=62 tokens=16
+Annualised returns Absolute returns
+Name | 3Y | 5Y | 10Y | All
+---
+[185] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Returns and rankings | chars=281 tokens=71
+Name | 3Y | 5Y | 10Y | All | Fund returns | +10.2% | +13.3% | +13.4% | +14.2%
+Name | 3Y | 5Y | 10Y | All | Category average ( Hybrid Dynamic Asset Allocation ) | +9.4% | +8.9% | +10.1% | +10.9%
+Name | 3Y | 5Y | 10Y | All | Rank ( Hybrid Dynamic Asset Allocation ) | 9 | 1 | -- | --
+---
+[186] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | exit_load | Exit load, stamp duty and tax | chars=158 tokens=40
+Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.
+Stamp duty on investment: 0.005% (from July 1st, 2020)
+---
+[187] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | exit_load | Tax implication | chars=173 tokens=44
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+---
+[188] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Compare similar funds | chars=643 tokens=161
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Aditya Birla Sun Life Balanced Advantage Fund Direct Growth | +5.70% | +11.13% | 10,125.44
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | ICICI Prudential Balanced Advantage Direct Growth | +2.66% | +10.36% | 75,399.17
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | HDFC Balanced Advantage Fund Direct Growth | -1.43% | +10.20% | 1,07,295.79
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | Nippon India Balanced Advantage Fund Direct Growth | +1.81% | +9.86% | 9,917.50
+ | Name | 1Y | 3Y | Fund Size(Cr) |  | DSP Dynamic Asset Allocation Fund Direct Growth | +2.54% | +9.81% | 3,821.11
+ | Name | 1Y | 3Y | Fund Size(Cr) | Compare
+---
+[189] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=63 tokens=16
+Fund management
+AB Anil Bamboli Jul 2022 - Present View details
+---
+[190] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | AB Anil Bamboli Jul 2022 - Present View details | chars=850 tokens=213
+Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years. Also manages these schemes HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth
+---
+[191] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | AB Anil Bamboli Jul 2022 - Present View details | chars=602 tokens=151
+Also manages these schemes HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Gilt Fund Direct Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Short Term Fund Direct Plan Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Income Plus Arbitrage Active FoF Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Multi Asset Active FoF Direct Growth HDFC Children's Fund Direct Plan
+---
+[192] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=47 tokens=12
+AA Arun Agarwal Oct 2022 - Present View details
+---
+[193] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | AA Arun Agarwal Oct 2022 - Present View details | chars=849 tokens=213
+Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next
+---
+[194] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | AA Arun Agarwal Oct 2022 - Present View details | chars=849 tokens=213
+Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY 50 ETF IDCW HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 I
+---
+[195] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | benchmark | AA Arun Agarwal Oct 2022 - Present View details | chars=850 tokens=213
+Y 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC BSE Sensex ETF HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth HDFC BSE REIT
+---
+[196] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | benchmark | AA Arun Agarwal Oct 2022 - Present View details | chars=491 tokens=123
+25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
+---
+[197] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=48 tokens=12
+DM Dhruv Muchhal Jun 2023 - Present View details
+---
+[198] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Dir
+---
+[199] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+, Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes HDFC Flexi Cap Direct Plan Growth HDFC Value Fund Direct Plan Growth HDFC Ultra Short to Short Term Fund Direct Growth HDFC Focused Fund Direct Growth HDFC Floating Interest Rates Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC Dynamic Term Fund Direct Plan Growth HDFC Medium Term Fund Direct Growth HDFC Medium to Long Term Fund Direct Growth HDFC Infrastructure Fund Direct Growth HDFC Corporate Bond Fund Direct Plan Growth HDFC Conservative Hybrid Fund Direct Growth HDFC Mid Cap Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Grow
+---
+[200] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=850 tokens=213
+on Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Short Term Fund Direct Plan Growth HDFC ELSS Tax Saver Fund Direct Plan Growth HDFC Large Cap Fund Direct Growth HDFC Credit Risk Fund Direct Growth HDFC Banking and PSU Debt Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Small Cap Fund Direct Growth HDFC Ultra Short Term Fund Direct Growth HDFC Liquid Direct Plan Growth HDFC Overnight Fund Direct Growth HDFC Money Market Fund Direct Growth HDFC Housing Opportunities Fund Direct Growth HDFC Banking & Financial Services Fund Direct Growth HDFC Multi Cap Fund Direct Growth HDFC Business Cycle Fund Direct Growth HDFC Long Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logis
+---
+[201] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | DM Dhruv Muchhal Jun 2023 - Present View details | chars=359 tokens=90
+Term Fund Direct Growth HDFC MNC Fund Direct Growth HDFC Defence Fund Direct Growth HDFC Consumption Fund Direct Growth HDFC Transportation and Logistics Fund Direct Growth HDFC Technology Fund Direct Growth HDFC Pharma And Healthcare Fund Direct Growth HDFC Manufacturing Fund Direct Growth HDFC Children's Fund Direct Plan HDFC Innovation Fund Direct Growth
+---
+[202] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=50 tokens=13
+NM Nandita Menezes Mar 2025 - Present View details
+---
+[203] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | NM Nandita Menezes Mar 2025 - Present View details | chars=850 tokens=213
+Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP. Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Inde
+---
+[204] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | NM Nandita Menezes Mar 2025 - Present View details | chars=849 tokens=213
+Also manages these schemes HDFC Gold ETF Fund of Fund Direct Plan Growth HDFC Balanced Advantage Fund Direct Growth HDFC NIFTY 50 Index Fund Direct Growth HDFC BSE Sensex Index Fund Direct Growth HDFC Equity Savings Direct Plan Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Arbitrage Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC NIFTY50 Equal Weight Index Fund Direct Growth HDFC Developed World Overseas Equity Passive FoF Direct Growth HDFC NIFTY Next 50 Index Fund Direct Growth HDFC NIFTY 100 Index Fund Direct Growth HDFC NIFTY 100 Equal Weight Index Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth
+---
+[205] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | benchmark | NM Nandita Menezes Mar 2025 - Present View details | chars=850 tokens=213
+x Fund Direct Growth HDFC Silver ETF FoF Direct Growth HDFC NIFTY Midcap 150 Index Fund Direct Growth HDFC Nifty Smallcap 250 Index Fund Direct Growth HDFC BSE 500 Index Fund Direct Growth HDFC NIFTY200 Momentum 30 Index Fund Direct Growth HDFC NIFTY Realty Index Fund Direct Growth HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth HDFC BSE REIT
+---
+[206] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | benchmark | NM Nandita Menezes Mar 2025 - Present View details | chars=534 tokens=134
+25 Index Fund Direct Growth HDFC Nifty LargeMidcap 250 Index Fund Direct Growth HDFC Nifty India Digital Index Fund Direct Growth HDFC Nifty100 Quality 30 Index Fund Direct Growth HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth HDFC BSE India Sector Leaders Index Fund Direct Growth HDFC Nifty India Consumption Index Fund Direct Growth HDFC Gold Silver Passive FoF Direct Growth HDFC Nifty Auto Index Fund Direct Growth HDFC Nifty Metal ETF FoF Direct Growth HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
+---
+[207] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=48 tokens=12
+GA Gopal Agrawal Jul 2022 - Present View details
+---
+[208] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | GA Gopal Agrawal Jul 2022 - Present View details | chars=547 tokens=137
+Education Mr.Agrawal is a B.E and MBM. Experience Prior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL. Also manages these schemes HDFC Balanced Advantage Fund Direct Growth HDFC Large & Mid Cap Fund Direct Growth HDFC Retirement Fund Equity Plan Direct Growth HDFC Retirement Fund Hybrid Equity Plan Direct Growth HDFC Retirement Fund Hybrid Debt Plan Direct Growth HDFC Dividend Yield Fund Direct Growth
+---
+[209] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=46 tokens=12
+ID Ihab Dalwai Sep 2026 - Present View details
+---
+[210] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | ID Ihab Dalwai Sep 2026 - Present View details | chars=397 tokens=100
+Education Mr. Dalwai is a Chartered Accountant. Experience Prior to joining the HDFC AMC, he was associated with ICICI Prudential AMC. Also manages these schemes HDFC Balanced Advantage Fund Direct Growth HDFC Multi Asset Allocation Fund Direct Growth HDFC Aggressive Hybrid Fund Direct Plan Growth HDFC Multi Asset Active FoF Direct Growth HDFC Diversified Equity All Cap Active FoF Direct Growth
+---
+[211] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Holdings ( 326 ) | chars=48 tokens=12
+About HDFC Balanced Advantage Fund Direct Growth
+---
+[212] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | About HDFC Balanced Advantage Fund Direct Growth | chars=649 tokens=163
+HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹549.92. The HDFC Balanced Advantage Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year. ;
+Investment Objective
+---
+[213] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | benchmark | Investment Objective | chars=209 tokens=53
+The Scheme seeks to provide long term capital appreciation / income from a dynamic mix of equity and debt investments.
+Fund benchmark NIFTY 50 Hybrid Composite Debt 50:50 Index Scheme Information Document(SID)
+---
+[214] https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth | scheme_page | general | Fund house | chars=480 tokens=120
+HDFC Mutual Fund Rank (total assets) #2 in India Total AUM ₹9,86,236.84 Cr Date of Incorporation 10 Dec 1999 Phone 022 - 66316333 E-mail [email protected] Website http://www.hdfcfund.com Launch Date 10 Dec 1999 Address "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian HDFC Bank Registrar & Transfer Agent Cams Email [email protected] Website www.camsonline.com Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+---
+footer
+chunks: 215
+dropped_chunks: 56
+chars_total: 107028
+tokens_total: 26835
+topics: benchmark=9, exit_load=10, expense_ratio=5, general=185, lockin_80c=1, nav=5
+sources: s1=29, s2=34, s3=32, s4=34, s5=86
